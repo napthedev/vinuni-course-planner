@@ -16,6 +16,8 @@ import {
   hasValidSchedule,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
+import { useIsMobile } from "@/hooks/use-mobile";
+import { AgendaView } from "@/components/agenda-view";
 
 interface WeeklyCalendarProps {
   courses: SelectedCourse[];
@@ -70,6 +72,7 @@ function getCourseColor(courseCode: string): string {
 }
 
 export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
+  const isMobile = useIsMobile();
   const timeLabels = useMemo(() => generateTimeLabels(), []);
   const totalHours = CALENDAR_END_HOUR - CALENDAR_START_HOUR;
 
@@ -125,6 +128,21 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
     };
   };
 
+  // Mobile: render agenda view
+  if (isMobile) {
+    return (
+      <Card>
+        <CardHeader className="pb-3">
+          <CardTitle className="text-lg">Weekly Schedule</CardTitle>
+        </CardHeader>
+        <CardContent className="p-4 pt-0">
+          <AgendaView courses={courses} />
+        </CardContent>
+      </Card>
+    );
+  }
+
+  // Desktop: render grid calendar
   return (
     <Card>
       <CardHeader className="pb-3">

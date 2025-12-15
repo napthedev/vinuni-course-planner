@@ -1,0 +1,5724 @@
+[
+    {
+        "Course": "MANA1011",
+        "Course Title": "Introduction to Managing Skills",
+        "Section": "IMSSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Marc Kramer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA1011",
+        "Course Title": "Introduction to Managing Skills",
+        "Section": "IMSSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Marc Kramer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA1011",
+        "Course Title": "Introduction to Managing Skills",
+        "Section": "IMSSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Marc Kramer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA1011",
+        "Course Title": "Introduction to Managing Skills",
+        "Section": "IMSSP264",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Marc Kramer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3020",
+        "Course Title": "Business Ethics",
+        "Section": "BESPR261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Tuan Dinh Anh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ACCT2010",
+        "Course Title": "Introduction to Financial Accounting",
+        "Section": "IFASP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Lien Nguyen Thi Huong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ACCT2010",
+        "Course Title": "Introduction to Financial Accounting",
+        "Section": "IFASP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Nguyen Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ACCT2010",
+        "Course Title": "Introduction to Financial Accounting",
+        "Section": "IFASP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Nguyen Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON1015",
+        "Course Title": "Managerial Economics",
+        "Section": "MAESP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Barkley Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON1015",
+        "Course Title": "Managerial Economics",
+        "Section": "MAESP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Barkley Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MARK1010",
+        "Course Title": "Marketing",
+        "Section": "MKTSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Dao Quynh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MARK1010",
+        "Course Title": "Marketing",
+        "Section": "MKTSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Dao Quynh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MARK1010",
+        "Course Title": "Marketing",
+        "Section": "MKTSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Dzung Vu Anh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ACCT2020",
+        "Course Title": "Introduction to Managerial Accounting",
+        "Section": "IMASP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Lien Nguyen Thi Huong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ACCT2020",
+        "Course Title": "Introduction to Managerial Accounting",
+        "Section": "IMASP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Lien Nguyen Thi Huong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "BANA3050",
+        "Course Title": "Management Information System",
+        "Section": "MISSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Eduard O. Merc",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "BANA3050",
+        "Course Title": "Management Information System",
+        "Section": "MISSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Eduard O. Merc",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "FINA2010",
+        "Course Title": "Financial Management",
+        "Section": "FIMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Alex Nguyen Thi Mai Lan",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "FINA2010",
+        "Course Title": "Financial Management",
+        "Section": "FIMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Hoon Lee Sang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "STAT2020",
+        "Course Title": "Business Statistics",
+        "Section": "BSTSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Linh Do Bao",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "STAT2020",
+        "Course Title": "Business Statistics",
+        "Section": "BSTSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Linh Do Bao",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "STAT2020",
+        "Course Title": "Business Statistics",
+        "Section": "BSTSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Linh Do Bao",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON1010",
+        "Course Title": "Introduction to Microeconomics",
+        "Section": "MICSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Barkley Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON1010",
+        "Course Title": "Introduction to Microeconomics",
+        "Section": "MICSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Barkley Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON1010",
+        "Course Title": "Introduction to Microeconomics",
+        "Section": "MICSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Barkley Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3030",
+        "Course Title": "Organizational Behaviour",
+        "Section": "OBHSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Thao Nguyen Phan Hanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3030",
+        "Course Title": "Organizational Behaviour",
+        "Section": "OBHSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Thao Nguyen Phan Hanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "LAW2010",
+        "Course Title": "Business Law",
+        "Section": "BULSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Khoi Dao Trong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "LAW2010",
+        "Course Title": "Business Law",
+        "Section": "BULSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Khoi Dao Trong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA4010",
+        "Course Title": "Strategic Management",
+        "Section": "SEMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Dao Quynh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA4010",
+        "Course Title": "Strategic Management",
+        "Section": "SEMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Young Un Kim",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "OLSM3010",
+        "Course Title": "Operations Management",
+        "Section": "SOMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Ree Van D Bo",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA4150",
+        "Course Title": "Business Research Methods",
+        "Section": "BRMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "My Nguyen Tra",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA4150",
+        "Course Title": "Business Research Methods",
+        "Section": "BRMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "My Nguyen Tra",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "OLSM4300",
+        "Course Title": "Project Management",
+        "Section": "PRMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Young Un Kim",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "OLSM4300",
+        "Course Title": "Project Management",
+        "Section": "PRMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Young Un Kim",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH1040",
+        "Course Title": "Business Mathematics",
+        "Section": "BUMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Phan Nguyen Ngoc",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH1040",
+        "Course Title": "Business Mathematics",
+        "Section": "BUMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Phan Nguyen Ngoc",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "FINA3010",
+        "Course Title": "Corporate Finance",
+        "Section": "COFSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Hoon Lee Sang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "FINA3030",
+        "Course Title": "Behavioural Finance",
+        "Section": "BEFSP261",
+        "Dates": "4/6/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Man Pham Duy",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "FINA3050",
+        "Course Title": "Applied Econometrics",
+        "Section": "AECSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "FINA4040",
+        "Course Title": "Portfolio Management",
+        "Section": "POMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Hoon Lee Sang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ENTR3010",
+        "Course Title": "Entrepreneurship Perspectives",
+        "Section": "ENPSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Marc Kramer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA4000",
+        "Course Title": "Business Model Innovation and  Design",
+        "Section": "BMISP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Tuan Dinh Anh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MARK3010",
+        "Course Title": "Consumer Behavior",
+        "Section": "COBSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Dan Nguyen Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MARK4040",
+        "Course Title": "Marketing Research",
+        "Section": "MKRSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Nayak Abhishek",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "BANA4010",
+        "Course Title": "Data Communication and Visualization",
+        "Section": "DCVSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Nayak Abhishek",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1030",
+        "Course Title": "Computational and Algorithmic Thinking",
+        "Section": "CATSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Sungdeok Cha",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "BANA4020",
+        "Course Title": "Computational Machine Learning for Business Analytics",
+        "Section": "CMLSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Eduard O. Merc",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "BANA4040",
+        "Course Title": "Predictive Analytics",
+        "Section": "PRASP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Minh Pham Tuan",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "OLSM3110",
+        "Course Title": "Total Quality Management",
+        "Section": "TQMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Giang Nguyen Thu",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "OLSM4250",
+        "Course Title": "Global Supply Chain Management and Strategy",
+        "Section": "SCMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Giang Nguyen Thu",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "OLSM4210",
+        "Course Title": "Technology and Product Innovation Management",
+        "Section": "TPISP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Nayak Abhishek",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "HADM2010",
+        "Course Title": "Revenue Management Principles and Practices",
+        "Section": "RMPSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Eric Olson",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "HADM3030",
+        "Course Title": "Hospitality Planning and Development",
+        "Section": "HPDSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Eric Olson",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "HADM1010",
+        "Course Title": "Fundamentals of Foodservice Management",
+        "Section": "FFMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "David VanHove",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA2020",
+        "Course Title": "Business Communication Skills for Managers",
+        "Section": "BCSPR261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Dan Nguyen Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH1020",
+        "Course Title": "Calculus II",
+        "Section": "CL2SP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nguyen Ngoc Doanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Monday",
+                "time": "9:00AM to 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH1020",
+        "Course Title": "Calculus II",
+        "Section": "CL2SP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nguyen Ngoc Doanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH1020",
+        "Course Title": "Calculus II",
+        "Section": "CL2SP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Khu Vu Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Monday",
+                "time": "9:00AM to 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH1020",
+        "Course Title": "Calculus II",
+        "Section": "CL2SP264",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Khu Vu Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1CSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Lich Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1CSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Lich Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1CSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Lich Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1CSP264",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Lich Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1ESP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Quynh Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1ESP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Quynh Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1ESP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Quynh Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM, 3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1010",
+        "Course Title": "Physics I",
+        "Section": "P1ESP264",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Quynh Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP1020",
+        "Course Title": "Object Oriented Programming and Data Structures",
+        "Section": "OPDSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Wong Kok-Seng",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 2:45PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM to 2:45PM"
+            },
+            {
+                "day": "Monday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP1020",
+        "Course Title": "Object Oriented Programming and Data Structures",
+        "Section": "OPDSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Wong Kok-Seng",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "10:30AM to 12:20PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 2:45PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM to 2:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "DATA1010",
+        "Course Title": "Introduction to Data Science",
+        "Section": "IDSSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Chu Thi Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "DATA1010",
+        "Course Title": "Introduction to Data Science",
+        "Section": "IDSSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Chu Thi Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC2030",
+        "Course Title": "Computer Systems Programming",
+        "Section": "CSPSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Cuong Do Danh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 2:45PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 2:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "CHEM2010",
+        "Course Title": "Chemistry",
+        "Section": "CHMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Vikrant Kumar",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "CHEM2010",
+        "Course Title": "Chemistry",
+        "Section": "CHMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Vikrant Kumar",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH2050",
+        "Course Title": "Linear Algebra",
+        "Section": "LALSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nguyen Ngoc Doanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "3:30PM to 4:45PM"
+            },
+            {
+                "day": "Friday",
+                "time": "3:30PM to 4:45PM"
+            },
+            {
+                "day": "Monday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH2050",
+        "Course Title": "Linear Algebra",
+        "Section": "LALSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nguyen Ngoc Doanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "3:30PM to 4:45PM"
+            },
+            {
+                "day": "Friday",
+                "time": "3:30PM to 4:45PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS2030",
+        "Course Title": "Physics III",
+        "Section": "PHY3SP26",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Quynh Le Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "8:00AM- 11:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "MECE3020",
+        "Course Title": "Thermodynamics",
+        "Section": "THMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Ahmad Hajjar",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:30AM- 11:45AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM- 11:45AM"
+            }
+        ]
+    },
+    {
+        "Course": "MECE3030",
+        "Course Title": "Dynamics",
+        "Section": "DNMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Truong Do Tho",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 2:45PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM- 2:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "MECE3060",
+        "Course Title": "Mechatronics",
+        "Section": "MECSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Nguyen Vu Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC2020",
+        "Course Title": "Signals and Information",
+        "Section": "SIISP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nidal Kamel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM to 2:45PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 2:45PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC3010",
+        "Course Title": "Digital Logic and Computer Organization",
+        "Section": "DLCSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nam Pham Ngoc",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Friday",
+                "time": "10:30AM to 12:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP2050",
+        "Course Title": "Artificial Intelligence",
+        "Section": "AINSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Leandro S. Marcolino",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "11:00AM to 12:15PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "11:00AM to 12:15PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP3010",
+        "Course Title": "Algorithm Design",
+        "Section": "ALDSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Wong Kok-Seng",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM to 10:50AM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM to 11:45AM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH4010",
+        "Course Title": "Advanced Probability and Statistics",
+        "Section": "APSSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Chu Thi Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 10:50AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP4010",
+        "Course Title": "Data Visualization",
+        "Section": "DVISP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Matthew Rolley",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 3:20PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP4020",
+        "Course Title": "Natural Language Processing",
+        "Section": "NLPSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "El-Haj Mo",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "3:30PM- 5:20PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP4030",
+        "Course Title": "Cybersecurity",
+        "Section": "CYBSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "nguyen dinh duc Nha",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 3:20PM"
+            },
+            {
+                "day": "Monday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP4040",
+        "Course Title": "Data Mining and Big Data Analytics",
+        "Section": "DMSPR261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Binh Nguyen Tuan",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 3:20PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP4040",
+        "Course Title": "Data Mining and Big Data Analytics",
+        "Section": "DMSPR262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Binh Nguyen Tuan",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 3:20PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP4050",
+        "Course Title": "Cryptography",
+        "Section": "CRPSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "nguyen dinh duc Nha",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "3:30PM- 5:20PM"
+            },
+            {
+                "day": "Friday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC3040",
+        "Course Title": "Digital Signal and Image Processing",
+        "Section": "DSISP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nidal Kamel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Monday",
+                "time": "10:30AM to 12:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC4030",
+        "Course Title": "Computer Networks and Telecommunications",
+        "Section": "CMTSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Sanei Saeid",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Friday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC4050",
+        "Course Title": "Control System Theory and Design",
+        "Section": "STDSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nguyen Vu Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Monday",
+                "time": "3:30PM to 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ELEC4060",
+        "Course Title": "Robotics and Automation",
+        "Section": "RBASP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Thai Mai Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "8:30AM to 10:20AM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM to 11:45AM"
+            }
+        ]
+    },
+    {
+        "Course": "MECE4120",
+        "Course Title": "Sensors and Actuators",
+        "Section": "SEASP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Nguyen Dang Tung",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:15AM"
+            },
+            {
+                "day": "Monday",
+                "time": "10:30AM to 12:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP3080",
+        "Course Title": "Course-related Project I",
+        "Section": "CP1SP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "1.00",
+        "Instructor": "Sungdeok Cha",
+        "Delivery Method": "Classroom",
+        "Schedule": []
+    },
+    {
+        "Course": "COMP3090",
+        "Course Title": "Course-related Project II",
+        "Section": "CP2SP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "1.00",
+        "Instructor": "Sungdeok Cha",
+        "Delivery Method": "Classroom",
+        "Schedule": []
+    },
+    {
+        "Course": "COMP5040##",
+        "Course Title": "Natural Language Processing",
+        "Section": "PNLSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "El-Haj Mo",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "3:30PM- 5:20PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP5090",
+        "Course Title": "Cryptography",
+        "Section": "PCRSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "nguyen dinh duc Nha",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "3:30PM- 5:20PM"
+            },
+            {
+                "day": "Friday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP5120##",
+        "Course Title": "Visualizations",
+        "Section": "PDVSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Trung Huynh Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 3:20PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1031",
+        "Course Title": "Computational Thinking",
+        "Section": "COTSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Sungdeok Cha",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1040",
+        "Course Title": "Introduction to AI Literacy",
+        "Section": "IALSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Zengchang Qin",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "3:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1040",
+        "Course Title": "Introduction to AI Literacy",
+        "Section": "IALSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Matthew Rolley",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "10:30AM- 12:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1040",
+        "Course Title": "Introduction to AI Literacy",
+        "Section": "IALSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Matthew Rolley",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1050",
+        "Course Title": "Introduction to Data Literacy",
+        "Section": "IDLSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Duy Nguyen Phuoc Quy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1011",
+        "Course Title": "Big Ideas: AI and the Knowledge Revolution",
+        "Section": "BAKSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Duong Phung Manh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "3:20PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "HADM4121",
+        "Course Title": "Event Management",
+        "Section": "EVMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "David VanHove",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMP5050##",
+        "Course Title": "Robotics",
+        "Section": "PRBSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "4.00",
+        "Instructor": "Thai Mai Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "8:30AM to 10:20AM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "10:30AM to 11:45AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM to 11:45AM"
+            }
+        ]
+    },
+    {
+        "Course": "ARTS1030",
+        "Course Title": "Arts Appreciation and Application",
+        "Section": "AAASP261",
+        "Dates": "3/2/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "11:00AM- 1:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ARTS1030",
+        "Course Title": "Arts Appreciation and Application",
+        "Section": "AAASP262",
+        "Dates": "3/2/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "11:00AM- 1:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "CAS1020",
+        "Course Title": "Global Perspectives",
+        "Section": "GLPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "David Koh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "CAS2020",
+        "Course Title": "Logic and Scientific Method",
+        "Section": "LSMSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "James Collin",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "CAS3020",
+        "Course Title": "Digital Arts and Sciences",
+        "Section": "DASSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Ruelle Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM1010",
+        "Course Title": "Introduction to Communication",
+        "Section": "COMSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "David Guimond",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM2021",
+        "Course Title": "Communication Modalities",
+        "Section": "CMOSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Chris Tan",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM2021",
+        "Course Title": "Communication Modalities",
+        "Section": "CMOSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Chris Tan",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM2031",
+        "Course Title": "Media Writing and Messaging",
+        "Section": "MWMSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Christine Mitchell",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM2031",
+        "Course Title": "Media Writing and Messaging",
+        "Section": "MWMSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Christine Mitchell",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM2041",
+        "Course Title": "Strategic Thinking for Communicators",
+        "Section": "STCSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "David Guimond",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:00PM- 4:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM3010",
+        "Course Title": "Media Production",
+        "Section": "MEPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Christine Mitchell",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM3071",
+        "Course Title": "Digital Design Thinking",
+        "Section": "DDTSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM3081",
+        "Course Title": "Public Relations Campaigns",
+        "Section": "PRCSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Marc Kramer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COMM4030",
+        "Course Title": "Advanced Media Production",
+        "Section": "AMPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COSL1010##",
+        "Course Title": "Community Service Learning",
+        "Section": "CSLSP261",
+        "Dates": "2/9/2026 to 4/17/2026",
+        "Credits": "0.00",
+        "Instructor": "Myles Lynch",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "11:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COSL1010##",
+        "Course Title": "Community Service Learning",
+        "Section": "CSLSP262",
+        "Dates": "2/9/2026 to 4/17/2026",
+        "Credits": "0.00",
+        "Instructor": "Myles Lynch",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "11:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COSL1010##",
+        "Course Title": "Community Service Learning",
+        "Section": "CSLSP263",
+        "Dates": "2/9/2026 to 4/17/2026",
+        "Credits": "0.00",
+        "Instructor": "Myles Lynch",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "11:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "COSL1010##",
+        "Course Title": "Community Service Learning",
+        "Section": "CSLSP264",
+        "Dates": "2/9/2026 to 4/17/2026",
+        "Credits": "0.00",
+        "Instructor": "Myles Lynch",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "11:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON1010",
+        "Course Title": "Introduction to Microeconomics",
+        "Section": "MICSP264",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Le Duy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:00AM- 1:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON2010",
+        "Course Title": "Basic Econometrics",
+        "Section": "BECSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Francis Ostermeijer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON3020",
+        "Course Title": "Machine Learning",
+        "Section": "MLESP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Eduard O. Merc",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "ECON3040",
+        "Course Title": "Big Data in Economics",
+        "Section": "BDESP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Francis Ostermeijer",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Nhu Dinh Ngoc Anh (Andy)",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 10:00AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 10:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Ruelle Daniel",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:00AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 10:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Nhu Dinh Ngoc Anh (Andy)",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP264",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Jon Nichols",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 10:00AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 10:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP265",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Jon Nichols",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:00AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 10:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP266",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Jon Nichols",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP267",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Jon Nichols",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP268",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Losavio Antonio",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:00AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 10:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "APWSP269",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Losavio Antonio",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "PWSP2610",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Losavio Antonio",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "PWSP2611",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Hobbs Donald",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "PWSP2612",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Hobbs Donald",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:00AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 10:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "PWSP2613",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Hobbs Donald",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:30AM- 11:30AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "10:30AM- 11:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1030",
+        "Course Title": "Academic and Professional Writing",
+        "Section": "PWSP2614",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Hobbs Donald",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 2:20PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 2:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "ENGL1040",
+        "Course Title": "Interpersonal and Multimedia Communication",
+        "Section": "IMCSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Nhu Dinh Ngoc Anh (Andy)",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1010",
+        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Section": "PSSSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Michael Clark",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1010",
+        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Section": "PSSSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Tyler Dalton McNabb",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1010",
+        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Section": "PSSSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Michael Clark",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1010",
+        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Section": "PSSSP264",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Toan Ngo Dang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1020",
+        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
+        "Section": "GPESP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Anupama Devendrakumar",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1020",
+        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
+        "Section": "GPESP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Anupama Devendrakumar",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1020",
+        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
+        "Section": "GPESP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Anupama Devendrakumar",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1030",
+        "Course Title": "Scientific Socialism (Politics and Social Change)",
+        "Section": "SCSSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "David Koh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1020",
+        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
+        "Section": "GPESP264",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Trinh Bui My",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1030",
+        "Course Title": "Scientific Socialism (Politics and Social Change)",
+        "Section": "SCSSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "David Koh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1030",
+        "Course Title": "Scientific Socialism (Politics and Social Change)",
+        "Section": "SCSSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Kien Phung Chi",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1041",
+        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II) - Delivered in VNese",
+        "Section": "HC2SP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Nam Nguyen Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1041",
+        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II) - Delivered in VNese",
+        "Section": "HC2SP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Nam Nguyen Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:00PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1041",
+        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+        "Section": "HC2SP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Eremin Arkadiy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1041",
+        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+        "Section": "HC2SP264",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Eremin Arkadiy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1050",
+        "Course Title": "History of the Communist Party (Vietnam: History and Culture I)",
+        "Section": "HC1SP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Hoai Tran Khai",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1050",
+        "Course Title": "History of the Communist Party (Vietnam: History and Culture I)",
+        "Section": "HC1SP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Hoai Tran Khai",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "11:05AM- 12:55PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1050",
+        "Course Title": "History of the Communist Party (Vietnam: History and Culture I)",
+        "Section": "HC1SP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Thuy Pham Van",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "8:15AM- 11:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1070",
+        "Course Title": "Cross Cultural Navigation",
+        "Section": "CCNSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Justin Gelzhiser",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1100",
+        "Course Title": "Introduction to International Relations",
+        "Section": "IIRSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Tu Nguyen Phuong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1100",
+        "Course Title": "Introduction to International Relations",
+        "Section": "IIRSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Lena Le",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "2:00PM- 3:50PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1100",
+        "Course Title": "Introduction to International Relations",
+        "Section": "IIRSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Lena Le",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1100",
+        "Course Title": "Introduction to International Relations",
+        "Section": "IIRSP264",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Nguyen Hong Hai",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1013",
+        "Course Title": "Big Ideas: Globalization and World Order",
+        "Section": "BIGSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Tu Nguyen Phuong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1016",
+        "Course Title": "Big Ideas: Humans and Environmental Intelligence",
+        "Section": "BIESP261",
+        "Dates": "3/2/2026 to 5/4/2026",
+        "Credits": "2.00",
+        "Instructor": "Huy Nguyen Ngoc",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 5:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1017",
+        "Course Title": "Big Ideas: Language as a window on human societies past and present",
+        "Section": "BILSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Umberto Ansaldo",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "LAW1010",
+        "Course Title": "Introduction to Law",
+        "Section": "INLSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Tuan Dang Minh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 10:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "LAW1010",
+        "Course Title": "Introduction to Law",
+        "Section": "INLSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Tuan Dang Minh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:00PM- 2:50PM"
+            }
+        ]
+    },
+    {
+        "Course": "PERF1010",
+        "Course Title": "Artistic Performance and Application",
+        "Section": "APASP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "11:00AM- 1:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC1010",
+        "Course Title": "Introduction to Psychology",
+        "Section": "INPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Mikhail Spektor",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC2010",
+        "Course Title": "Biological Foundation of Behavior",
+        "Section": "BFBSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Justin Gelzhiser",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC2020",
+        "Course Title": "Research Methods in Psychology",
+        "Section": "RPSSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Barron David",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC2040",
+        "Course Title": "Developmental Psychology",
+        "Section": "DVPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Trang Ngo Mai",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "10:15AM- 1:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC3040",
+        "Course Title": "Introduction to School Psychology",
+        "Section": "ISPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Duong Jacque Tran Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC3060",
+        "Course Title": "Child and Adolescent Psychopathology",
+        "Section": "CAPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Justin Gelzhiser",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC3050",
+        "Course Title": "Organizational Psychology",
+        "Section": "ORPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Eva Ari\u00f1o",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC3070",
+        "Course Title": "Psychology of Work Motivation",
+        "Section": "PWMSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Hardy Claire",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "PSYC3080",
+        "Course Title": "Theories of counseling and Psychotherapy",
+        "Section": "THPSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Justin Gelzhiser",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "STAT1011",
+        "Course Title": "Statistics for Social Sciences",
+        "Section": "SSSSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Le Duy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "10:00AM- 1:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "STAT1011",
+        "Course Title": "Statistics for Social Sciences",
+        "Section": "SSSSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "3.00",
+        "Instructor": "Anh Le Duy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "10:00AM- 1:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "THINK1010",
+        "Course Title": "Critical and Creative Thinking",
+        "Section": "CCTSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Michael Clark",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "THINK1010",
+        "Course Title": "Critical and Creative Thinking",
+        "Section": "CCTSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Michael Clark",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "THINK1010",
+        "Course Title": "Critical and Creative Thinking",
+        "Section": "CCTSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Tyler Dalton McNabb",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Badminton 1)",
+        "Section": "BMTSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Badminton 2)",
+        "Section": "BMTSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:15PM- 8:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Badminton 3)",
+        "Section": "BMTSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Yoga 1)",
+        "Section": "YOGSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Yoga 2)",
+        "Section": "YOGSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Yoga 3)",
+        "Section": "YOGSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Table Tennis 1)",
+        "Section": "TATSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Table Tennis 2)",
+        "Section": "TATSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Table Tennis 3)",
+        "Section": "TATSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Football 1)",
+        "Section": "FBLSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "6:30AM- 8:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Football 2)",
+        "Section": "FBLSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "6:30AM- 8:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Football 3)",
+        "Section": "FBLSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "6:30AM- 8:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Basketball 1)",
+        "Section": "BKBSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "6:30AM- 8:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Basketball 2)",
+        "Section": "BKBSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "6:30AM- 8:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Basketball 3)",
+        "Section": "BKBSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "6:30AM- 8:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Volleyball 1)",
+        "Section": "VLBSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Volleyball 2)",
+        "Section": "VLBSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "7:15PM- 8:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Volleyball 3)",
+        "Section": "VLBSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Vovinam 1)",
+        "Section": "VOVSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Vovinam 2)",
+        "Section": "VOVSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Vovinam 3)",
+        "Section": "VOVSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Running 1)",
+        "Section": "RUNSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "5:45AM- 7:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Running 2)",
+        "Section": "RUNSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "5:45AM- 7:00AM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Tennis 1)",
+        "Section": "TENSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Tennis 2)",
+        "Section": "TENSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Tennis 3)",
+        "Section": "TENSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "7:15PM- 8:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Pickleball 1)",
+        "Section": "PKBSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Pickleball 2)",
+        "Section": "PKBSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "7:15PM- 8:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Pickleball 3)",
+        "Section": "PKBSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Swimming for Beginners 1)",
+        "Section": "SWMSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "5:00PM- 6:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Swimming for Beginners 2)",
+        "Section": "SWMSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "6:30PM- 8:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Swimming for Beginners 3)",
+        "Section": "SWMSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:00PM- 6:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Gym & Fitness 1)",
+        "Section": "GYMSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Gym & Fitness 2)",
+        "Section": "GYMSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (Gym & Fitness 3)",
+        "Section": "GYMSP263",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (zumba 1)",
+        "Section": "ZMBSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "5:45PM- 7:15PM"
+            }
+        ]
+    },
+    {
+        "Course": "VCOR1022##",
+        "Course Title": "Healthy Lifestyle 2 (zumba 2)",
+        "Section": "ZMBSP262",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "0.00",
+        "Instructor": "Lien Trinh Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "7:15PM- 8:45PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS4371",
+        "Course Title": "Communicable Disease Nursing",
+        "Section": "CDNSP261",
+        "Dates": "3/16/2026 to 4/10/2026",
+        "Credits": "2.00",
+        "Instructor": "Tinh Giap Thi Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "2:00PM to 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "2:00PM to 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS4301",
+        "Course Title": "Emergency and Intensive Care Nursing",
+        "Section": "EINSP261",
+        "Dates": "2/9/2026 to 3/20/2026",
+        "Credits": "2.00",
+        "Instructor": "Hue Hoang Thi",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS3231",
+        "Course Title": "Psychiatric Nursing",
+        "Section": "PSNSP261",
+        "Dates": "2/9/2026 to 5/8/2026",
+        "Credits": "4.00",
+        "Instructor": "Huyen Nguyen Thi Hoa",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS4411",
+        "Course Title": "Transition to Professional Nursing Practice",
+        "Section": "TPNSP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "6.00",
+        "Instructor": "Huyen Nguyen Thi Hoa",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "9:00AM to 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS3250",
+        "Course Title": "Rehabilitation Nursing",
+        "Section": "REHSP261",
+        "Dates": "2/11/2026 to 3/27/2026",
+        "Credits": "2.00",
+        "Instructor": "nguyen quyet thang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS3210",
+        "Course Title": "Adult Medical Nursing II",
+        "Section": "AM2SP261",
+        "Dates": "2/9/2026 to 6/19/2026",
+        "Credits": "4.00",
+        "Instructor": "Linh Nguyen Dieu",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS3270",
+        "Course Title": "Adult Surgical Nursing II",
+        "Section": "AS2SP261",
+        "Dates": "2/9/2026 to 5/22/2026",
+        "Credits": "4.00",
+        "Instructor": "Nga Nguyen Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS4311",
+        "Course Title": "Community Health Nursing",
+        "Section": "CHNSP261",
+        "Dates": "2/9/2026 to 4/17/2026",
+        "Credits": "2.00",
+        "Instructor": "Huyen Nguyen Thi Hoa",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM to 4:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS2221",
+        "Course Title": "HealthTech & Innovation",
+        "Section": "HTISP261",
+        "Dates": "2/9/2026 to 6/23/2026",
+        "Credits": "3.00",
+        "Instructor": "Tinh Giap Thi Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 12:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS2160",
+        "Course Title": "Pathophysiology and Pharmacology II",
+        "Section": "PP2SP261",
+        "Dates": "2/9/2026 to 6/4/2026",
+        "Credits": "3.00",
+        "Instructor": "Nhung Nguyen Thi",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM- 3:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS2181",
+        "Course Title": "Biochemistry & Clinical Nutrition",
+        "Section": "BCNSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Oanh Vu Hoang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS1030",
+        "Course Title": "Introduction to Professional Nursing Practice I",
+        "Section": "NP1SP261",
+        "Dates": "2/9/2026 to 6/4/2026",
+        "Credits": "3.00",
+        "Instructor": "Hue Hoang Thi",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS1110",
+        "Course Title": "Biogenetics, Microbiology & Parasitology",
+        "Section": "BMFSP261",
+        "Dates": "2/9/2026 to 6/3/2026",
+        "Credits": "5.00",
+        "Instructor": "Nga Nguyen Thi Thuy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM to 3:15PM"
+            },
+            {
+                "day": "Monday",
+                "time": "1:30PM to 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4011B##",
+        "Course Title": "Introduction to Clinical Medicine 3",
+        "Section": "ICM3SP26",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "jayendra Bajrachaya",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4061",
+        "Course Title": "Pediatric Elective (outpatient)",
+        "Section": "PDESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Duy Trinh Ngoc",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4080",
+        "Course Title": "Infectious Diseases",
+        "Section": "IFDSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4090",
+        "Course Title": "Traditional Medicine",
+        "Section": "TRMSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 3:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 3:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 3:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 3:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4390",
+        "Course Title": "Palliative Care Elective",
+        "Section": "PCESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5010",
+        "Course Title": "Tuberculosis",
+        "Section": "TUBSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5020",
+        "Course Title": "Dental/Stomatology",
+        "Section": "DSESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5030",
+        "Course Title": "Ear-Nose-Throat (ENT)",
+        "Section": "ENTSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5040",
+        "Course Title": "Ophthalmology",
+        "Section": "OPESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5050",
+        "Course Title": "Dermatology",
+        "Section": "DRMSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5060",
+        "Course Title": "Rehabilitation",
+        "Section": "IRESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5090",
+        "Course Title": "Oncology/Hematology",
+        "Section": "HEOSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5110",
+        "Course Title": "OB-GYN Elective (outpatient)",
+        "Section": "OGESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6010",
+        "Course Title": "Community Medicine/Family Practice",
+        "Section": "CMFSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "6.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6011",
+        "Course Title": "Mental Health Elective (outpatient)",
+        "Section": "MHESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6011B",
+        "Course Title": "Introduction to Clinical Medicine 5",
+        "Section": "ICM5SP26",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6020",
+        "Course Title": "Emergency/Critical Care",
+        "Section": "EMMSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Hybrid",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6022",
+        "Course Title": "Critical Care Elective",
+        "Section": "CCESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6070",
+        "Course Title": "Forensic Medicine Elective",
+        "Section": "FMESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6101",
+        "Course Title": "Anesthesia Elective",
+        "Section": "ANESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6110",
+        "Course Title": "Urology Elective",
+        "Section": "URESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6210",
+        "Course Title": "Orthopedics & Rehabilitation Elective",
+        "Section": "ORESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6310",
+        "Course Title": "Cardiovascular Surgery Elective",
+        "Section": "CSESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6340",
+        "Course Title": "Sleep Medicine Elective",
+        "Section": "SMESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6410",
+        "Course Title": "Neurosurgery Elective",
+        "Section": "NEESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6510",
+        "Course Title": "Plastic Surgery Elective",
+        "Section": "PLSSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6611",
+        "Course Title": "Advanced ENT Elective",
+        "Section": "AEESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6711",
+        "Course Title": "Advanced Ophthalmology Elective",
+        "Section": "AOESP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6811",
+        "Course Title": "Anatomic Pathology & Laboratory Medicine Elective",
+        "Section": "APLSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6911",
+        "Course Title": "Allergy, Immunology & Rheumatology  Elective",
+        "Section": "AIRSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI7000",
+        "Course Title": "Away elective/ Self-designed Elective",
+        "Section": "SD2SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI7032",
+        "Course Title": "Advanced Research Elective (2 credits)",
+        "Section": "AR2SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI7034",
+        "Course Title": "Advanced Research Elective (4 credits)",
+        "Section": "AR4SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI1031##",
+        "Course Title": "Health Education",
+        "Section": "HEPSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "1.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "2:00PM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI3080",
+        "Course Title": "Fundamental of Population and Health Research 3",
+        "Section": "PH3SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "2:00PM- 5:00PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "2:00PM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI3090",
+        "Course Title": "Internal Medicine 1",
+        "Section": "INMSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "8.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4010",
+        "Course Title": "Internal Medicine 2",
+        "Section": "IM2SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "8.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "7:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4020",
+        "Course Title": "Surgery 1",
+        "Section": "SURSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "8.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4030",
+        "Course Title": "Surgery and Surgical Specialties 2",
+        "Section": "SS2SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "8.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 5:00PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "7:30AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4040",
+        "Course Title": "Obstetrics and Gynecology 1",
+        "Section": "OGBSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4050",
+        "Course Title": "Obstetrics and Gynecology 2",
+        "Section": "OB2SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "8.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "7:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4060",
+        "Course Title": "Pediatrics 1",
+        "Section": "PEDSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI4070",
+        "Course Title": "Pediatrics 2",
+        "Section": "PD2SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "8.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:00AM- 5:00PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "7:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5070",
+        "Course Title": "Neurology",
+        "Section": "NEUSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5080",
+        "Course Title": "Psychiatry",
+        "Section": "PSYSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI5100",
+        "Course Title": "Medical Genetics and Genomics Elective",
+        "Section": "MGGSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6031",
+        "Course Title": "Transition to Clinical Practice",
+        "Section": "TCPSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.50",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM- 5:00PM"
+            },
+            {
+                "day": "Saturday",
+                "time": "9:00AM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI6092",
+        "Course Title": "Scholarly Project 1",
+        "Section": "PJ1SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "0.50",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "2:00PM- 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI7020",
+        "Course Title": "Scholarly Project 3",
+        "Section": "PJ3SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "1.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": []
+    },
+    {
+        "Course": "MEDI6080",
+        "Course Title": "Radiology/ Nuclear Medicine Elective",
+        "Section": "RNMSP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI7033",
+        "Course Title": "Advanced Research Elective",
+        "Section": "AR3SP261",
+        "Dates": "2/9/2026 to 7/31/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "7:30AM- 4:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "7:30AM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3020",
+        "Course Title": "Business Ethics",
+        "Section": "BESPR262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Tuan Dinh Anh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3020",
+        "Course Title": "Business Ethics",
+        "Section": "BESPR263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Tuan Dinh Anh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3040",
+        "Course Title": "Human Resource Management",
+        "Section": "HRMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MANA3040",
+        "Course Title": "Human Resource Management",
+        "Section": "HRMSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "NURS3240",
+        "Course Title": "Healthcare Ethics",
+        "Section": "HEESP261",
+        "Dates": "2/9/2026 to 4/29/2026",
+        "Credits": "2.00",
+        "Instructor": "Long Nguyen Hoang",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1012",
+        "Course Title": "Big Ideas: Sustainability in Business Course",
+        "Section": "BISSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Giang Nguyen Thu",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1012",
+        "Course Title": "Big Ideas: Sustainability in Business Course",
+        "Section": "BISSP262",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Dan Nguyen Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "1:30PM- 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1012",
+        "Course Title": "Big Ideas: Sustainability in Business Course",
+        "Section": "BISSP263",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Dan Nguyen Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "IDEA1012",
+        "Course Title": "Big Ideas: Sustainability in Business Course",
+        "Section": "BISSP264",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Dan Nguyen Linh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "STUT1870##",
+        "Course Title": "Study Tour",
+        "Section": "STTSP261",
+        "Dates": "4/6/2026 to 6/5/2026",
+        "Credits": "1.00",
+        "Instructor": "Hai Ho Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM- 12:00PM"
+            }
+        ]
+    }
+]

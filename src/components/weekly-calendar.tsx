@@ -21,6 +21,11 @@ interface WeeklyCalendarProps {
   courses: SelectedCourse[];
 }
 
+// Weekdays only (exclude Saturday and Sunday)
+const WEEKDAYS = DAYS_OF_WEEK.filter(
+  (day) => day !== "Saturday" && day !== "Sunday"
+);
+
 interface CalendarBlock {
   course: SelectedCourse;
   slot: ParsedTimeSlot;
@@ -40,6 +45,20 @@ function getCourseColor(courseCode: string): string {
     "bg-orange-500",
     "bg-lime-500",
     "bg-emerald-500",
+    "bg-rose-500",
+    "bg-violet-500",
+    "bg-fuchsia-500",
+    "bg-sky-500",
+    "bg-green-500",
+    "bg-yellow-500",
+    "bg-blue-600",
+    "bg-purple-600",
+    "bg-teal-600",
+    "bg-orange-600",
+    "bg-emerald-600",
+    "bg-indigo-600",
+    "bg-pink-600",
+    "bg-cyan-600",
   ];
 
   // Simple hash function for consistent color assignment
@@ -73,11 +92,17 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
     return blocks;
   }, [courses]);
 
-  // Group blocks by day for easier rendering
+  // Group blocks by day for easier rendering (weekdays only)
   const blocksByDay = useMemo(() => {
-    const grouped: CalendarBlock[][] = DAYS_OF_WEEK.map(() => []);
+    const grouped: CalendarBlock[][] = WEEKDAYS.map(() => []);
     calendarBlocks.forEach((block) => {
-      grouped[block.dayIndex].push(block);
+      // Find the index in WEEKDAYS array
+      const weekdayIndex = WEEKDAYS.indexOf(
+        DAYS_OF_WEEK[block.dayIndex] as (typeof WEEKDAYS)[number]
+      );
+      if (weekdayIndex !== -1) {
+        grouped[weekdayIndex].push(block);
+      }
     });
     return grouped;
   }, [calendarBlocks]);
@@ -109,9 +134,9 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
         <ScrollArea className="w-full">
           <div className="min-w-[700px] p-4 sm:p-0">
             {/* Header with days */}
-            <div className="grid grid-cols-[60px_repeat(7,1fr)] gap-1 mb-1">
+            <div className="grid grid-cols-[60px_repeat(5,1fr)] gap-1 mb-1">
               <div className="h-10" /> {/* Empty corner cell */}
-              {DAYS_OF_WEEK.map((day) => (
+              {WEEKDAYS.map((day) => (
                 <div
                   key={day}
                   className="h-10 flex items-center justify-center font-medium text-sm bg-muted rounded-md"
@@ -123,7 +148,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
             </div>
 
             {/* Calendar grid */}
-            <div className="grid grid-cols-[60px_repeat(7,1fr)] gap-1">
+            <div className="grid grid-cols-[60px_repeat(5,1fr)] gap-1">
               {/* Time labels column */}
               <div className="relative">
                 {timeLabels.map((label, index) => (
@@ -138,7 +163,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
               </div>
 
               {/* Day columns */}
-              {DAYS_OF_WEEK.map((day, dayIndex) => (
+              {WEEKDAYS.map((day, dayIndex) => (
                 <div
                   key={day}
                   className="relative bg-muted/30 rounded-md"

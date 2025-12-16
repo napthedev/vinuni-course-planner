@@ -40,6 +40,7 @@ export default function Home() {
           <h2 className="text-xl font-semibold mb-3">Search Courses</h2>
           <CourseSelector
             courses={courses}
+            selectedCourses={selectedCourses}
             onSelectCourse={addCourse}
             isCourseSelected={isCourseSelected}
           />

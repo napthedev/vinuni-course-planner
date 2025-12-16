@@ -11,6 +11,7 @@ import {
   Filter,
   X,
   ChevronDown,
+  AlertTriangle,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
@@ -52,12 +53,14 @@ import {
   hasValidSchedule,
   courseMatchesTimeFilter,
   formatTime,
+  coursesConflict,
 } from "@/lib/schedule-utils";
 import { useCourseFilters, TIME_PRESETS } from "@/hooks/use-course-filters";
 import { useIsMobile } from "@/hooks/use-mobile";
 
 interface CourseSelectorProps {
   courses: Course[];
+  selectedCourses: Course[];
   onSelectCourse: (course: Course) => void;
   isCourseSelected: (sectionId: string) => boolean;
 }
@@ -73,6 +76,7 @@ function formatSchedule(course: Course): string {
 
 export function CourseSelector({
   courses,
+  selectedCourses,
   onSelectCourse,
   isCourseSelected,
 }: CourseSelectorProps) {
@@ -335,6 +339,12 @@ export function CourseSelector({
                 const isSelected = isCourseSelected(course.Section);
                 const hasSched = hasValidSchedule(course);
 
+                // Check for conflicts with selected courses
+                const conflictingCourses = selectedCourses.filter((selected) =>
+                  coursesConflict(course, selected)
+                );
+                const hasConflict = conflictingCourses.length > 0;
+
                 return (
                   <CommandItem
                     key={course.Section}
@@ -346,7 +356,12 @@ export function CourseSelector({
                       setOpen(false);
                       setSearchValue("");
                     }}
-                    className="flex flex-col items-start gap-1 py-3 cursor-pointer"
+                    className={cn(
+                      "flex flex-col items-start gap-1 py-3 cursor-pointer",
+                      hasConflict &&
+                        !isSelected &&
+                        "bg-yellow-50 dark:bg-yellow-950/30 border-l-2 border-yellow-400"
+                    )}
                     disabled={isSelected}
                   >
                     <div className="flex items-center justify-between w-full gap-2">
@@ -396,6 +411,15 @@ export function CourseSelector({
                         {formatSchedule(course)}
                       </span>
                     </div>
+                    {hasConflict && !isSelected && (
+                      <div className="flex items-center gap-1 mt-1 text-xs text-yellow-600 dark:text-yellow-400">
+                        <AlertTriangle className="h-3 w-3" />
+                        <span>
+                          Conflicts with:{" "}
+                          {conflictingCourses.map((c) => c.Section).join(", ")}
+                        </span>
+                      </div>
+                    )}
                   </CommandItem>
                 );
               })}

@@ -14,6 +14,7 @@ import { Course } from "@/types/course";
 import coursesData from "@/data/courses.json";
 import { GraduationCap } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { ExportCalendarButton } from "@/components/export-calendar-button";
 
 const courses = coursesData as Course[];
 
@@ -58,17 +59,20 @@ export default function Home() {
           {/* Title row with filter button at flex-end */}
           <div className="flex items-center justify-between mb-3">
             <h2 className="text-xl font-semibold">Search Courses</h2>
-            <CourseFilters
-              filters={filters}
-              hasActiveFilters={hasActiveFilters}
-              getFilterDescription={getFilterDescription}
-              applyPreset={applyPreset}
-              updateDays={updateDays}
-              updateTimeRange={updateTimeRange}
-              resetFilters={resetFilters}
-              open={filtersOpen}
-              onOpenChange={setFiltersOpen}
-            />
+            <div className="flex items-center gap-2">
+              <ExportCalendarButton courses={selectedCourses} />
+              <CourseFilters
+                filters={filters}
+                hasActiveFilters={hasActiveFilters}
+                getFilterDescription={getFilterDescription}
+                applyPreset={applyPreset}
+                updateDays={updateDays}
+                updateTimeRange={updateTimeRange}
+                resetFilters={resetFilters}
+                open={filtersOpen}
+                onOpenChange={setFiltersOpen}
+              />
+            </div>
           </div>
 
           {/* Filter content - spans full width when open */}

@@ -130,12 +130,20 @@ export function useSelectedCourses() {
     [selectedCourses]
   );
 
+  const isCourseCodeSelected = useCallback(
+    (courseCode: string) => {
+      return selectedCourses.some((c) => c.Course === courseCode);
+    },
+    [selectedCourses]
+  );
+
   return {
     selectedCourses,
     addCourse,
     removeCourse,
     clearAllCourses,
     isCourseSelected,
+    isCourseCodeSelected,
     isLoaded,
   };
 }

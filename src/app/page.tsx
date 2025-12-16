@@ -27,6 +27,7 @@ export default function Home() {
     removeCourse,
     clearAllCourses,
     isCourseSelected,
+    isCourseCodeSelected,
     isLoaded,
   } = useSelectedCourses();
 
@@ -94,6 +95,7 @@ export default function Home() {
             selectedCourses={selectedCourses}
             onSelectCourse={addCourse}
             isCourseSelected={isCourseSelected}
+            isCourseCodeSelected={isCourseCodeSelected}
             filters={filters}
             hasActiveFilters={hasActiveFilters}
             resetFilters={resetFilters}

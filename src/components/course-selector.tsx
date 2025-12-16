@@ -39,6 +39,7 @@ interface CourseSelectorProps {
   selectedCourses: Course[];
   onSelectCourse: (course: Course) => void;
   isCourseSelected: (sectionId: string) => boolean;
+  isCourseCodeSelected: (courseCode: string) => boolean;
   filters: CourseFiltersType;
   hasActiveFilters: boolean;
   resetFilters: () => void;
@@ -58,6 +59,7 @@ export function CourseSelector({
   selectedCourses,
   onSelectCourse,
   isCourseSelected,
+  isCourseCodeSelected,
   filters,
   hasActiveFilters,
   resetFilters,
@@ -143,6 +145,9 @@ export function CourseSelector({
             <CommandGroup>
               {filteredCourses.map((course) => {
                 const isSelected = isCourseSelected(course.Section);
+                const isCourseCodeAlreadyAdded = isCourseCodeSelected(
+                  course.Course
+                );
                 const hasSched = hasValidSchedule(course);
 
                 // Check for conflicts with selected courses
@@ -151,12 +156,15 @@ export function CourseSelector({
                 );
                 const hasConflict = conflictingCourses.length > 0;
 
+                // Disable if this exact section is selected OR if any section of this course is already added
+                const isDisabled = isSelected || isCourseCodeAlreadyAdded;
+
                 return (
                   <CommandItem
                     key={course.Section}
                     value={course.Section}
                     onSelect={() => {
-                      if (!isSelected) {
+                      if (!isDisabled) {
                         onSelectCourse(course);
                       }
                       setOpen(false);
@@ -165,10 +173,10 @@ export function CourseSelector({
                     className={cn(
                       "flex flex-col items-start gap-1 py-3 cursor-pointer",
                       hasConflict &&
-                        !isSelected &&
+                        !isDisabled &&
                         "bg-yellow-50 dark:bg-yellow-950/30 border-l-2 border-yellow-400"
                     )}
-                    disabled={isSelected}
+                    disabled={isDisabled}
                   >
                     <div className="flex items-center justify-between w-full gap-2">
                       <div className="flex items-center gap-2 flex-wrap">

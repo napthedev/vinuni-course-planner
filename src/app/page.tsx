@@ -16,6 +16,7 @@ import coursesData from "@/data/courses.json";
 import { GraduationCap } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { ExportCalendarButton } from "@/components/export-calendar-button";
+import { ViewListButton } from "@/components/view-list-button";
 
 const courses = coursesData as Course[];
 
@@ -62,6 +63,7 @@ export default function Home() {
           <div className="flex items-center justify-between mb-3">
             <h2 className="text-xl font-semibold">Search Courses</h2>
             <div className="flex items-center gap-2">
+              <ViewListButton courses={selectedCourses} />
               <ExportCalendarButton courses={selectedCourses} />
               <CourseFilters
                 filters={filters}

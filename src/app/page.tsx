@@ -8,6 +8,7 @@ import {
 } from "@/components/course-filters";
 import { SelectedCourses } from "@/components/selected-courses";
 import { WeeklyCalendar } from "@/components/weekly-calendar";
+import { CountdownTimer } from "@/components/countdown-timer";
 import { useSelectedCourses } from "@/hooks/use-selected-courses";
 import { useCourseFilters } from "@/hooks/use-course-filters";
 import { Course } from "@/types/course";
@@ -111,6 +112,7 @@ export default function Home() {
           {/* Calendar Section */}
           <section className="order-2 lg:order-1">
             <WeeklyCalendar courses={selectedCourses} />
+            <CountdownTimer />
           </section>
 
           {/* Selected Courses Sidebar */}

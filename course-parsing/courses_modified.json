@@ -5724,5 +5724,383 @@
                 "time": "9:00AM to 12:00PM"
             }
         ]
+    },
+    {
+        "Course": "IDEA1014",
+        "Course Title": "Big Ideas: Climate Change, Nutrition, and Health",
+        "Section": "BICSP261",
+        "Dates": "2/9/2026 to 4/14/2026",
+        "Credits": "2.00",
+        "Instructor": "Tuan Nguyen Thanh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "CHS1000",
+        "Course Title": "Introduction to Healthcare Informatics",
+        "Section": "IHISP261",
+        "Dates": "3/20/2026 to 5/29/2026",
+        "Credits": "2.00",
+        "Instructor": "Long Hoang Bao",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM to 11:50AM"
+            }
+        ]
+    },
+    {
+        "Course": "BIOL1020",
+        "Course Title": "Bioinformatics",
+        "Section": "BIOSP261",
+        "Dates": "3/20/2026 to 5/29/2026",
+        "Credits": "1.00",
+        "Instructor": "Long Hoang Bao",
+        "Delivery Method": "Online",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "1:30PM to 4:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI1011",
+        "Course Title": "Introduction to Professionalism in Medicine",
+        "Section": "IPMSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "1.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "2:00PM to 4:50PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI1071",
+        "Course Title": "Medical Biochemistry",
+        "Section": "MEBSP261",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1012",
+        "Course Title": "Physics-Biophysics",
+        "Section": "BOPSP261",
+        "Dates": "4/7/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Hanh Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "8:30AM to 10:30AM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1012",
+        "Course Title": "Physics-Biophysics",
+        "Section": "BOPSP262",
+        "Dates": "4/7/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Hanh Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "10:30AM to 12:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1012",
+        "Course Title": "Physics-Biophysics",
+        "Section": "BOPSP263",
+        "Dates": "4/7/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Hanh Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "1:30PM to 3:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "PHYS1012",
+        "Course Title": "Physics-Biophysics",
+        "Section": "BOPSP264",
+        "Dates": "4/7/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Hanh Mai Hong",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "3:30PM to 5:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI1060",
+        "Course Title": "Human Body Structure and Function 2",
+        "Section": "SF2SP261",
+        "Dates": "2/9/2026 to 6/12/2026",
+        "Credits": "7.00",
+        "Instructor": "Nhung Nguyen Thi",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Monday",
+                "time": "2:00PM to 5:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "2:00PM to 5:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Friday",
+                "time": "2:00PM to 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI2010",
+        "Course Title": "Immunology",
+        "Section": "IMMSP261",
+        "Dates": "2/9/2026 to 6/4/2026",
+        "Credits": "3.00",
+        "Instructor": "Chien Huynh Dinh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "2:00PM to 5:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "2:00PM to 5:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI2020",
+        "Course Title": "Microbiology/Parasitology",
+        "Section": "MPASP261",
+        "Dates": "2/9/2026 to 6/16/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 12:00PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 12:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI3020",
+        "Course Title": "Renal/Electrolyte Metabolism/Urology",
+        "Section": "REUSP261",
+        "Dates": "2/9/2026 to 3/20/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 5:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI2060",
+        "Course Title": "Endocrine/Reproduction",
+        "Section": "ENRSP261",
+        "Dates": "3/23/2026 to 4/10/2026",
+        "Credits": "3.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 5:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI2050",
+        "Course Title": "Neuromuscular / Psychiatry",
+        "Section": "NEPSP261",
+        "Dates": "4/13/2026 to 5/15/2026",
+        "Credits": "4.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 5:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI3032",
+        "Course Title": "Rheumatology/Musculoskeletal",
+        "Section": "RHMSP261",
+        "Dates": "5/18/2026 to 5/29/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 5:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "MEDI2090",
+        "Course Title": "Dermatology",
+        "Section": "DTSPR261",
+        "Dates": "6/1/2026 to 6/12/2026",
+        "Credits": "2.00",
+        "Instructor": "Office of Registrar - VinUniversity",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 5:30PM"
+            },
+            {
+                "day": "Friday",
+                "time": "9:00AM to 5:30PM"
+            }
+        ]
+    },
+    {
+        "Course": "CECS1040",
+        "Course Title": "Introduction to AI Literacy",
+        "Section": "IALSP264",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Duong Phung Manh",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "10:30AM to 12:20PM"
+            }
+        ]
     }
 ]

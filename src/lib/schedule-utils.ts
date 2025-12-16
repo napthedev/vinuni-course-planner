@@ -10,9 +10,7 @@ import {
  * Parse time string to extract hours and minutes
  * Handles formats like "9:00AM- 12:00PM", "9:00AM to 10:15AM", "1:30PM - 3:00PM"
  */
-export function parseTimeString(
-  timeStr: string
-): {
+export function parseTimeString(timeStr: string): {
   startHour: number;
   startMinute: number;
   endHour: number;
@@ -229,4 +227,66 @@ export function calculateTotalCredits(courses: Course[]): number {
     const credits = parseFloat(course.Credits) || 0;
     return total + credits;
   }, 0);
+}
+
+/**
+ * Filter interface for time-based course filtering
+ */
+export interface TimeFilterOptions {
+  days: Record<string, boolean>;
+  timeRange: {
+    startHour: number | null;
+    endHour: number | null;
+  };
+  hasActiveFilters: boolean;
+}
+
+/**
+ * Check if a course matches the time filter criteria
+ * - TBA courses are hidden when any filter is active
+ * - Returns false if any schedule slot fails the day/time criteria
+ */
+export function courseMatchesTimeFilter(
+  course: Course,
+  options: TimeFilterOptions
+): boolean {
+  // If no filters are active, all courses pass
+  if (!options.hasActiveFilters) {
+    return true;
+  }
+
+  // TBA courses are hidden when filters are active
+  if (!hasValidSchedule(course)) {
+    return false;
+  }
+
+  const slots = parseSchedule(course);
+
+  // Course must have at least one slot that matches all criteria
+  // Using .every() to ensure ALL time slots pass the filter
+  // (course should only show if it fits entirely within the filter)
+  return slots.every((slot) => {
+    // Check day filter
+    if (options.days[slot.day] === false) {
+      return false;
+    }
+
+    // Check start time filter (course must start at or after this hour)
+    if (
+      options.timeRange.startHour !== null &&
+      slot.startHour < options.timeRange.startHour
+    ) {
+      return false;
+    }
+
+    // Check end time filter (course must end at or before this hour)
+    if (
+      options.timeRange.endHour !== null &&
+      slot.endHour > options.timeRange.endHour
+    ) {
+      return false;
+    }
+
+    return true;
+  });
 }

@@ -50,7 +50,7 @@
         "Section": "IMSSP264",
         "Dates": "2/9/2026 to 6/5/2026",
         "Credits": "2.00",
-        "Instructor": "Marc Kramer",
+        "Instructor": "David VanHove",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -63,7 +63,7 @@
         "Course": "MANA3020",
         "Course Title": "Business Ethics",
         "Section": "BESPR261",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "3.00",
         "Instructor": "Tuan Dinh Anh",
         "Delivery Method": "Classroom",
@@ -288,14 +288,14 @@
         "Course": "STAT2020",
         "Course Title": "Business Statistics",
         "Section": "BSTSP261",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "3.00",
         "Instructor": "Linh Do Bao",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Friday",
-                "time": "9:00AM to 12:00PM"
+                "time": "8:00AM to 12:00PM"
             }
         ]
     },
@@ -303,14 +303,14 @@
         "Course": "STAT2020",
         "Course Title": "Business Statistics",
         "Section": "BSTSP262",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "3.00",
         "Instructor": "Linh Do Bao",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Friday",
-                "time": "1:30PM to 4:30PM"
+                "time": "1:30PM to 5:30PM"
             }
         ]
     },
@@ -318,14 +318,14 @@
         "Course": "STAT2020",
         "Course Title": "Business Statistics",
         "Section": "BSTSP263",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "3.00",
         "Instructor": "Linh Do Bao",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Wednesday",
-                "time": "1:30PM to 4:30PM"
+                "time": "1:30PM to 5:30PM"
             }
         ]
     },
@@ -1988,7 +1988,7 @@
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Wednesday",
+                "day": "Thursday",
                 "time": "1:30PM to 3:20PM"
             }
         ]
@@ -2048,7 +2048,7 @@
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Wednesday",
+                "day": "Tuesday",
                 "time": "9:00AM to 11:50AM"
             }
         ]
@@ -2704,7 +2704,7 @@
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Thursday",
+                "day": "Tuesday",
                 "time": "1:30PM to 3:30PM"
             }
         ]
@@ -2905,21 +2905,6 @@
         ]
     },
     {
-        "Course": "IDEA1016",
-        "Course Title": "Big Ideas: Humans and Environmental Intelligence",
-        "Section": "BIESP261",
-        "Dates": "3/2/2026 to 5/4/2026",
-        "Credits": "2.00",
-        "Instructor": "Huy Nguyen Ngoc",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "1:30PM to 5:20PM"
-            }
-        ]
-    },
-    {
         "Course": "IDEA1017",
         "Course Title": "Big Ideas: Language as a window on human societies past and present",
         "Section": "BILSP261",
@@ -3079,8 +3064,8 @@
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Monday",
-                "time": "9:00AM to 11:50AM"
+                "day": "Tuesday",
+                "time": "10:00AM to 12:50PM"
             }
         ]
     },
@@ -5579,7 +5564,7 @@
         "Course": "MANA3020",
         "Course Title": "Business Ethics",
         "Section": "BESPR262",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "3.00",
         "Instructor": "Tuan Dinh Anh",
         "Delivery Method": "Classroom",
@@ -5594,7 +5579,7 @@
         "Course": "MANA3020",
         "Course Title": "Business Ethics",
         "Section": "BESPR263",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "3.00",
         "Instructor": "Tuan Dinh Anh",
         "Delivery Method": "Classroom",
@@ -5611,7 +5596,7 @@
         "Section": "HRMSP261",
         "Dates": "2/9/2026 to 6/5/2026",
         "Credits": "3.00",
-        "Instructor": "Office of Registrar - VinUniversity",
+        "Instructor": "Tu Tran Cam",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -5626,7 +5611,7 @@
         "Section": "HRMSP262",
         "Dates": "2/9/2026 to 6/5/2026",
         "Credits": "3.00",
-        "Instructor": "Office of Registrar - VinUniversity",
+        "Instructor": "Tu Tran Cam",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -5654,7 +5639,7 @@
         "Course": "IDEA1012",
         "Course Title": "Big Ideas: Sustainability in Business Course",
         "Section": "BISSP261",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "2.00",
         "Instructor": "Giang Nguyen Thu",
         "Delivery Method": "Classroom",
@@ -5669,7 +5654,7 @@
         "Course": "IDEA1012",
         "Course Title": "Big Ideas: Sustainability in Business Course",
         "Section": "BISSP262",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "2.00",
         "Instructor": "Dan Nguyen Linh",
         "Delivery Method": "Classroom",
@@ -5684,7 +5669,7 @@
         "Course": "IDEA1012",
         "Course Title": "Big Ideas: Sustainability in Business Course",
         "Section": "BISSP263",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "2.00",
         "Instructor": "Dan Nguyen Linh",
         "Delivery Method": "Classroom",
@@ -5699,7 +5684,7 @@
         "Course": "IDEA1012",
         "Course Title": "Big Ideas: Sustainability in Business Course",
         "Section": "BISSP264",
-        "Dates": "2/9/2026 to 6/5/2026",
+        "Dates": "3/16/2026 to 6/5/2026",
         "Credits": "2.00",
         "Instructor": "Dan Nguyen Linh",
         "Delivery Method": "Classroom",
@@ -5756,21 +5741,6 @@
         ]
     },
     {
-        "Course": "BIOL1020",
-        "Course Title": "Bioinformatics",
-        "Section": "BIOSP261",
-        "Dates": "3/20/2026 to 5/29/2026",
-        "Credits": "1.00",
-        "Instructor": "Long Hoang Bao",
-        "Delivery Method": "Online",
-        "Schedule": [
-            {
-                "day": "Friday",
-                "time": "1:30PM to 4:30PM"
-            }
-        ]
-    },
-    {
         "Course": "MEDI1011",
         "Course Title": "Introduction to Professionalism in Medicine",
         "Section": "IPMSP261",
@@ -5804,14 +5774,18 @@
         "Course": "PHYS1012",
         "Course Title": "Physics-Biophysics",
         "Section": "BOPSP261",
-        "Dates": "4/7/2026 to 6/5/2026",
-        "Credits": "2.00",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
         "Instructor": "Hanh Mai Hong",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Tuesday",
                 "time": "8:30AM to 10:30AM"
+            },
+            {
+                "day": "Monday",
+                "time": "2:00PM to 4:50PM"
             }
         ]
     },
@@ -5819,14 +5793,18 @@
         "Course": "PHYS1012",
         "Course Title": "Physics-Biophysics",
         "Section": "BOPSP262",
-        "Dates": "4/7/2026 to 6/5/2026",
-        "Credits": "2.00",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
         "Instructor": "Hanh Mai Hong",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Tuesday",
                 "time": "10:30AM to 12:30PM"
+            },
+            {
+                "day": "Monday",
+                "time": "2:00PM to 4:50PM"
             }
         ]
     },
@@ -5834,14 +5812,18 @@
         "Course": "PHYS1012",
         "Course Title": "Physics-Biophysics",
         "Section": "BOPSP263",
-        "Dates": "4/7/2026 to 6/5/2026",
-        "Credits": "2.00",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
         "Instructor": "Hanh Mai Hong",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Tuesday",
                 "time": "1:30PM to 3:30PM"
+            },
+            {
+                "day": "Monday",
+                "time": "2:00PM to 4:50PM"
             }
         ]
     },
@@ -5849,11 +5831,15 @@
         "Course": "PHYS1012",
         "Course Title": "Physics-Biophysics",
         "Section": "BOPSP264",
-        "Dates": "4/7/2026 to 6/5/2026",
-        "Credits": "2.00",
+        "Dates": "2/9/2026 to 6/5/2026",
+        "Credits": "3.00",
         "Instructor": "Hanh Mai Hong",
         "Delivery Method": "Classroom",
         "Schedule": [
+            {
+                "day": "Monday",
+                "time": "2:00PM to 4:50PM"
+            },
             {
                 "day": "Tuesday",
                 "time": "3:30PM to 5:30PM"
@@ -6100,6 +6086,21 @@
             {
                 "day": "Friday",
                 "time": "10:30AM to 12:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "SUST1010",
+        "Course Title": "Humans and Environmental Intelligence",
+        "Section": "HEISP26",
+        "Dates": "3/2/2026 to 5/4/2026",
+        "Credits": "2.00",
+        "Instructor": "Huy Nguyen Ngoc",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "1:30PM to 5:20PM"
             }
         ]
     }

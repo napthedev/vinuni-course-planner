@@ -82,6 +82,20 @@ export function CourseSelector({
       );
     }
 
+    // Filter out conflicting courses if hideConflicts is enabled
+    if (filters.hideConflicts && selectedCourses.length > 0) {
+      result = result.filter((course) => {
+        // Don't filter out already selected courses
+        if (selectedCourses.some((sc) => sc.Section === course.Section)) {
+          return true;
+        }
+        // Check if this course conflicts with any selected course
+        return !selectedCourses.some((selectedCourse) =>
+          coursesConflict(course, selectedCourse)
+        );
+      });
+    }
+
     // Then apply text search
     if (searchValue.trim()) {
       const search = searchValue.toLowerCase().trim();
@@ -97,7 +111,7 @@ export function CourseSelector({
     }
 
     return result.slice(0, 100); // Limit results for performance
-  }, [courses, searchValue, filters, hasActiveFilters]);
+  }, [courses, searchValue, filters, hasActiveFilters, selectedCourses]);
 
   return (
     <Popover open={open} onOpenChange={setOpen}>

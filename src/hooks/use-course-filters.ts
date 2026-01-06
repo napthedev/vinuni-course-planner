@@ -14,6 +14,7 @@ export interface CourseFilters {
   days: Record<DayOfWeek, boolean>;
   timeRange: TimeRange;
   preset: string | null;
+  hideConflicts: boolean;
 }
 
 export interface TimePreset {
@@ -61,6 +62,7 @@ const DEFAULT_FILTERS: CourseFilters = {
   days: { ...DEFAULT_DAYS },
   timeRange: { startHour: null, endHour: null },
   preset: null,
+  hideConflicts: false,
 };
 
 export function useCourseFilters() {
@@ -100,7 +102,7 @@ export function useCourseFilters() {
     const hasTimeFilter =
       filters.timeRange.startHour !== null ||
       filters.timeRange.endHour !== null;
-    return hasDayFilter || hasTimeFilter;
+    return hasDayFilter || hasTimeFilter || filters.hideConflicts;
   }, [filters]);
 
   // Get descriptive text for active filters
@@ -155,6 +157,7 @@ export function useCourseFilters() {
         endHour: preset.endHour ?? null,
       },
       preset: presetKey,
+      hideConflicts: false,
     });
   }, []);
 
@@ -179,6 +182,14 @@ export function useCourseFilters() {
     []
   );
 
+  // Update hide conflicts toggle
+  const updateHideConflicts = useCallback((checked: boolean) => {
+    setFilters((prev) => ({
+      ...prev,
+      hideConflicts: checked,
+    }));
+  }, []);
+
   // Reset all filters
   const resetFilters = useCallback(() => {
     setFilters(DEFAULT_FILTERS);
@@ -191,6 +202,7 @@ export function useCourseFilters() {
     applyPreset,
     updateDays,
     updateTimeRange,
+    updateHideConflicts,
     resetFilters,
     isLoaded,
   };

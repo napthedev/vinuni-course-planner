@@ -37,9 +37,11 @@ interface CourseFiltersProps {
     field: "startHour" | "endHour",
     value: number | null
   ) => void;
+  updateHideConflicts: (checked: boolean) => void;
   resetFilters: () => void;
   open: boolean;
   onOpenChange: (open: boolean) => void;
+  selectedCoursesCount: number;
 }
 
 // Filter trigger button component
@@ -77,7 +79,9 @@ export function CourseFiltersContent({
   applyPreset,
   updateDays,
   updateTimeRange,
+  updateHideConflicts,
   resetFilters,
+  selectedCoursesCount,
   open,
 }: Omit<CourseFiltersProps, "getFilterDescription" | "onOpenChange">) {
   const isMobile = useIsMobile();
@@ -196,6 +200,25 @@ export function CourseFiltersContent({
               </SelectContent>
             </Select>
           </div>
+        </div>
+      </div>
+
+      {/* Options */}
+      <div className="space-y-2">
+        <Label className="text-xs text-muted-foreground">Options</Label>
+        <div className="flex items-center space-x-2">
+          <Checkbox
+            id="hide-conflicts"
+            checked={filters.hideConflicts}
+            onCheckedChange={updateHideConflicts}
+            disabled={selectedCoursesCount === 0}
+          />
+          <Label
+            htmlFor="hide-conflicts"
+            className="text-sm font-normal cursor-pointer"
+          >
+            Hide conflicting courses
+          </Label>
         </div>
       </div>
 

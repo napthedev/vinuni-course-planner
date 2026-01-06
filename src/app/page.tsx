@@ -40,6 +40,7 @@ export default function Home() {
     applyPreset,
     updateDays,
     updateTimeRange,
+    updateHideConflicts,
     resetFilters,
   } = useCourseFilters();
 
@@ -72,9 +73,11 @@ export default function Home() {
                 applyPreset={applyPreset}
                 updateDays={updateDays}
                 updateTimeRange={updateTimeRange}
+                updateHideConflicts={updateHideConflicts}
                 resetFilters={resetFilters}
                 open={filtersOpen}
                 onOpenChange={setFiltersOpen}
+                selectedCoursesCount={selectedCourses.length}
               />
             </div>
           </div>
@@ -84,8 +87,10 @@ export default function Home() {
             filters={filters}
             hasActiveFilters={hasActiveFilters}
             applyPreset={applyPreset}
-            updateDays={updateDays}
-            updateTimeRange={updateTimeRange}
+            updateHideConflicts={updateHideConflicts}
+            resetFilters={resetFilters}
+            open={filtersOpen}
+            selectedCoursesCount={selectedCourses.lengthupdateTimeRange}
             resetFilters={resetFilters}
             open={filtersOpen}
           />

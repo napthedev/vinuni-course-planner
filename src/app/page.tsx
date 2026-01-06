@@ -87,12 +87,12 @@ export default function Home() {
             filters={filters}
             hasActiveFilters={hasActiveFilters}
             applyPreset={applyPreset}
+            updateDays={updateDays}
+            updateTimeRange={updateTimeRange}
             updateHideConflicts={updateHideConflicts}
             resetFilters={resetFilters}
             open={filtersOpen}
-            selectedCoursesCount={selectedCourses.lengthupdateTimeRange}
-            resetFilters={resetFilters}
-            open={filtersOpen}
+            selectedCoursesCount={selectedCourses.length}
           />
 
           {/* Add spacing when filters are open */}

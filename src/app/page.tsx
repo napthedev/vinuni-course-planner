@@ -16,6 +16,7 @@ import coursesData from "@/data/courses.json";
 import coursesMetadata from "@/data/courses.meta.json";
 import { GraduationCap } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { SupportProjectButton } from "@/components/support-project-button";
 import { ExportCalendarButton } from "@/components/export-calendar-button";
 import { ViewListButton } from "@/components/view-list-button";
 import { AutoFitSection } from "@/components/auto-fit-section";
@@ -72,7 +73,10 @@ export default function Home() {
             <GraduationCap className="h-6 w-6" />
             <h1 className="text-lg font-semibold">VinUni Course Planner</h1>
           </div>
-          <ThemeToggle />
+          <div className="flex shrink-0 items-center gap-1">
+            <SupportProjectButton />
+            <ThemeToggle />
+          </div>
         </div>
       </header>
 

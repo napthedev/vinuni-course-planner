@@ -1,11 +1,17 @@
 #!/usr/bin/env node
+/* eslint-disable @typescript-eslint/no-require-imports */
 
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
+const { execFileSync } = require('child_process');
 const cheerio = require('cheerio');
 
+const REPO_ROOT = path.join(__dirname, '..');
 const INPUT_FILE = path.join(__dirname, 'index.html');
-const OUTPUT_FILE = path.join(__dirname, '..', 'src', 'data', 'courses.json');
+const OUTPUT_FILE = path.join(REPO_ROOT, 'src', 'data', 'courses.json');
+const METADATA_FILE = path.join(REPO_ROOT, 'src', 'data', 'courses.meta.json');
+const VIETNAM_TIME_ZONE = 'Asia/Ho_Chi_Minh';
 
 // Day mapping configuration
 const DAY_MAP = {
@@ -153,6 +159,113 @@ function modifyScheduleTimes(courses) {
     return courses;
 }
 
+function hashSource(source) {
+    return crypto.createHash('sha256').update(source).digest('hex');
+}
+
+function getDateInTimeZone(date = new Date(), timeZone = VIETNAM_TIME_ZONE) {
+    const parts = new Intl.DateTimeFormat('en-US', {
+        timeZone,
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+    }).formatToParts(date);
+    const values = Object.fromEntries(parts.map(({ type, value }) => [type, value]));
+
+    return `${values.year}-${values.month}-${values.day}`;
+}
+
+function readMetadata(metadataFile = METADATA_FILE) {
+    try {
+        return JSON.parse(fs.readFileSync(metadataFile, 'utf-8'));
+    } catch {
+        return null;
+    }
+}
+
+/**
+ * Return the source file's Git state. A null result means Git history is not
+ * available (for example, in a source archive or a shallow checkout that does
+ * not contain the relevant commit).
+ */
+function getGitState(inputFile = INPUT_FILE, repoRoot = REPO_ROOT, runGit = execFileSync) {
+    const relativeInput = path.relative(repoRoot, inputFile);
+
+    try {
+        runGit('git', ['diff', '--quiet', 'HEAD', '--', relativeInput], {
+            cwd: repoRoot,
+            stdio: 'ignore',
+        });
+    } catch (error) {
+        if (error.status === 1) {
+            return { dirty: true, committedDate: null };
+        }
+
+        return null;
+    }
+
+    try {
+        const committedDate = runGit(
+            'git',
+            ['log', '-1', '--format=%cs', '--', relativeInput],
+            { cwd: repoRoot, encoding: 'utf-8', stdio: ['ignore', 'pipe', 'ignore'] },
+        ).trim();
+
+        return committedDate ? { dirty: false, committedDate } : null;
+    } catch {
+        return null;
+    }
+}
+
+function isIsoDate(value) {
+    return typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value);
+}
+
+function resolveLastUpdated({ sourceHash, existingMetadata, gitState, today }) {
+    if (gitState?.dirty) {
+        return today;
+    }
+
+    if (isIsoDate(gitState?.committedDate)) {
+        return gitState.committedDate;
+    }
+
+    if (
+        existingMetadata?.sourceHash === sourceHash
+        && isIsoDate(existingMetadata.lastUpdated)
+    ) {
+        return existingMetadata.lastUpdated;
+    }
+
+    return today;
+}
+
+function writeFileIfChanged(filePath, content) {
+    try {
+        if (fs.readFileSync(filePath, 'utf-8') === content) {
+            return false;
+        }
+    } catch (error) {
+        if (error.code !== 'ENOENT') {
+            throw error;
+        }
+    }
+
+    fs.mkdirSync(path.dirname(filePath), { recursive: true });
+    fs.writeFileSync(filePath, content, 'utf-8');
+    return true;
+}
+
+function parseAndValidateCourses(htmlContent) {
+    const courses = modifyScheduleTimes(extractCourseData(htmlContent));
+
+    if (courses.length === 0) {
+        throw new Error('No courses found in the HTML. Ensure the table has id="CourseList"');
+    }
+
+    return courses;
+}
+
 /**
  * Main execution
  */
@@ -168,32 +281,43 @@ async function main() {
         // Read HTML file
         const htmlContent = fs.readFileSync(INPUT_FILE, 'utf-8');
 
-        // Extract course data
-        let courses = extractCourseData(htmlContent);
+        // Build and validate every output before writing either generated file.
+        const courses = parseAndValidateCourses(htmlContent);
+        const sourceHash = hashSource(htmlContent);
+        const existingMetadata = readMetadata();
+        const lastUpdated = resolveLastUpdated({
+            sourceHash,
+            existingMetadata,
+            gitState: getGitState(),
+            today: getDateInTimeZone(),
+        });
+        const coursesOutput = JSON.stringify(courses, null, 4);
+        const metadataOutput = `${JSON.stringify({ lastUpdated, sourceHash }, null, 4)}\n`;
 
-        if (courses.length === 0) {
-            console.warn('⚠️  No courses found in the HTML. Ensure the table has id="CourseList"');
-            return;
-        }
-
-        // Modify schedule times
-        courses = modifyScheduleTimes(courses);
-
-        // Ensure output directory exists
-        const outputDir = path.dirname(OUTPUT_FILE);
-        if (!fs.existsSync(outputDir)) {
-            fs.mkdirSync(outputDir, { recursive: true });
-        }
-
-        // Write to JSON file
-        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(courses, null, 4), 'utf-8');
+        const coursesChanged = writeFileIfChanged(OUTPUT_FILE, coursesOutput);
+        const metadataChanged = writeFileIfChanged(METADATA_FILE, metadataOutput);
 
         console.log(`✓ Successfully parsed ${courses.length} courses`);
-        console.log(`✓ Output written to: ${OUTPUT_FILE}`);
+        console.log(`✓ Course data ${coursesChanged ? 'updated' : 'unchanged'}: ${OUTPUT_FILE}`);
+        console.log(`✓ Metadata ${metadataChanged ? 'updated' : 'unchanged'}: ${METADATA_FILE}`);
     } catch (error) {
         console.error('❌ Error during parsing:', error.message);
-        process.exit(1);
+        process.exitCode = 1;
     }
 }
 
-main();
+if (require.main === module) {
+    main();
+}
+
+module.exports = {
+    extractCourseData,
+    getDateInTimeZone,
+    getGitState,
+    hashSource,
+    modifyScheduleTimes,
+    parseAndValidateCourses,
+    readMetadata,
+    resolveLastUpdated,
+    writeFileIfChanged,
+};

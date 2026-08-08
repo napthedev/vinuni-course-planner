@@ -13,6 +13,7 @@ import { useSelectedCourses } from "@/hooks/use-selected-courses";
 import { useCourseFilters } from "@/hooks/use-course-filters";
 import { Course } from "@/types/course";
 import coursesData from "@/data/courses.json";
+import coursesMetadata from "@/data/courses.meta.json";
 import { GraduationCap } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { ExportCalendarButton } from "@/components/export-calendar-button";
@@ -21,8 +22,21 @@ import { AutoFitSection } from "@/components/auto-fit-section";
 
 const courses = coursesData as Course[];
 
-// Update this date whenever the course data is refreshed
-const LAST_UPDATED_DATE = "Jun 29 2026";
+function formatLastUpdatedDate(isoDate: string) {
+  const [year, month, day] = isoDate.split("-").map(Number);
+  const date = new Date(Date.UTC(year, month - 1, day));
+
+  return new Intl.DateTimeFormat("en-US", {
+    timeZone: "UTC",
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  })
+    .format(date)
+    .replace(",", "");
+}
+
+const LAST_UPDATED_DATE = formatLastUpdatedDate(coursesMetadata.lastUpdated);
 
 export default function Home() {
   const [filtersOpen, setFiltersOpen] = useState(false);

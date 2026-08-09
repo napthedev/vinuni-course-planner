@@ -154,7 +154,7 @@ export default function Home() {
           </section>
 
           {/* Selected Courses Sidebar */}
-          <aside className="order-1 lg:order-2">
+          <aside className="order-1 lg:relative lg:min-h-0 lg:order-2">
             {isLoaded ? (
               <SelectedCourses
                 courses={selectedCourses}

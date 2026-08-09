@@ -19,7 +19,6 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { SupportProjectButton } from "@/components/support-project-button";
 import { ExportCalendarButton } from "@/components/export-calendar-button";
 import { ViewListButton } from "@/components/view-list-button";
-import { AutoFitSection } from "@/components/auto-fit-section";
 
 const courses = coursesData as Course[];
 
@@ -47,7 +46,6 @@ export default function Home() {
     addCourse,
     removeCourse,
     clearAllCourses,
-    replaceAllCourses,
     isCourseSelected,
     isCourseCodeSelected,
     isLoaded,
@@ -169,9 +167,6 @@ export default function Home() {
             )}
           </aside>
         </div>
-
-        {/* Auto Fit Schedule */}
-        <AutoFitSection allCourses={courses} onApply={replaceAllCourses} />
       </main>
 
       {/* Footer */}

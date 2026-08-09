@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import { ThemeProvider } from "@/components/theme-provider";
+import { APP_CONFIG } from "@/config";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -15,8 +16,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VinUni Course Planner",
-  description: "Plan your semester schedule at VinUniversity",
+  title: APP_CONFIG.site.name,
+  description: APP_CONFIG.site.description,
 };
 
 export default function RootLayout({
@@ -28,7 +29,7 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-S00YVDJTZX"
+          src={`https://www.googletagmanager.com/gtag/js?id=${APP_CONFIG.analytics.googleMeasurementId}`}
           strategy="afterInteractive"
         />
         <Script id="google-analytics" strategy="afterInteractive">
@@ -36,7 +37,7 @@ export default function RootLayout({
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-S00YVDJTZX');
+            gtag('config', ${JSON.stringify(APP_CONFIG.analytics.googleMeasurementId)});
           `}
         </Script>
       </head>

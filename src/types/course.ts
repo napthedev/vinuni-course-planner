@@ -53,6 +53,3 @@ export const DAYS_OF_WEEK: DayOfWeek[] = [
   "Saturday",
   "Sunday",
 ];
-
-export const CALENDAR_START_HOUR = 7; // 7 AM
-export const CALENDAR_END_HOUR = 22; // 10 PM

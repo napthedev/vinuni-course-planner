@@ -1,10 +1,10 @@
-import {
-  Course,
-  ParsedTimeSlot,
-  SelectedCourse,
-  CALENDAR_START_HOUR,
-  CALENDAR_END_HOUR,
-} from "@/types/course";
+import { Course, ParsedTimeSlot, SelectedCourse } from "@/types/course";
+import { APP_CONFIG } from "@/config";
+
+const {
+  startHour: CALENDAR_START_HOUR,
+  endHour: CALENDAR_END_HOUR,
+} = APP_CONFIG.calendar;
 
 /**
  * Parse time string to extract hours and minutes

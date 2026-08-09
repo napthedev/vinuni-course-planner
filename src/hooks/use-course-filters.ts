@@ -2,8 +2,7 @@
 
 import { useState, useEffect, useCallback, useMemo } from "react";
 import { DayOfWeek, DAYS_OF_WEEK } from "@/types/course";
-
-const STORAGE_KEY = "vinuni-course-filters";
+import { APP_CONFIG } from "@/config";
 
 export interface TimeRange {
   startHour: number | null; // null = any start time
@@ -72,7 +71,7 @@ export function useCourseFilters() {
   // Load from localStorage on mount
   useEffect(() => {
     try {
-      const stored = localStorage.getItem(STORAGE_KEY);
+      const stored = localStorage.getItem(APP_CONFIG.storageKeys.courseFilters);
       if (stored) {
         const parsed = JSON.parse(stored) as CourseFilters;
         // Ensure all days exist (in case of schema changes)
@@ -89,7 +88,10 @@ export function useCourseFilters() {
   useEffect(() => {
     if (isLoaded) {
       try {
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(filters));
+        localStorage.setItem(
+          APP_CONFIG.storageKeys.courseFilters,
+          JSON.stringify(filters),
+        );
       } catch (error) {
         console.error("Failed to save filters to localStorage:", error);
       }

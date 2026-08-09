@@ -14,18 +14,19 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import {
-  DayOfWeek,
-  DAYS_OF_WEEK,
-  CALENDAR_START_HOUR,
-  CALENDAR_END_HOUR,
-} from "@/types/course";
+import { DayOfWeek, DAYS_OF_WEEK } from "@/types/course";
+import { APP_CONFIG } from "@/config";
 import { formatTime } from "@/lib/schedule-utils";
 import {
   CourseFilters as CourseFiltersType,
   TIME_PRESETS,
 } from "@/hooks/use-course-filters";
 import { useIsMobile } from "@/hooks/use-mobile";
+
+const {
+  startHour: CALENDAR_START_HOUR,
+  endHour: CALENDAR_END_HOUR,
+} = APP_CONFIG.calendar;
 
 interface CourseFiltersProps {
   filters: CourseFiltersType;

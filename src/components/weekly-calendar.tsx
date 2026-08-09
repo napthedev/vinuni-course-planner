@@ -6,10 +6,9 @@ import { ScrollArea, ScrollBar } from "@/components/ui/scroll-area";
 import {
   SelectedCourse,
   DAYS_OF_WEEK,
-  CALENDAR_START_HOUR,
-  CALENDAR_END_HOUR,
   ParsedTimeSlot,
 } from "@/types/course";
+import { APP_CONFIG } from "@/config";
 import {
   parseSchedule,
   generateTimeLabels,
@@ -22,6 +21,11 @@ import { AgendaView } from "@/components/agenda-view";
 interface WeeklyCalendarProps {
   courses: SelectedCourse[];
 }
+
+const {
+  startHour: CALENDAR_START_HOUR,
+  endHour: CALENDAR_END_HOUR,
+} = APP_CONFIG.calendar;
 
 // Weekdays only (exclude Saturday and Sunday)
 const WEEKDAYS = DAYS_OF_WEEK.filter(

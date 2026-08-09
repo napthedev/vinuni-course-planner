@@ -2,9 +2,37 @@
 
 import { useState, useEffect } from "react";
 import { Clock } from "lucide-react";
+import { APP_CONFIG } from "@/config";
 
-// Target: June 30, 2026 at 02:00 PM (14:00) in GMT+7
-const TARGET_DATE = new Date("2026-06-30T14:00:00+07:00");
+const TARGET_DATE = new Date(APP_CONFIG.countdown.targetDateTime);
+
+if (Number.isNaN(TARGET_DATE.getTime())) {
+  throw new Error("APP_CONFIG.countdown.targetDateTime must be a valid date");
+}
+
+function formatTargetDate(date: Date): string {
+  const formatter = new Intl.DateTimeFormat(APP_CONFIG.countdown.locale, {
+    timeZone: APP_CONFIG.countdown.timeZone,
+    month: "long",
+    day: "numeric",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: true,
+    timeZoneName: "shortOffset",
+  });
+  const parts = formatter.formatToParts(date);
+  const getPart = (type: Intl.DateTimeFormatPartTypes) =>
+    parts.find((part) => part.type === type)?.value ?? "";
+
+  const dateLabel = `${getPart("month")} ${getPart("day")}, ${getPart("year")}`;
+  const timeLabel = `${getPart("hour")}:${getPart("minute")} ${getPart("dayPeriod")}`;
+  const timeZoneLabel = getPart("timeZoneName");
+
+  return `${dateLabel} • ${timeLabel} (${timeZoneLabel})`;
+}
+
+const TARGET_DATE_LABEL = formatTargetDate(TARGET_DATE);
 
 interface TimeLeft {
   days: number;
@@ -48,7 +76,9 @@ export function CountdownTimer() {
       <div className="mt-6 p-6 rounded-xl bg-gradient-to-r from-blue-500/10 via-purple-500/10 to-pink-500/10 border border-border/50 backdrop-blur-sm">
         <div className="flex items-center justify-center gap-2 mb-4">
           <Clock className="h-5 w-5 text-primary animate-pulse" />
-          <h3 className="text-lg font-semibold">Loading...</h3>
+          <h3 className="text-lg font-semibold">
+            {APP_CONFIG.countdown.loadingMessage}
+          </h3>
         </div>
       </div>
     );
@@ -66,7 +96,7 @@ export function CountdownTimer() {
         <div className="flex items-center justify-center gap-2">
           <span className="text-2xl">🎉</span>
           <h3 className="text-xl font-bold text-green-600 dark:text-green-400">
-            Course Registration is Open!
+            {APP_CONFIG.countdown.expiredMessage}
           </h3>
           <span className="text-2xl">🎉</span>
         </div>
@@ -78,7 +108,9 @@ export function CountdownTimer() {
     <div className="mt-6 p-6 rounded-xl bg-gradient-to-r from-blue-500/10 via-purple-500/10 to-pink-500/10 border border-border/50 backdrop-blur-sm">
       <div className="flex items-center justify-center gap-2 mb-4">
         <Clock className="h-5 w-5 text-primary animate-pulse" />
-        <h3 className="text-lg font-semibold">Course Registration Opens In</h3>
+        <h3 className="text-lg font-semibold">
+          {APP_CONFIG.countdown.heading}
+        </h3>
       </div>
 
       <div className="flex items-center justify-center gap-3 md:gap-6">
@@ -92,7 +124,7 @@ export function CountdownTimer() {
       </div>
 
       <p className="text-center text-sm text-muted-foreground mt-4">
-        June 29, 2026 • 02:00 PM (GMT+7)
+        {TARGET_DATE_LABEL}
       </p>
     </div>
   );

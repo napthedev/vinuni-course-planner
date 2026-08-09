@@ -1,4 +1,5 @@
 import { SelectedCourse, DayOfWeek } from "@/types/course";
+import { APP_CONFIG } from "@/config";
 import { parseTimeString } from "./schedule-utils";
 
 /**
@@ -137,7 +138,7 @@ export function generateICS(courses: SelectedCourse[]): string {
   const lines: string[] = [
     "BEGIN:VCALENDAR",
     "VERSION:2.0",
-    "PRODID:-//VinUni Course Planner//EN",
+    `PRODID:-//${APP_CONFIG.site.name}//EN`,
     "CALSCALE:GREGORIAN",
     "METHOD:PUBLISH",
     "X-WR-CALNAME:VinUni Course Schedule",

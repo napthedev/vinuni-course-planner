@@ -19,6 +19,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { SupportProjectButton } from "@/components/support-project-button";
 import { ExportCalendarButton } from "@/components/export-calendar-button";
 import { ViewListButton } from "@/components/view-list-button";
+import { APP_CONFIG, TERM_NAME } from "@/config";
 
 const courses = coursesData as Course[];
 
@@ -69,7 +70,7 @@ export default function Home() {
         <div className="container mx-auto flex h-14 items-center justify-between px-4">
           <div className="flex items-center gap-2">
             <GraduationCap className="h-6 w-6" />
-            <h1 className="text-lg font-semibold">VinUni Course Planner</h1>
+            <h1 className="text-lg font-semibold">{APP_CONFIG.site.name}</h1>
           </div>
           <div className="flex shrink-0 items-center gap-1">
             <SupportProjectButton />
@@ -90,7 +91,9 @@ export default function Home() {
         <section className="mb-6">
           {/* Title row with filter button at flex-end */}
           <div className="flex items-center justify-between mb-3">
-            <h2 className="text-xl font-semibold">Search Courses</h2>
+            <h2 className="text-xl font-semibold">
+              Search Courses for {TERM_NAME}
+            </h2>
             <div className="flex items-center gap-2">
               <ViewListButton courses={selectedCourses} />
               <ExportCalendarButton courses={selectedCourses} />
@@ -172,7 +175,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t py-6 mt-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>VinUni Course Planning Tool • Plan your semester schedule</p>
+          <p>{APP_CONFIG.site.footerText}</p>
         </div>
       </footer>
     </div>

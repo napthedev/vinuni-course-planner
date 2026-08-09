@@ -4,8 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import { Course, SelectedCourse } from "@/types/course";
 import { updateCoursesWithConflicts } from "@/lib/schedule-utils";
 import coursesData from "@/data/courses.json";
-
-const STORAGE_KEY = "vinuni-selected-courses";
+import { APP_CONFIG } from "@/config";
 
 // Master course data from courses.json
 const masterCourses = coursesData as Course[];
@@ -60,7 +59,9 @@ export function useSelectedCourses() {
   // Load from localStorage on mount
   useEffect(() => {
     try {
-      const stored = localStorage.getItem(STORAGE_KEY);
+      const stored = localStorage.getItem(
+        APP_CONFIG.storageKeys.selectedCourses,
+      );
       if (stored) {
         const parsed = JSON.parse(stored) as Course[];
         // Validate stored courses against master data
@@ -68,7 +69,10 @@ export function useSelectedCourses() {
 
         // If any courses were removed, update localStorage
         if (validatedCourses.length !== parsed.length) {
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(validatedCourses));
+          localStorage.setItem(
+            APP_CONFIG.storageKeys.selectedCourses,
+            JSON.stringify(validatedCourses),
+          );
           console.info(
             `Removed ${
               parsed.length - validatedCourses.length
@@ -93,7 +97,10 @@ export function useSelectedCourses() {
         const toStore = selectedCourses.map(
           ({ id, hasConflict, conflictsWith, ...course }) => course,
         );
-        localStorage.setItem(STORAGE_KEY, JSON.stringify(toStore));
+        localStorage.setItem(
+          APP_CONFIG.storageKeys.selectedCourses,
+          JSON.stringify(toStore),
+        );
       } catch (error) {
         console.error("Failed to save courses to localStorage:", error);
       }

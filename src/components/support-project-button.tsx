@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { HandCoins } from "lucide-react";
+import { HeartHandshake, TriangleAlert } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import {
@@ -20,12 +20,11 @@ export function SupportProjectButton() {
     <Dialog>
       <DialogTrigger asChild>
         <Button
-          variant="ghost"
           size="sm"
-          className="gap-2"
+          className="rounded-full shadow-sm"
           aria-label="Support this project"
         >
-          <HandCoins className="h-4 w-4" />
+          <HeartHandshake className="size-4.5" strokeWidth={2.25} />
           <span className="hidden md:inline">Support this project</span>
         </Button>
       </DialogTrigger>
@@ -56,10 +55,16 @@ export function SupportProjectButton() {
           </figcaption>
         </figure>
 
-        <p className="text-center text-xs leading-relaxed text-muted-foreground">
-          Supporting the project is entirely optional and does not unlock any
-          additional features. Thank you for helping keep it available.
-        </p>
+        <div className="flex gap-3 rounded-lg border border-yellow-300 bg-yellow-50 px-4 py-3 text-sm font-medium leading-relaxed text-yellow-950 dark:border-yellow-700 dark:bg-yellow-950/30 dark:text-yellow-100">
+          <TriangleAlert
+            className="mt-0.5 size-4 shrink-0 text-yellow-600 dark:text-yellow-400"
+            aria-hidden="true"
+          />
+          <p>
+            Supporting the project is entirely optional and does not unlock any
+            additional features. Thank you for helping keep it available.
+          </p>
+        </div>
 
         <DialogFooter>
           <DialogClose asChild>

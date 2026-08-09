@@ -176,6 +176,9 @@ export default function Home() {
       <footer className="border-t py-6 mt-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
           <p>{APP_CONFIG.site.footerText}</p>
+          <p className="mx-auto mt-3 max-w-3xl text-xs leading-relaxed">
+            {APP_CONFIG.site.disclaimer}
+          </p>
         </div>
       </footer>
     </div>

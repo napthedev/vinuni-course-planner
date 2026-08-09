@@ -234,7 +234,12 @@ export function CourseSelector({
                         <AlertTriangle className="h-3 w-3" />
                         <span>
                           Conflicts with:{" "}
-                          {conflictingCourses.map((c) => c.Section).join(", ")}
+                          {conflictingCourses
+                            .map(
+                              (conflictingCourse) =>
+                                `${conflictingCourse["Course Title"]} (${conflictingCourse.Section})`
+                            )
+                            .join(", ")}
                         </span>
                       </div>
                     )}

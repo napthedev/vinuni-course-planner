@@ -14,6 +14,35 @@ const {
     writeFileIfChanged,
 } = require('./parse-courses');
 
+function createCourseRow({
+    course,
+    section,
+    schedule,
+    scheduleTitle,
+}) {
+    const scheduleMarkup = scheduleTitle === undefined
+        ? schedule
+        : `<span id="lnkDetails" title="${scheduleTitle}">${schedule}</span>`;
+
+    return `
+        <tr>
+            <td></td>
+            <td>${course}</td>
+            <td>${course} title</td>
+            <td>${section}</td>
+            <td>2/9/2026 to 6/5/2026</td>
+            <td>3.00</td>
+            <td>${scheduleMarkup}</td>
+            <td>Instructor</td>
+            <td>Classroom</td>
+        </tr>
+    `;
+}
+
+function createCourseTable(rows) {
+    return `<table id="CourseList"><tbody>${rows.join('')}</tbody></table>`;
+}
+
 test('hashSource returns a stable SHA-256 hash', () => {
     const hash = hashSource('course data');
 
@@ -110,4 +139,51 @@ test('invalid course HTML fails before generated data can be produced', () => {
         () => parseAndValidateCourses('<html><body>No course table</body></html>'),
         /No courses found/,
     );
+});
+
+test('course parsing excludes rows without a usable schedule', () => {
+    const html = createCourseTable([
+        createCourseRow({
+            course: 'VALID1010',
+            section: 'VALID1',
+            schedule: 'MW 9:00AM- 10:15AM',
+            scheduleTitle: 'MW 9:00AM- 10:15AM',
+        }),
+        createCourseRow({
+            course: 'TBA1010',
+            section: 'TBA1',
+            schedule: 'No scheduled meetings',
+        }),
+        createCourseRow({
+            course: 'BLANK1010',
+            section: 'BLANK1',
+            schedule: '',
+        }),
+        createCourseRow({
+            course: 'UNKNOWN1010',
+            section: 'UNKNOWN1',
+            schedule: 'Schedule forthcoming',
+        }),
+    ]);
+
+    const courses = parseAndValidateCourses(html);
+
+    assert.equal(courses.length, 1);
+    assert.equal(courses[0].Course, 'VALID1010');
+    assert.deepEqual(courses[0].Schedule, [
+        { day: 'Monday', time: '9:00AM to 10:15AM' },
+        { day: 'Wednesday', time: '9:00AM to 10:15AM' },
+    ]);
+});
+
+test('course parsing rejects input containing only unscheduled courses', () => {
+    const html = createCourseTable([
+        createCourseRow({
+            course: 'TBA1010',
+            section: 'TBA1',
+            schedule: 'No scheduled meetings',
+        }),
+    ]);
+
+    assert.throws(() => parseAndValidateCourses(html), /No courses found/);
 });

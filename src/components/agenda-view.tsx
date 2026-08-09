@@ -6,7 +6,6 @@ import { SelectedCourse, DAYS_OF_WEEK, ParsedTimeSlot } from "@/types/course";
 import {
   parseSchedule,
   formatTime,
-  hasValidSchedule,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
 
@@ -69,7 +68,7 @@ export function AgendaView({ courses }: AgendaViewProps) {
       grouped.set(day, []);
     });
 
-    courses.filter(hasValidSchedule).forEach((course) => {
+    courses.forEach((course) => {
       const slots = parseSchedule(course);
       slots.forEach((slot) => {
         const dayItems = grouped.get(slot.day);
@@ -90,8 +89,6 @@ export function AgendaView({ courses }: AgendaViewProps) {
 
     return grouped;
   }, [courses]);
-
-  const scheduledCourses = courses.filter(hasValidSchedule);
 
   return (
     <div className="space-y-4">
@@ -190,11 +187,11 @@ export function AgendaView({ courses }: AgendaViewProps) {
       })}
 
       {/* Legend */}
-      {scheduledCourses.length > 0 && (
+      {courses.length > 0 && (
         <div className="mt-6 pt-4 border-t">
           <h5 className="text-sm font-medium mb-2">Legend</h5>
           <div className="flex flex-wrap gap-2">
-            {scheduledCourses.map((course) => (
+            {courses.map((course) => (
               <div
                 key={course.Section}
                 className="flex items-center gap-1.5 text-xs"
@@ -218,7 +215,7 @@ export function AgendaView({ courses }: AgendaViewProps) {
       )}
 
       {/* Empty state */}
-      {scheduledCourses.length === 0 && (
+      {courses.length === 0 && (
         <div className="text-center py-12 text-muted-foreground">
           <p>No scheduled courses to display.</p>
           <p className="text-sm mt-1">

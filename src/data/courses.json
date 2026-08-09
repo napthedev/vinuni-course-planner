@@ -38,16 +38,6 @@
         ]
     },
     {
-        "Course": "GENB1870 ##",
-        "Course Title": "Business Internship",
-        "Section": "BUISU261",
-        "Dates": "6/29/2026 to 9/11/2026",
-        "Credits": "3.00",
-        "Instructor": "Hai Ho Hong",
-        "Delivery Method": "Internship",
-        "Schedule": []
-    },
-    {
         "Course": "LAW1010",
         "Course Title": "Introduction to Law",
         "Section": "INLSU261",
@@ -129,16 +119,6 @@
                 "time": "2:00PM to 5:30PM"
             }
         ]
-    },
-    {
-        "Course": "VCOR1030 ##",
-        "Course Title": "National Defense Education (for Vietnamese citizen only)",
-        "Section": "NDESU261",
-        "Dates": "9/3/2026 to 9/19/2026",
-        "Credits": "0.00",
-        "Instructor": "Lien Trinh Thi Thuy",
-        "Delivery Method": "Classroom",
-        "Schedule": []
     },
     {
         "Course": "ENGL1030",

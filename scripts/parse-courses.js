@@ -257,7 +257,8 @@ function writeFileIfChanged(filePath, content) {
 }
 
 function parseAndValidateCourses(htmlContent) {
-    const courses = modifyScheduleTimes(extractCourseData(htmlContent));
+    const courses = modifyScheduleTimes(extractCourseData(htmlContent))
+        .filter((course) => course.Schedule?.length > 0);
 
     if (courses.length === 0) {
         throw new Error('No courses found in the HTML. Ensure the table has id="CourseList"');

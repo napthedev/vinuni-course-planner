@@ -5,9 +5,8 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { Separator } from "@/components/ui/separator";
 import { SelectedCourse } from "@/types/course";
-import { hasValidSchedule, calculateTotalCredits } from "@/lib/schedule-utils";
+import { calculateTotalCredits } from "@/lib/schedule-utils";
 
 interface SelectedCoursesProps {
   courses: SelectedCourse[];
@@ -22,8 +21,6 @@ function CourseCard({
   course: SelectedCourse;
   onRemove: () => void;
 }) {
-  const hasSched = hasValidSchedule(course);
-
   return (
     <div
       className={`p-3 rounded-lg border ${
@@ -63,11 +60,9 @@ function CourseCard({
             <div className="flex items-start gap-1">
               <Clock className="h-3 w-3 shrink-0 mt-0.5" />
               <span>
-                {hasSched
-                  ? course.Schedule.map(
-                      (s) => `${s.day.slice(0, 3)} ${s.time}`
-                    ).join(", ")
-                  : "TBA"}
+                {course.Schedule.map(
+                  (s) => `${s.day.slice(0, 3)} ${s.time}`
+                ).join(", ")}
               </span>
             </div>
           </div>
@@ -97,8 +92,6 @@ export function SelectedCourses({
   onRemoveCourse,
   onClearAll,
 }: SelectedCoursesProps) {
-  const scheduledCourses = courses.filter(hasValidSchedule);
-  const tbaCourses = courses.filter((c) => !hasValidSchedule(c));
   const totalCredits = calculateTotalCredits(courses);
   const conflictCount = courses.filter((c) => c.hasConflict).length;
 
@@ -141,35 +134,13 @@ export function SelectedCourses({
       <CardContent className="pt-0">
         <ScrollArea className="h-[400px] lg:h-[500px] pr-4">
           <div className="space-y-3">
-            {scheduledCourses.length > 0 && (
-              <>
-                <h5 className="text-sm font-medium text-muted-foreground">
-                  Scheduled ({scheduledCourses.length})
-                </h5>
-                {scheduledCourses.map((course) => (
-                  <CourseCard
-                    key={course.Section}
-                    course={course}
-                    onRemove={() => onRemoveCourse(course.Section)}
-                  />
-                ))}
-              </>
-            )}
-            {tbaCourses.length > 0 && (
-              <>
-                {scheduledCourses.length > 0 && <Separator className="my-4" />}
-                <h5 className="text-sm font-medium text-muted-foreground">
-                  Schedule TBA ({tbaCourses.length})
-                </h5>
-                {tbaCourses.map((course) => (
-                  <CourseCard
-                    key={course.Section}
-                    course={course}
-                    onRemove={() => onRemoveCourse(course.Section)}
-                  />
-                ))}
-              </>
-            )}
+            {courses.map((course) => (
+              <CourseCard
+                key={course.Section}
+                course={course}
+                onRemove={() => onRemoveCourse(course.Section)}
+              />
+            ))}
           </div>
         </ScrollArea>
       </CardContent>

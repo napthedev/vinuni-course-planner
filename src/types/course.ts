@@ -18,7 +18,7 @@ export interface Course {
   Credits: string; // Credits as string, e.g., "3.00"
   Instructor: string; // Instructor name
   "Delivery Method": string; // e.g., "Classroom", "Hybrid"
-  Schedule: Schedule[];
+  Schedule: Schedule[]; // Generated course data always contains at least one entry
 }
 
 export interface SelectedCourse extends Course {

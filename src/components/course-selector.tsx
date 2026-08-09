@@ -28,7 +28,6 @@ import {
 import { Badge } from "@/components/ui/badge";
 import { Course } from "@/types/course";
 import {
-  hasValidSchedule,
   courseMatchesTimeFilter,
   coursesConflict,
 } from "@/lib/schedule-utils";
@@ -46,9 +45,6 @@ interface CourseSelectorProps {
 }
 
 function formatSchedule(course: Course): string {
-  if (!hasValidSchedule(course)) {
-    return "TBA";
-  }
   return course.Schedule.map((s) => `${s.day.slice(0, 3)} ${s.time}`).join(
     ", "
   );
@@ -162,7 +158,6 @@ export function CourseSelector({
                 const isCourseCodeAlreadyAdded = isCourseCodeSelected(
                   course.Course
                 );
-                const hasSched = hasValidSchedule(course);
 
                 // Check for conflicts with selected courses
                 const conflictingCourses = selectedCourses.filter((selected) =>
@@ -206,11 +201,6 @@ export function CourseSelector({
                         <Badge variant="outline" className="text-xs">
                           {course.Credits} credits
                         </Badge>
-                        {!hasSched && (
-                          <Badge variant="destructive" className="text-xs">
-                            TBA
-                          </Badge>
-                        )}
                       </div>
                       {isSelected && (
                         <Check className="h-4 w-4 text-primary shrink-0" />

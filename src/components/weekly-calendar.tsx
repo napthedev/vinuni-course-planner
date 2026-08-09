@@ -12,7 +12,6 @@ import { APP_CONFIG } from "@/config";
 import {
   parseSchedule,
   generateTimeLabels,
-  hasValidSchedule,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
@@ -82,7 +81,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
   const calendarBlocks = useMemo(() => {
     const blocks: CalendarBlock[] = [];
 
-    courses.filter(hasValidSchedule).forEach((course) => {
+    courses.forEach((course) => {
       const slots = parseSchedule(course);
       slots.forEach((slot) => {
         const dayIndex = DAYS_OF_WEEK.indexOf(
@@ -273,7 +272,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
           <div className="mt-4 px-4 sm:px-0">
             <h5 className="text-sm font-medium mb-2">Legend</h5>
             <div className="flex flex-wrap gap-2">
-              {courses.filter(hasValidSchedule).map((course) => (
+              {courses.map((course) => (
                 <div
                   key={course.Section}
                   className="flex items-center gap-1.5 text-xs"
@@ -297,7 +296,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
         )}
 
         {/* Empty state */}
-        {courses.filter(hasValidSchedule).length === 0 && (
+        {courses.length === 0 && (
           <div className="text-center py-12 text-muted-foreground">
             <p>No scheduled courses to display.</p>
             <p className="text-sm mt-1">

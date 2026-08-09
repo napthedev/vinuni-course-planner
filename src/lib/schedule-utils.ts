@@ -169,13 +169,6 @@ export function updateCoursesWithConflicts(
 }
 
 /**
- * Check if a course has a valid schedule (not TBA/empty)
- */
-export function hasValidSchedule(course: Course): boolean {
-  return course.Schedule.length > 0;
-}
-
-/**
  * Get calendar position for a time slot
  * Returns the row start and row span for CSS grid
  */
@@ -246,7 +239,6 @@ export interface TimeFilterOptions {
 
 /**
  * Check if a course matches the time filter criteria
- * - TBA courses are hidden when any filter is active
  * - Returns false if any schedule slot fails the day/time criteria
  */
 export function courseMatchesTimeFilter(
@@ -256,11 +248,6 @@ export function courseMatchesTimeFilter(
   // If no filters are active, all courses pass
   if (!options.hasActiveFilters) {
     return true;
-  }
-
-  // TBA courses are hidden when filters are active
-  if (!hasValidSchedule(course)) {
-    return false;
   }
 
   const slots = parseSchedule(course);

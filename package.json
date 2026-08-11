@@ -8,7 +8,7 @@
     "build": "node scripts/parse-courses.js && next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "node --test scripts/parse-courses.test.js"
+    "test": "bun test scripts/parse-courses.test.js src/lib/ics-generator.test.ts"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

@@ -64,6 +64,14 @@ function formatICSDateTime(date: Date): string {
 }
 
 /**
+ * Format a Date object as an iCalendar UTC date-time
+ * e.g., "20260209T020000Z"
+ */
+function formatICSDateTimeUTC(date: Date): string {
+  return date.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}Z$/, "Z");
+}
+
+/**
  * Format a Date object to iCalendar date format (for UNTIL)
  * e.g., "20260605T235959Z" (UTC)
  */
@@ -116,17 +124,28 @@ function escapeICSText(text: string): string {
  * Fold long lines according to RFC 5545 (max 75 octets per line)
  */
 function foldLine(line: string): string {
-  const maxLength = 75;
-  if (line.length <= maxLength) return line;
+  const maxOctets = 75;
+  const encoder = new TextEncoder();
+  if (encoder.encode(line).length <= maxOctets) return line;
 
   const result: string[] = [];
-  let remaining = line;
+  let currentLine = "";
+  let currentOctets = 0;
 
-  while (remaining.length > maxLength) {
-    result.push(remaining.substring(0, maxLength));
-    remaining = " " + remaining.substring(maxLength);
+  for (const character of line) {
+    const characterOctets = encoder.encode(character).length;
+
+    if (currentOctets + characterOctets > maxOctets) {
+      result.push(currentLine);
+      currentLine = ` ${character}`;
+      currentOctets = 1 + characterOctets;
+    } else {
+      currentLine += character;
+      currentOctets += characterOctets;
+    }
   }
-  result.push(remaining);
+
+  result.push(currentLine);
 
   return result.join("\r\n");
 }
@@ -187,7 +206,7 @@ export function generateICS(courses: SelectedCourse[]): string {
       // Generate VEVENT
       lines.push("BEGIN:VEVENT");
       lines.push(`UID:${uid}`);
-      lines.push(`DTSTAMP:${formatICSDateTime(new Date())}`);
+      lines.push(`DTSTAMP:${formatICSDateTimeUTC(new Date())}`);
       lines.push(
         `DTSTART;TZID=Asia/Ho_Chi_Minh:${formatICSDateTime(eventStart)}`
       );
@@ -214,8 +233,8 @@ export function generateICS(courses: SelectedCourse[]): string {
 
   lines.push("END:VCALENDAR");
 
-  // Fold long lines and join with CRLF
-  return lines.map(foldLine).join("\r\n");
+  // Fold long lines, join with CRLF, and terminate the calendar with CRLF
+  return `${lines.map(foldLine).join("\r\n")}\r\n`;
 }
 
 /**

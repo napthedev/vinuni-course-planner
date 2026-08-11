@@ -89,12 +89,12 @@ export default function Home() {
 
         {/* Course Selector */}
         <section className="mb-6">
-          {/* Title row with filter button at flex-end */}
-          <div className="flex items-center justify-between mb-3">
+          {/* Stack actions below the title on narrow screens */}
+          <div className="mb-3 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
             <h2 className="text-xl font-semibold">
               Search Courses for {TERM_NAME}
             </h2>
-            <div className="flex items-center gap-2">
+            <div className="flex items-center justify-end gap-2">
               <ViewListButton courses={selectedCourses} />
               <ExportCalendarButton courses={selectedCourses} />
               <CourseFilters

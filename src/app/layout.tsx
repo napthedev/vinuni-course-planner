@@ -18,6 +18,16 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: APP_CONFIG.site.name,
   description: APP_CONFIG.site.description,
+  openGraph: {
+    images: [
+      {
+        url: "/preview.png",
+        width: 2425,
+        height: 1541,
+        alt: `${APP_CONFIG.site.name} preview`,
+      },
+    ],
+  },
 };
 
 export default function RootLayout({

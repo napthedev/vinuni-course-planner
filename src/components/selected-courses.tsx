@@ -32,43 +32,50 @@ function CourseCard({
 }) {
   return (
     <div
-      className={`p-3 rounded-lg border ${
+      className={`w-full max-w-full min-w-0 overflow-hidden rounded-lg border p-3 ${
         course.hasConflict
           ? "border-red-500 bg-red-50 dark:bg-red-950/30"
           : "border-green-500 bg-green-50 dark:bg-green-950/30"
       }`}
     >
-      <div className="flex items-start justify-between gap-2">
-        <div className="flex-1 min-w-0">
-          <div className="flex items-center gap-2 flex-wrap mb-1">
+      <div className="flex min-w-0 max-w-full items-start justify-between gap-2">
+        <div className="min-w-0 max-w-full flex-1">
+          <div className="mb-1 flex max-w-full flex-wrap items-center gap-2">
             <Badge
               variant={course.hasConflict ? "destructive" : "default"}
-              className="font-mono text-xs"
+              className="max-w-full whitespace-normal break-words text-left font-mono text-xs [overflow-wrap:anywhere]"
             >
               {course.Course}
             </Badge>
-            <Badge variant="outline" className="text-xs">
+            <Badge
+              variant="outline"
+              className="max-w-full whitespace-normal break-words text-left text-xs [overflow-wrap:anywhere]"
+            >
               {course.Section}
             </Badge>
             <Badge variant="secondary" className="text-xs">
               {course.Credits} cr
             </Badge>
           </div>
-          <h4 className="font-medium text-sm line-clamp-2 mb-2">
+          <h4 className="mb-2 max-w-full whitespace-normal break-words text-sm font-medium [overflow-wrap:anywhere]">
             {course["Course Title"]}
           </h4>
-          <div className="space-y-1 text-xs text-muted-foreground">
-            <div className="flex items-center gap-1">
+          <div className="max-w-full space-y-1 text-xs text-muted-foreground">
+            <div className="flex min-w-0 items-start gap-1">
               <User className="h-3 w-3 shrink-0" />
-              <span className="truncate">{course.Instructor}</span>
+              <span className="min-w-0 max-w-full whitespace-normal break-words [overflow-wrap:anywhere]">
+                {course.Instructor}
+              </span>
             </div>
-            <div className="flex items-center gap-1">
+            <div className="flex min-w-0 items-start gap-1">
               <Calendar className="h-3 w-3 shrink-0" />
-              <span>{course.Dates}</span>
+              <span className="min-w-0 max-w-full whitespace-normal break-words [overflow-wrap:anywhere]">
+                {course.Dates}
+              </span>
             </div>
-            <div className="flex items-start gap-1">
+            <div className="flex min-w-0 items-start gap-1">
               <Clock className="h-3 w-3 shrink-0 mt-0.5" />
-              <span>
+              <span className="min-w-0 max-w-full whitespace-normal break-words [overflow-wrap:anywhere]">
                 {course.Schedule.map(
                   (s) => `${s.day.slice(0, 3)} ${s.time}`
                 ).join(", ")}
@@ -76,9 +83,11 @@ function CourseCard({
             </div>
           </div>
           {course.hasConflict && (
-            <div className="flex items-center gap-1 mt-2 text-xs text-red-600 dark:text-red-400">
-              <AlertTriangle className="h-3 w-3" />
-              <span>Conflicts with: {course.conflictsWith.join(", ")}</span>
+            <div className="mt-2 flex min-w-0 items-start gap-1 text-xs text-red-600 dark:text-red-400">
+              <AlertTriangle className="h-3 w-3 shrink-0" />
+              <span className="min-w-0 max-w-full whitespace-normal break-words [overflow-wrap:anywhere]">
+                Conflicts with: {course.conflictsWith.join(", ")}
+              </span>
             </div>
           )}
         </div>
@@ -225,7 +234,7 @@ export function SelectedCourses({
                 : { height: `${desktopListHeight}px` }
             }
           >
-            <div ref={listRef} className="space-y-3">
+            <div ref={listRef} className="w-full min-w-0 max-w-full space-y-3">
               {courses.map((course) => (
                 <CourseCard
                   key={course.Section}

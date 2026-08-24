@@ -23,7 +23,7 @@ export function ExportCalendarButton({ courses }: ExportCalendarButtonProps) {
   const getTooltipMessage = () => {
     if (noCourses) return "Add courses to export";
     if (hasConflicts) return "Resolve conflicts before exporting";
-    return "Download calendar file (.ics)";
+    return "You can import this file into Outlook Calendar";
   };
 
   const handleExport = () => {
@@ -45,7 +45,7 @@ export function ExportCalendarButton({ courses }: ExportCalendarButtonProps) {
               disabled={!canExport}
             >
               <Download className="h-4 w-4" />
-              <span className="hidden sm:inline">Export</span>
+              <span className="hidden sm:inline">Export calendar file (.ics)</span>
             </Button>
           </span>
         </TooltipTrigger>

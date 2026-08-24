@@ -1,4 +1,4 @@
-export const TERM_NAME = "Summer 2026 Semester";
+export const TERM_NAME = "Fall 2026 Semester";
 
 export const APP_CONFIG = {
   site: {
@@ -12,7 +12,7 @@ export const APP_CONFIG = {
     googleMeasurementId: "G-S00YVDJTZX",
   },
   countdown: {
-    targetDateTime: "2026-06-30T14:00:00+07:00",
+    targetDateTime: "2026-08-26:14:00+07:00",
     timeZone: "Asia/Bangkok",
     locale: "en-US",
     heading: "Course Registration Opens In",

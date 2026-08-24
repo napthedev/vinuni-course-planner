@@ -3,7 +3,7 @@
 VinUni Course Planner is an independent web app that helps VinUniversity students explore course sections and build a workable semester schedule before registration. It turns the published course list into a searchable, visual planning experience with automatic conflict detection, credit totals, and calendar export.
 
 > [!IMPORTANT]
-> This is an unofficial project and is not affiliated with or endorsed by VinUniversity. Course offerings and schedules can change. Always verify your final plan in SIS and through official VinUniversity channels.
+> This is an unofficial project and is not affiliated with or endorsed by VinUniversity. Course offerings and schedules can change. Always verify your final plan in VinUniDigi and through official VinUniversity channels.
 
 ## Project objectives
 
@@ -12,7 +12,7 @@ VinUni Course Planner is an independent web app that helps VinUniversity student
 - Present a schedule clearly on both desktop and mobile devices.
 - Keep planning lightweight by saving selections and filters in the browser without requiring an account.
 - Let students reuse a completed plan as a text list or an `.ics` calendar file.
-- Provide a repeatable, tested workflow for converting the latest SIS course-list HTML into application data.
+- Provide a repeatable, tested workflow for converting the latest VinUniDigi course-list API export into application data.
 
 ## Features
 
@@ -71,12 +71,12 @@ Open [http://localhost:3000](http://localhost:3000). The development command reg
 
 Course JSON is generated and should not be edited by hand.
 
-1. Replace `scripts/index.html` with the latest course-list HTML.
+1. Replace `scripts/raw-data.js` with the latest paginated course-list API responses.
 2. Run `bun run parse`.
 3. Review the changes to `src/data/courses.json` and `src/data/courses.meta.json` for missing courses or malformed schedules.
-4. Commit the source HTML and both generated JSON files together.
+4. Commit the raw source and both generated JSON files together.
 
-The parser reads the `#CourseList` table, normalizes course fields and meeting times, and writes the data consumed by the app. The displayed update date comes from the latest Git commit that changed `scripts/index.html`. For an uncommitted update, the parser uses the current date in Vietnam time. If the input has not changed, generated files are left untouched.
+The parser combines every page exported in `scripts/raw-data.js`, normalizes course fields and meeting times, and writes the data consumed by the app. The displayed update date comes from the latest Git commit that changed `scripts/raw-data.js`. For an uncommitted update, the parser uses the current date in Vietnam time. If the input has not changed, generated files are left untouched.
 
 ## Project structure
 
@@ -87,7 +87,7 @@ src/hooks/        Persistent selection and filter state
 src/lib/          Schedule, conflict, and iCalendar utilities
 src/types/        Course domain types
 src/data/         Generated course data and metadata
-scripts/          SIS HTML source, parser, and parser tests
+scripts/          VinUniDigi raw data source, parser, and parser tests
 public/           Static assets
 ```
 
@@ -109,4 +109,4 @@ When changing the importer, add focused cases to `scripts/parse-courses.test.js`
 
 Contributions are welcome. Keep changes focused, follow the existing TypeScript and component conventions, and include screenshots for user-interface changes. Use concise Conventional Commit subjects such as `feat: add schedule conflict filter`.
 
-When opening a pull request, describe the user-visible impact, list the validation commands you ran, and call out any regenerated course data or assumptions about the SIS source.
+When opening a pull request, describe the user-visible impact, list the validation commands you ran, and call out any regenerated course data or assumptions about the VinUniDigi source.

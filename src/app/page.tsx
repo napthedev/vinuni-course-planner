@@ -23,21 +23,25 @@ import { APP_CONFIG, TERM_NAME } from "@/config";
 
 const courses = coursesData as Course[];
 
-function formatLastUpdatedDate(isoDate: string) {
-  const [year, month, day] = isoDate.split("-").map(Number);
-  const date = new Date(Date.UTC(year, month - 1, day));
+function formatLastUpdated(timestamp: string) {
+  const parts = Object.fromEntries(
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: "Asia/Ho_Chi_Minh",
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+      hour: "numeric",
+      minute: "2-digit",
+      hour12: true,
+    })
+      .formatToParts(new Date(timestamp))
+      .map(({ type, value }) => [type, value]),
+  );
 
-  return new Intl.DateTimeFormat("en-US", {
-    timeZone: "UTC",
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-  })
-    .format(date)
-    .replace(",", "");
+  return `${parts.month} ${parts.day} ${parts.year} at ${parts.hour}:${parts.minute} ${parts.dayPeriod}`;
 }
 
-const LAST_UPDATED_DATE = formatLastUpdatedDate(coursesMetadata.lastUpdated);
+const LAST_UPDATED = formatLastUpdated(coursesMetadata.lastUpdated);
 
 export default function Home() {
   const [filtersOpen, setFiltersOpen] = useState(false);
@@ -83,7 +87,7 @@ export default function Home() {
         {/* Update Warning */}
         <div className="mb-6 p-4 bg-amber-50 dark:bg-amber-950 border border-amber-200 dark:border-amber-800 rounded-lg">
           <p className="text-sm text-amber-900 dark:text-amber-100">
-            <span className="font-semibold">📋 Course Data Notice:</span> The course schedule was last updated on <span className="font-medium">{LAST_UPDATED_DATE}</span>. Please note that schedules may change at any time. We recommend double-checking course information on SIS before finalizing your registration.
+            <span className="font-semibold">📋 Course Data Notice:</span> The course schedule was last updated on <span className="font-medium">{LAST_UPDATED} (Vietnam time)</span>. Please note that schedules may change at any time. We recommend double-checking course information on VinUniDigi before finalizing your registration.
           </p>
         </div>
 

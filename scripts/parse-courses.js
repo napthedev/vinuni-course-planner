@@ -8,155 +8,326 @@ const { execFileSync } = require('child_process');
 const cheerio = require('cheerio');
 
 const REPO_ROOT = path.join(__dirname, '..');
-const INPUT_FILE = path.join(__dirname, 'index.html');
+const INPUT_FILE = path.join(__dirname, 'raw-data.js');
 const OUTPUT_FILE = path.join(REPO_ROOT, 'src', 'data', 'courses.json');
 const METADATA_FILE = path.join(REPO_ROOT, 'src', 'data', 'courses.meta.json');
 const VIETNAM_TIME_ZONE = 'Asia/Ho_Chi_Minh';
 
-// Day mapping configuration
-const DAY_MAP = {
-    M: 'Monday',
-    T: 'Tuesday',
-    W: 'Wednesday',
-    H: 'Thursday',
-    F: 'Friday',
-    S: 'Saturday',
-    U: 'Sunday',
+const DAYS = [
+    'Sunday',
+    'Monday',
+    'Tuesday',
+    'Wednesday',
+    'Thursday',
+    'Friday',
+    'Saturday',
+];
+
+const DELIVERY_METHOD_MAP = {
+    'Trực tiếp': 'Classroom',
+    'Trực tuyến': 'Online',
+    'Kết hợp': 'Hybrid',
 };
 
-/**
- * Extract course data from HTML
- * Mirrors the logic from main.py
- */
-function extractCourseData(htmlSource) {
-    const $ = cheerio.load(htmlSource);
-    const table = $('#CourseList');
+const TIME_FORMATTER = new Intl.DateTimeFormat('en-US', {
+    timeZone: VIETNAM_TIME_ZONE,
+    hour: '2-digit',
+    minute: '2-digit',
+    hourCycle: 'h23',
+});
 
-    if (table.length === 0) {
-        console.warn('Warning: CourseList table not found');
-        return [];
+const DATE_FORMATTER = new Intl.DateTimeFormat('en-US', {
+    timeZone: VIETNAM_TIME_ZONE,
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+});
+
+function normalizeText(value) {
+    if (typeof value !== 'string') {
+        return '';
     }
 
-    const results = [];
+    const $ = cheerio.load('<textarea></textarea>');
+    $('textarea').html(value);
 
-    // Extract rows from tbody
-    table.find('tbody tr').each((_, row) => {
-        const $row = $(row);
-        const cells = $row.find('td');
-
-        if (cells.length === 0) {
-            return;
-        }
-
-        const rowData = {};
-
-        // Extract course information from specific cell indices
-        // 1: Course, 2: Course Title, 3: Section, 4: Dates, 5: Credits, 7: Instructor, 8: Delivery Method
-        // Helper function to normalize whitespace like Python's strip=True
-        const normalizeText = (text) => text.replace(/\s+/g, ' ').trim();
-
-        rowData.Course = normalizeText($(cells[1]).text());
-        rowData['Course Title'] = normalizeText($(cells[2]).text());
-        rowData.Section = normalizeText($(cells[3]).text());
-        rowData.Dates = normalizeText($(cells[4]).text());
-        rowData.Credits = normalizeText($(cells[5]).text());
-        rowData.Instructor = normalizeText($(cells[7]).text());
-        rowData['Delivery Method'] = normalizeText($(cells[8]).text());
-
-        // Special handling for Schedule column (Index 6)
-        const scheduleCell = $(cells[6]);
-        const scheduleSpan = scheduleCell.find('span[id="lnkDetails"]');
-
-        let rawScheduleText = '';
-
-        // Prioritize the 'title' attribute if it exists, otherwise use text
-        if (scheduleSpan.length > 0) {
-            rawScheduleText = scheduleSpan.attr('title') || scheduleSpan.text().trim();
-        } else {
-            rawScheduleText = scheduleCell.text().trim();
-        }
-
-        const parsedSchedule = [];
-
-        if (rawScheduleText && rawScheduleText !== 'No scheduled meetings') {
-            // Split by semicolon or newlines to handle multiple schedules
-            const scheduleParts = rawScheduleText.split(/[;\n]+/);
-
-            for (const part of scheduleParts) {
-                const trimmedPart = part.trim();
-                if (!trimmedPart) continue;
-
-                // Regex to separate Day Codes from Time
-                // Looks for one or more letters [MTWHFSU] at start, followed by space
-                const match = trimmedPart.match(/^([MTWHFSU]+)\s+(.*)/);
-
-                if (match) {
-                    const daysCode = match[1];
-                    let timeStr = match[2].trim();
-
-                    // Iterate through day codes (e.g., "WF" -> W, F)
-                    for (const char of daysCode) {
-                        if (char in DAY_MAP) {
-                            parsedSchedule.push({
-                                day: DAY_MAP[char],
-                                time: timeStr,
-                            });
-                        }
-                    }
-                }
-            }
-        }
-
-        rowData.Schedule = parsedSchedule;
-        results.push(rowData);
-    });
-
-    return results;
+    return $('textarea').text().replace(/\s+/g, ' ').trim();
 }
 
-/**
- * Modify schedule times
- * Mirrors the logic from modify.py
- */
-function modifyScheduleTimes(courses) {
-    for (const course of courses) {
-        // Skip if Schedule is missing or empty
-        if (!course.Schedule || course.Schedule.length === 0) {
-            continue;
-        }
+function parseRawDataSource(source) {
+    const match = source.match(
+        /^\s*export\s+const\s+TABLES\s*=\s*([\s\S]*?)\s*;?\s*$/,
+    );
 
-        const newSchedule = [];
-
-        for (const item of course.Schedule) {
-            // Skip items without a time field
-            if (!item.time) {
-                continue;
-            }
-
-            // Replace "- " with " to "
-            let timeStr = item.time.replace(/- /g, ' to ');
-
-            // Split on ", " if present (e.g., "9:00AM to 12:00PM, 3:30PM to 5:20PM")
-            if (timeStr.includes(', ')) {
-                const times = timeStr.split(', ');
-                for (const t of times) {
-                    newSchedule.push({
-                        day: item.day || '',
-                        time: t,
-                    });
-                }
-            } else {
-                newSchedule.push({
-                    day: item.day || '',
-                    time: timeStr,
-                });
-            }
-        }
-
-        course.Schedule = newSchedule;
+    if (!match) {
+        throw new Error('Raw data must use the format "export const TABLES = [...]"');
     }
 
-    return courses;
+    let tables;
+
+    try {
+        tables = JSON.parse(match[1]);
+    } catch (error) {
+        throw new Error(`Unable to parse TABLES JSON: ${error.message}`);
+    }
+
+    if (!Array.isArray(tables) || tables.length === 0) {
+        throw new Error('TABLES must be a non-empty array');
+    }
+
+    return tables;
+}
+
+function combineTableResults(tables) {
+    const pages = tables.map((table, index) => {
+        if (!table || table.success !== true) {
+            throw new Error(`TABLES entry ${index + 1} is not a successful response`);
+        }
+
+        const { data } = table;
+
+        if (!data || !Array.isArray(data.result)) {
+            throw new Error(`TABLES entry ${index + 1} is missing data.result`);
+        }
+
+        if (!Number.isInteger(data.page) || data.page < 1) {
+            throw new Error(`TABLES entry ${index + 1} has an invalid page number`);
+        }
+
+        if (!Number.isInteger(data.total) || data.total < 0) {
+            throw new Error(`TABLES entry ${index + 1} has an invalid total`);
+        }
+
+        return {
+            page: data.page,
+            total: data.total,
+            result: data.result,
+        };
+    });
+
+    const pageNumbers = pages.map(({ page }) => page);
+
+    if (new Set(pageNumbers).size !== pageNumbers.length) {
+        throw new Error('TABLES contains duplicate page numbers');
+    }
+
+    pages.sort((a, b) => a.page - b.page);
+
+    for (let index = 0; index < pages.length; index += 1) {
+        const expectedPage = index + 1;
+
+        if (pages[index].page !== expectedPage) {
+            throw new Error(`TABLES is missing page ${expectedPage}`);
+        }
+    }
+
+    const expectedTotal = pages[0].total;
+
+    if (pages.some(({ total }) => total !== expectedTotal)) {
+        throw new Error('TABLES pages report inconsistent totals');
+    }
+
+    const records = pages.flatMap(({ result }) => result);
+
+    if (records.length !== expectedTotal) {
+        throw new Error(
+            `Incomplete TABLES data: expected ${expectedTotal} records but found ${records.length}`,
+        );
+    }
+
+    return records;
+}
+
+function parseIsoDate(value, context) {
+    if (typeof value !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(value)) {
+        throw new Error(`${context} has an invalid meeting date`);
+    }
+
+    const [year, month, day] = value.split('-').map(Number);
+    const date = new Date(Date.UTC(year, month - 1, day));
+
+    if (
+        date.getUTCFullYear() !== year
+        || date.getUTCMonth() !== month - 1
+        || date.getUTCDate() !== day
+    ) {
+        throw new Error(`${context} has an invalid meeting date`);
+    }
+
+    return date;
+}
+
+function getTimeParts(date) {
+    const parts = Object.fromEntries(
+        TIME_FORMATTER.formatToParts(date).map(({ type, value }) => [type, value]),
+    );
+
+    return {
+        hour: Number(parts.hour),
+        minute: Number(parts.minute),
+    };
+}
+
+function getDateKeyInTimeZone(date) {
+    const parts = Object.fromEntries(
+        DATE_FORMATTER.formatToParts(date).map(({ type, value }) => [type, value]),
+    );
+
+    return `${parts.year}-${parts.month}-${parts.day}`;
+}
+
+function formatTime({ hour, minute }) {
+    const period = hour >= 12 ? 'PM' : 'AM';
+    const displayHour = hour % 12 || 12;
+
+    return `${displayHour}:${String(minute).padStart(2, '0')}${period}`;
+}
+
+function formatDate(value) {
+    const [year, month, day] = value.split('-');
+
+    return `${Number(month)}/${Number(day)}/${year}`;
+}
+
+function buildSchedule(meetings, context) {
+    const slots = new Map();
+
+    for (const [index, meeting] of meetings.entries()) {
+        const meetingContext = `${context} meeting ${index + 1}`;
+
+        if (!meeting || typeof meeting !== 'object') {
+            throw new Error(`${meetingContext} is invalid`);
+        }
+
+        const meetingDate = parseIsoDate(meeting.ngay, meetingContext);
+        const start = new Date(meeting.thoiGianBatDau);
+        const inclusiveEnd = new Date(meeting.thoiGianKetThuc);
+
+        if (Number.isNaN(start.getTime()) || Number.isNaN(inclusiveEnd.getTime())) {
+            throw new Error(`${meetingContext} has an invalid timestamp`);
+        }
+
+        if (inclusiveEnd <= start) {
+            throw new Error(`${meetingContext} must end after it starts`);
+        }
+
+        if (getDateKeyInTimeZone(start) !== meeting.ngay) {
+            throw new Error(`${meetingContext} date does not match its start timestamp`);
+        }
+
+        // The API stores an inclusive final minute. Round it down to that minute,
+        // then advance once to produce the exclusive end used by the application.
+        const end = new Date(
+            Math.floor(inclusiveEnd.getTime() / 60_000) * 60_000 + 60_000,
+        );
+
+        if (getDateKeyInTimeZone(end) !== meeting.ngay) {
+            throw new Error(`${meetingContext} crosses midnight`);
+        }
+
+        const dayIndex = meetingDate.getUTCDay();
+        const startTime = getTimeParts(start);
+        const endTime = getTimeParts(end);
+        const startMinutes = startTime.hour * 60 + startTime.minute;
+        const endMinutes = endTime.hour * 60 + endTime.minute;
+
+        if (endMinutes <= startMinutes) {
+            throw new Error(`${meetingContext} has an invalid local time range`);
+        }
+
+        const key = `${dayIndex}:${startMinutes}:${endMinutes}`;
+
+        if (!slots.has(key)) {
+            slots.set(key, {
+                day: DAYS[dayIndex],
+                time: `${formatTime(startTime)} to ${formatTime(endTime)}`,
+                dayOrder: dayIndex === 0 ? 7 : dayIndex,
+                startMinutes,
+            });
+        }
+    }
+
+    return [...slots.values()]
+        .sort((a, b) => a.dayOrder - b.dayOrder || a.startMinutes - b.startMinutes)
+        .map(({ day, time }) => ({ day, time }));
+}
+
+function transformCourseRecord(record, index) {
+    const context = `Course record ${index + 1}`;
+
+    if (!record || typeof record !== 'object') {
+        throw new Error(`${context} is invalid`);
+    }
+
+    const courseCode = normalizeText(record.maHocPhan);
+    const section = normalizeText(record.ten);
+    const englishTitle = normalizeText(record.hocPhan?.tenTiengAnh);
+    const fallbackTitle = normalizeText(record.hocPhan?.ten);
+    const title = englishTitle || fallbackTitle;
+    const deliveryMethod = normalizeText(record.hinhThucGiangDay);
+
+    if (!courseCode) {
+        throw new Error(`${context} is missing maHocPhan`);
+    }
+
+    if (!section) {
+        throw new Error(`${context} is missing ten`);
+    }
+
+    if (!title) {
+        throw new Error(`${context} is missing a course title`);
+    }
+
+    if (!deliveryMethod) {
+        throw new Error(`${context} is missing hinhThucGiangDay`);
+    }
+
+    const rawCredits = record.hocPhan?.soTinChi;
+    const credits = Number(rawCredits);
+
+    if (typeof rawCredits !== 'number' || !Number.isFinite(credits) || credits < 0) {
+        throw new Error(`${context} has invalid course credits`);
+    }
+
+    if (!Array.isArray(record.nhanSuList)) {
+        throw new Error(`${context} is missing nhanSuList`);
+    }
+
+    const instructors = [...new Set(record.nhanSuList.map((instructor) => (
+        normalizeText(instructor?.tenNhanSu)
+    )))];
+
+    if (instructors.length === 0 || instructors.some((name) => !name)) {
+        throw new Error(`${context} has an invalid instructor`);
+    }
+
+    if (!Array.isArray(record.thoiKhoaBieuList)) {
+        throw new Error(`${context} is missing thoiKhoaBieuList`);
+    }
+
+    if (record.thoiKhoaBieuList.length === 0) {
+        return { section, course: null };
+    }
+
+    const schedule = buildSchedule(record.thoiKhoaBieuList, context);
+    const meetingDates = record.thoiKhoaBieuList.map(({ ngay }, meetingIndex) => {
+        parseIsoDate(ngay, `${context} meeting ${meetingIndex + 1}`);
+        return ngay;
+    }).sort();
+
+    return {
+        section,
+        course: {
+            Course: courseCode,
+            'Course Title': title,
+            Section: section,
+            Dates: `${formatDate(meetingDates[0])} to ${formatDate(meetingDates.at(-1))}`,
+            Credits: credits.toFixed(2),
+            Instructor: instructors.join(', '),
+            'Delivery Method': DELIVERY_METHOD_MAP[deliveryMethod] || deliveryMethod,
+            Schedule: schedule,
+        },
+    };
 }
 
 function hashSource(source) {
@@ -173,6 +344,26 @@ function getDateInTimeZone(date = new Date(), timeZone = VIETNAM_TIME_ZONE) {
     const values = Object.fromEntries(parts.map(({ type, value }) => [type, value]));
 
     return `${values.year}-${values.month}-${values.day}`;
+}
+
+function getTimestampInTimeZone(date = new Date(), timeZone = VIETNAM_TIME_ZONE) {
+    const parts = new Intl.DateTimeFormat('en-US', {
+        timeZone,
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hourCycle: 'h23',
+        timeZoneName: 'longOffset',
+    }).formatToParts(date);
+    const values = Object.fromEntries(parts.map(({ type, value }) => [type, value]));
+    const offset = values.timeZoneName === 'GMT'
+        ? 'Z'
+        : values.timeZoneName.replace('GMT', '');
+
+    return `${values.year}-${values.month}-${values.day}T${values.hour}:${values.minute}:${values.second}${offset}`;
 }
 
 function readMetadata(metadataFile = METADATA_FILE) {
@@ -207,7 +398,7 @@ function getGitState(inputFile = INPUT_FILE, repoRoot = REPO_ROOT, runGit = exec
     try {
         const committedDate = runGit(
             'git',
-            ['log', '-1', '--format=%cs', '--', relativeInput],
+            ['log', '-1', '--format=%cI', '--', relativeInput],
             { cwd: repoRoot, encoding: 'utf-8', stdio: ['ignore', 'pipe', 'ignore'] },
         ).trim();
 
@@ -217,27 +408,30 @@ function getGitState(inputFile = INPUT_FILE, repoRoot = REPO_ROOT, runGit = exec
     }
 }
 
-function isIsoDate(value) {
-    return typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value);
+function isIsoTimestamp(value) {
+    return typeof value === 'string'
+        && /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d+)?(?:Z|[+-]\d{2}:\d{2})$/.test(value)
+        && !Number.isNaN(Date.parse(value));
 }
 
-function resolveLastUpdated({ sourceHash, existingMetadata, gitState, today }) {
-    if (gitState?.dirty) {
-        return today;
-    }
-
-    if (isIsoDate(gitState?.committedDate)) {
+function resolveLastUpdated({
+    sourceHash,
+    existingMetadata,
+    gitState,
+    currentTimestamp,
+}) {
+    if (!gitState?.dirty && isIsoTimestamp(gitState?.committedDate)) {
         return gitState.committedDate;
     }
 
     if (
         existingMetadata?.sourceHash === sourceHash
-        && isIsoDate(existingMetadata.lastUpdated)
+        && isIsoTimestamp(existingMetadata.lastUpdated)
     ) {
         return existingMetadata.lastUpdated;
     }
 
-    return today;
+    return currentTimestamp;
 }
 
 function writeFileIfChanged(filePath, content) {
@@ -256,41 +450,52 @@ function writeFileIfChanged(filePath, content) {
     return true;
 }
 
-function parseAndValidateCourses(htmlContent) {
-    const courses = modifyScheduleTimes(extractCourseData(htmlContent))
-        .filter((course) => course.Schedule?.length > 0);
+function parseAndValidateCourses(source) {
+    const tables = parseRawDataSource(source);
+    const records = combineTableResults(tables);
+    const seenSections = new Set();
+    const courses = [];
+
+    for (const [index, record] of records.entries()) {
+        const { section, course } = transformCourseRecord(record, index);
+
+        if (seenSections.has(section)) {
+            throw new Error(`Duplicate section identifier: ${section}`);
+        }
+
+        seenSections.add(section);
+
+        if (course) {
+            courses.push(course);
+        }
+    }
 
     if (courses.length === 0) {
-        throw new Error('No courses found in the HTML. Ensure the table has id="CourseList"');
+        throw new Error('No scheduled courses found in raw data');
     }
 
     return courses;
 }
 
-/**
- * Main execution
- */
 async function main() {
     try {
-        // Check if input file exists
         if (!fs.existsSync(INPUT_FILE)) {
             console.warn(`\n⚠️  Input file not found: ${INPUT_FILE}`);
-            console.warn('Please place your HTML file at scripts/index.html\n');
+            console.warn('Please place your raw table data at scripts/raw-data.js\n');
             return;
         }
 
-        // Read HTML file
-        const htmlContent = fs.readFileSync(INPUT_FILE, 'utf-8');
+        const source = fs.readFileSync(INPUT_FILE, 'utf-8');
 
         // Build and validate every output before writing either generated file.
-        const courses = parseAndValidateCourses(htmlContent);
-        const sourceHash = hashSource(htmlContent);
+        const courses = parseAndValidateCourses(source);
+        const sourceHash = hashSource(source);
         const existingMetadata = readMetadata();
         const lastUpdated = resolveLastUpdated({
             sourceHash,
             existingMetadata,
             gitState: getGitState(),
-            today: getDateInTimeZone(),
+            currentTimestamp: getTimestampInTimeZone(),
         });
         const coursesOutput = JSON.stringify(courses, null, 4);
         const metadataOutput = `${JSON.stringify({ lastUpdated, sourceHash }, null, 4)}\n`;
@@ -298,7 +503,7 @@ async function main() {
         const coursesChanged = writeFileIfChanged(OUTPUT_FILE, coursesOutput);
         const metadataChanged = writeFileIfChanged(METADATA_FILE, metadataOutput);
 
-        console.log(`✓ Successfully parsed ${courses.length} courses`);
+        console.log(`✓ Successfully parsed ${courses.length} scheduled courses`);
         console.log(`✓ Course data ${coursesChanged ? 'updated' : 'unchanged'}: ${OUTPUT_FILE}`);
         console.log(`✓ Metadata ${metadataChanged ? 'updated' : 'unchanged'}: ${METADATA_FILE}`);
     } catch (error) {
@@ -312,13 +517,16 @@ if (require.main === module) {
 }
 
 module.exports = {
-    extractCourseData,
+    buildSchedule,
+    combineTableResults,
     getDateInTimeZone,
     getGitState,
+    getTimestampInTimeZone,
     hashSource,
-    modifyScheduleTimes,
     parseAndValidateCourses,
+    parseRawDataSource,
     readMetadata,
     resolveLastUpdated,
+    transformCourseRecord,
     writeFileIfChanged,
 };

@@ -32,4 +32,4 @@ Replace `scripts/index.html`, run `bun run parse`, and commit the source HTML to
 
 ## Commit & Pull Request Guidelines
 
-Recent history follows Conventional Commit prefixes, chiefly `feat:` and `chore:`. Write concise, imperative subjects (for example, `feat: add schedule conflict filter`). Keep commits focused. PRs should explain user-visible impact, list verification commands, link relevant issues, and include screenshots for UI changes. Call out regenerated course data and any assumptions about SIS source content.
+Recent history follows Conventional Commit prefixes, chiefly `feat:` and `chore:`. Write concise, imperative subjects (for example, `feat: add schedule conflict filter`). Keep commits focused. PRs should explain user-visible impact, list verification commands, link relevant issues, and include screenshots for UI changes. Call out regenerated course data and any assumptions about VinUniDigi source content.

@@ -10,6 +10,7 @@ import {
 } from "@/types/course";
 import { APP_CONFIG } from "@/config";
 import {
+  formatTime,
   parseSchedule,
   generateTimeLabels,
   getVisibleCalendarDays,
@@ -245,6 +246,13 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
                   {blocksByDay[dayIndex].map((block, blockIndex) => {
                     const style = getBlockStyle(block.slot);
                     const baseColor = getCourseColor(block.course.Course);
+                    const timeRange = `${formatTime(
+                      block.slot.startHour,
+                      block.slot.startMinute
+                    )} – ${formatTime(
+                      block.slot.endHour,
+                      block.slot.endMinute
+                    )}`;
 
                     return (
                       <div
@@ -260,11 +268,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
                           block.course["Course Title"]
                         }\n${getInstructorDisplayName(
                           block.course.Instructor
-                        )}\n${block.slot.day} ${
-                          block.course.Schedule.find(
-                            (s) => s.day === block.slot.day
-                          )?.time
-                        }`}
+                        )}\n${block.slot.day} ${timeRange}`}
                       >
                         <div className="truncate text-[10px] leading-tight">
                           {block.course["Course Title"]}

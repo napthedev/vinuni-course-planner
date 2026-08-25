@@ -306,7 +306,16 @@ function transformCourseRecord(record, index) {
     }
 
     if (record.thoiKhoaBieuList.length === 0) {
-        return { section, course: null };
+        return {
+            section,
+            course: null,
+            omittedCourse: {
+                courseCode,
+                title,
+                section,
+                reason: 'no scheduled meetings',
+            },
+        };
     }
 
     const schedule = buildSchedule(record.thoiKhoaBieuList, context);
@@ -317,6 +326,7 @@ function transformCourseRecord(record, index) {
 
     return {
         section,
+        omittedCourse: null,
         course: {
             Course: courseCode,
             'Course Title': title,
@@ -450,14 +460,15 @@ function writeFileIfChanged(filePath, content) {
     return true;
 }
 
-function parseAndValidateCourses(source) {
+function parseAndValidateCourseData(source) {
     const tables = parseRawDataSource(source);
     const records = combineTableResults(tables);
     const seenSections = new Set();
     const courses = [];
+    const omittedCourses = [];
 
     for (const [index, record] of records.entries()) {
-        const { section, course } = transformCourseRecord(record, index);
+        const { section, course, omittedCourse } = transformCourseRecord(record, index);
 
         if (seenSections.has(section)) {
             throw new Error(`Duplicate section identifier: ${section}`);
@@ -467,6 +478,8 @@ function parseAndValidateCourses(source) {
 
         if (course) {
             courses.push(course);
+        } else {
+            omittedCourses.push(omittedCourse);
         }
     }
 
@@ -474,7 +487,11 @@ function parseAndValidateCourses(source) {
         throw new Error('No scheduled courses found in raw data');
     }
 
-    return courses;
+    return { courses, omittedCourses };
+}
+
+function parseAndValidateCourses(source) {
+    return parseAndValidateCourseData(source).courses;
 }
 
 async function main() {
@@ -488,7 +505,7 @@ async function main() {
         const source = fs.readFileSync(INPUT_FILE, 'utf-8');
 
         // Build and validate every output before writing either generated file.
-        const courses = parseAndValidateCourses(source);
+        const { courses, omittedCourses } = parseAndValidateCourseData(source);
         const sourceHash = hashSource(source);
         const existingMetadata = readMetadata();
         const lastUpdated = resolveLastUpdated({
@@ -502,6 +519,17 @@ async function main() {
 
         const coursesChanged = writeFileIfChanged(OUTPUT_FILE, coursesOutput);
         const metadataChanged = writeFileIfChanged(METADATA_FILE, metadataOutput);
+
+        if (omittedCourses.length > 0) {
+            console.warn(`⚠ Omitted ${omittedCourses.length} courses:`);
+
+            for (const omittedCourse of omittedCourses) {
+                console.warn(
+                    `  - ${omittedCourse.courseCode} | ${omittedCourse.section}`
+                    + ` | ${omittedCourse.title} (${omittedCourse.reason})`,
+                );
+            }
+        }
 
         console.log(`✓ Successfully parsed ${courses.length} scheduled courses`);
         console.log(`✓ Course data ${coursesChanged ? 'updated' : 'unchanged'}: ${OUTPUT_FILE}`);
@@ -523,6 +551,7 @@ module.exports = {
     getGitState,
     getTimestampInTimeZone,
     hashSource,
+    parseAndValidateCourseData,
     parseAndValidateCourses,
     parseRawDataSource,
     readMetadata,

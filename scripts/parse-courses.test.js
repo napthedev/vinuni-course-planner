@@ -11,6 +11,7 @@ const {
     getGitState,
     getTimestampInTimeZone,
     hashSource,
+    parseAndValidateCourseData,
     parseAndValidateCourses,
     parseRawDataSource,
     resolveLastUpdated,
@@ -262,6 +263,29 @@ test('course parsing excludes records without scheduled meetings', () => {
 
     assert.equal(courses.length, 1);
     assert.equal(courses[0].Section, 'SCHEDULED');
+});
+
+test('course parsing reports records omitted for having no scheduled meetings', () => {
+    const records = [
+        createRecord({
+            course: 'NOSCHEDULE1010',
+            englishTitle: 'Course Without a Schedule',
+            section: 'UNSCHEDULED',
+            meetings: [],
+        }),
+        createRecord({ section: 'SCHEDULED' }),
+    ];
+    const result = parseAndValidateCourseData(createSource([
+        createTable(1, records.length, records),
+    ]));
+
+    assert.equal(result.courses.length, 1);
+    assert.deepEqual(result.omittedCourses, [{
+        courseCode: 'NOSCHEDULE1010',
+        title: 'Course Without a Schedule',
+        section: 'UNSCHEDULED',
+        reason: 'no scheduled meetings',
+    }]);
 });
 
 test('course parsing rejects input containing only unscheduled courses', () => {

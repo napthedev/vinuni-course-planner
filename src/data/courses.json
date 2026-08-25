@@ -2072,36 +2072,6 @@
         ]
     },
     {
-        "Course": "HASS1020",
-        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
-        "Section": "MPEFA263",
-        "Dates": "9/25/2026 to 11/13/2026",
-        "Credits": "2.00",
-        "Instructor": "Doan Xuan Thuy",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Friday",
-                "time": "9:00AM to 1:00PM"
-            }
-        ]
-    },
-    {
-        "Course": "HASS1030",
-        "Course Title": "Scientific Socialism (Politics and Social Change)",
-        "Section": "SCSFA261",
-        "Dates": "9/22/2026 to 11/10/2026",
-        "Credits": "2.00",
-        "Instructor": "Do Thi Thach",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Tuesday",
-                "time": "1:00PM to 5:00PM"
-            }
-        ]
-    },
-    {
         "Course": "HASS1030",
         "Course Title": "Scientific Socialism (Politics and Social Change)",
         "Section": "SCSFA262",
@@ -2120,14 +2090,14 @@
         "Course": "HASS1030",
         "Course Title": "Scientific Socialism (Politics and Social Change)",
         "Section": "SCSFA263",
-        "Dates": "9/22/2026 to 11/10/2026",
+        "Dates": "9/15/2026 to 11/3/2026",
         "Credits": "2.00",
         "Instructor": "Pham Thi Vien",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Tuesday",
-                "time": "1:30PM to 3:30PM"
+                "time": "1:00PM to 5:00PM"
             }
         ]
     },
@@ -2165,13 +2135,13 @@
         "Course": "HASS1041",
         "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
         "Section": "HIDFA263",
-        "Dates": "9/21/2026 to 11/9/2026",
+        "Dates": "9/18/2026 to 11/6/2026",
         "Credits": "2.00",
         "Instructor": "Le Dinh Nam",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Monday",
+                "day": "Friday",
                 "time": "1:00PM to 5:00PM"
             }
         ]
@@ -5976,14 +5946,14 @@
         "Course": "PSYC3050",
         "Course Title": "Organizational Psychology",
         "Section": "ORPFA261",
-        "Dates": "9/23/2026 to 1/6/2027",
+        "Dates": "9/16/2026 to 12/30/2026",
         "Credits": "3.00",
         "Instructor": "Eva Ariño Mateo",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Wednesday",
-                "time": "9:00AM to 11:50AM"
+                "time": "10:00AM to 12:50PM"
             }
         ]
     },

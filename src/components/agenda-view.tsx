@@ -8,6 +8,7 @@ import {
   formatTime,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
+import { getInstructorDisplayName } from "@/lib/course-utils";
 
 interface AgendaViewProps {
   courses: SelectedCourse[];
@@ -166,9 +167,11 @@ export function AgendaView({ courses }: AgendaViewProps) {
                               <span className="font-mono">
                                 {item.course.Section}
                               </span>
-                              {item.course.Instructor && (
-                                <span>{item.course.Instructor}</span>
-                              )}
+                              <span>
+                                {getInstructorDisplayName(
+                                  item.course.Instructor
+                                )}
+                              </span>
                             </div>
                           </div>
                         </div>

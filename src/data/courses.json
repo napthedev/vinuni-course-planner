@@ -336,6 +336,21 @@
         ]
     },
     {
+        "Course": "CAS3010",
+        "Course Title": "Global Development and Sustainability",
+        "Section": "GDSFAL261",
+        "Dates": "9/18/2026 to 1/15/2027",
+        "Credits": "2.00",
+        "Instructor": "Khuc Van Quy",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "3:30PM to 5:30PM"
+            }
+        ]
+    },
+    {
         "Course": "CAS3020",
         "Course Title": "Digital Arts and Sciences",
         "Section": "DASFA261",

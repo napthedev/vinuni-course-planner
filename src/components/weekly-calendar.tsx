@@ -16,6 +16,7 @@ import {
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
 import { AgendaView } from "@/components/agenda-view";
+import { getInstructorDisplayName } from "@/lib/course-utils";
 
 interface WeeklyCalendarProps {
   courses: SelectedCourse[];
@@ -245,7 +246,9 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
                         style={style}
                         title={`${block.course.Course} - ${
                           block.course["Course Title"]
-                        }\n${block.course.Instructor}\n${block.slot.day} ${
+                        }\n${getInstructorDisplayName(
+                          block.course.Instructor
+                        )}\n${block.slot.day} ${
                           block.course.Schedule.find(
                             (s) => s.day === block.slot.day
                           )?.time

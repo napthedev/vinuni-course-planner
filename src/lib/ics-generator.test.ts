@@ -55,7 +55,7 @@ test("generateICS emits DTSTAMP as the current UTC date-time", () => {
   const value = match[1];
   const timestamp = Date.parse(
     `${value.slice(0, 4)}-${value.slice(4, 6)}-${value.slice(6, 8)}` +
-      `T${value.slice(9, 11)}:${value.slice(11, 13)}:${value.slice(13, 15)}Z`
+    `T${value.slice(9, 11)}:${value.slice(11, 13)}:${value.slice(13, 15)}Z`
   );
 
   assert.ok(timestamp >= beforeGeneration - 1000);
@@ -67,4 +67,23 @@ test("generateICS terminates the calendar with a single CRLF", () => {
 
   assert.ok(ics.endsWith("END:VCALENDAR\r\n"));
   assert.ok(!ics.endsWith("\r\n\r\n"));
+});
+
+test("generateICS includes an assigned instructor in the description", () => {
+  const ics = generateICS([course]).replace(/\r\n[ \t]/g, "");
+
+  assert.ok(
+    ics.includes(
+      `DESCRIPTION:Section: ${course.Section}\\nInstructor: ${course.Instructor}\r\n`
+    )
+  );
+});
+
+test("generateICS omits the instructor line when unassigned", () => {
+  const unassignedCourse = { ...course, Instructor: "" };
+  const ics = generateICS([unassignedCourse]).replace(/\r\n[ \t]/g, "");
+
+  assert.ok(ics.includes(`DESCRIPTION:Section: ${course.Section}\r\n`));
+  assert.ok(!ics.includes("Instructor:"));
+  assert.ok(!ics.includes("Unassigned"));
 });

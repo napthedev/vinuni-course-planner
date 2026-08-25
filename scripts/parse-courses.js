@@ -295,27 +295,22 @@ function transformCourseRecord(record, index) {
         throw new Error(`${context} is missing nhanSuList`);
     }
 
-    if (record.nhanSuList.length === 0) {
-        throw new Error(`${context} has no instructors in nhanSuList`);
-    }
+    const instructorNames = record.nhanSuList.flatMap((instructor, instructorIndex) => {
+        if (!instructor || typeof instructor !== 'object' || Array.isArray(instructor)) {
+            throw new Error(
+                `${context} has invalid instructor data at nhanSuList[${instructorIndex}]: `
+                + `expected an object; received ${JSON.stringify(instructor)}`,
+            );
+        }
 
-    const instructorNames = record.nhanSuList.map((instructor, instructorIndex) => {
         const name = normalizeText(instructor?.tenNhanSu)
             || normalizeText(instructor?.maNhanSu);
 
         if (!name) {
-            const received = JSON.stringify({
-                tenNhanSu: instructor?.tenNhanSu,
-                maNhanSu: instructor?.maNhanSu,
-            });
-
-            throw new Error(
-                `${context} has invalid instructor data at nhanSuList[${instructorIndex}]: `
-                + `expected a non-empty tenNhanSu or maNhanSu; received ${received}`,
-            );
+            return [];
         }
 
-        return name;
+        return [name];
     });
 
     const instructors = [...new Set(instructorNames)];

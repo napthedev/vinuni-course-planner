@@ -8,6 +8,7 @@ import { Badge } from "@/components/ui/badge";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { SelectedCourse } from "@/types/course";
 import { calculateTotalCredits } from "@/lib/schedule-utils";
+import { getInstructorDisplayName } from "@/lib/course-utils";
 
 interface SelectedCoursesProps {
   courses: SelectedCourse[];
@@ -64,7 +65,7 @@ function CourseCard({
             <div className="flex min-w-0 items-start gap-1">
               <User className="h-3 w-3 shrink-0" />
               <span className="min-w-0 max-w-full whitespace-normal break-words [overflow-wrap:anywhere]">
-                {course.Instructor}
+                {getInstructorDisplayName(course.Instructor)}
               </span>
             </div>
             <div className="flex min-w-0 items-start gap-1">

@@ -198,9 +198,11 @@ export function generateICS(courses: SelectedCourse[]): string {
 
       const uid = generateUID(course, schedule.day, schedule.time);
       const summary = escapeICSText(course["Course Title"]);
-      const description = escapeICSText(
-        `Section: ${course.Section}\nInstructor: ${course.Instructor}`
-      );
+      const descriptionParts = [`Section: ${course.Section}`];
+      if (course.Instructor) {
+        descriptionParts.push(`Instructor: ${course.Instructor}`);
+      }
+      const description = escapeICSText(descriptionParts.join("\n"));
       const location = escapeICSText(course["Delivery Method"]);
 
       // Generate VEVENT

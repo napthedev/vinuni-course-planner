@@ -186,18 +186,55 @@ test('course parsing falls back to maNhanSu when tenNhanSu is unavailable', () =
     assert.equal(course.Instructor, 'Fallback Instructor');
 });
 
-test('course parsing reports detailed context for invalid instructors', () => {
+test('course parsing allows an empty instructor list', () => {
+    const record = createRecord({ instructors: [] });
+
+    const [course] = parseAndValidateCourses(createSource([
+        createTable(1, 1, [record]),
+    ]));
+
+    assert.equal(course.Instructor, '');
+});
+
+test('course parsing allows blank instructor objects', () => {
+    const record = createRecord();
+    record.nhanSuList = [{ tenNhanSu: null, maNhanSu: '' }];
+
+    const [course] = parseAndValidateCourses(createSource([
+        createTable(1, 1, [record]),
+    ]));
+
+    assert.equal(course.Instructor, '');
+});
+
+test('course parsing ignores blank instructors and preserves usable names', () => {
+    const record = createRecord();
+    record.nhanSuList = [
+        { tenNhanSu: ' Instructor One ' },
+        { tenNhanSu: '', maNhanSu: '' },
+        { tenNhanSu: null, maNhanSu: ' Fallback Instructor ' },
+        { tenNhanSu: 'Instructor One' },
+    ];
+
+    const [course] = parseAndValidateCourses(createSource([
+        createTable(1, 1, [record]),
+    ]));
+
+    assert.equal(course.Instructor, 'Instructor One, Fallback Instructor');
+});
+
+test('course parsing reports detailed context for malformed instructors', () => {
     const record = createRecord({
         course: 'BROKEN1010',
         section: 'BROKENFA261',
     });
-    record.nhanSuList = [{ tenNhanSu: null, maNhanSu: '' }];
+    record.nhanSuList = [null];
 
     assert.throws(
         () => parseAndValidateCourses(createSource([
             createTable(1, 1, [record]),
         ])),
-        /Course record 1 \(BROKEN1010 \/ BROKENFA261\).*nhanSuList\[0\].*tenNhanSu.*maNhanSu/,
+        /Course record 1 \(BROKEN1010 \/ BROKENFA261\).*nhanSuList\[0\].*expected an object.*null/,
     );
 });
 
@@ -332,7 +369,7 @@ test('course parsing rejects missing required fields', () => {
         ['ten', { ten: '' }],
         ['course title', { hocPhan: { ten: '', tenTiengAnh: '', soTinChi: 3 } }],
         ['course credits', { hocPhan: { ten: 'Title', tenTiengAnh: 'Title', soTinChi: null } }],
-        ['instructor', { nhanSuList: [] }],
+        ['nhanSuList', { nhanSuList: null }],
         ['hinhThucGiangDay', { hinhThucGiangDay: '' }],
         ['thoiKhoaBieuList', { thoiKhoaBieuList: null }],
     ];

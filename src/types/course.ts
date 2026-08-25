@@ -16,7 +16,7 @@ export interface Course {
   Section: string; // Section code, e.g., "IMSSP261"
   Dates: string; // Date range, e.g., "2/9/2026 to 6/5/2026"
   Credits: string; // Credits as string, e.g., "3.00"
-  Instructor: string; // Instructor name
+  Instructor: string; // Comma-separated instructor names, or "" when unassigned
   "Delivery Method": string; // e.g., "Classroom", "Hybrid"
   Schedule: Schedule[]; // Generated course data always contains at least one entry
 }

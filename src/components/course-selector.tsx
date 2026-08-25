@@ -31,6 +31,7 @@ import {
   courseMatchesTimeFilter,
   coursesConflict,
 } from "@/lib/schedule-utils";
+import { getInstructorDisplayName } from "@/lib/course-utils";
 import { CourseFilters as CourseFiltersType } from "@/hooks/use-course-filters";
 
 interface CourseSelectorProps {
@@ -100,8 +101,11 @@ export function CourseSelector({
         const scheduleText = course.Schedule.map(
           (s) => `${s.day} ${s.time}`
         ).join(" ");
+        const instructorDisplayName = getInstructorDisplayName(
+          course.Instructor
+        );
         const searchableText =
-          `${course.Course} ${course["Course Title"]} ${course.Section} ${course.Instructor} ${scheduleText}`.toLowerCase();
+          `${course.Course} ${course["Course Title"]} ${course.Section} ${instructorDisplayName} ${scheduleText}`.toLowerCase();
         return searchableText.includes(search);
       });
     }
@@ -158,6 +162,9 @@ export function CourseSelector({
                 const isCourseCodeAlreadyAdded = isCourseCodeSelected(
                   course.Course
                 );
+                const instructorDisplayName = getInstructorDisplayName(
+                  course.Instructor
+                );
 
                 // Check for conflicts with selected courses
                 const conflictingCourses = selectedCourses.filter((selected) =>
@@ -212,7 +219,7 @@ export function CourseSelector({
                     <div className="flex flex-wrap gap-x-4 gap-y-1 text-xs text-muted-foreground">
                       <span className="flex items-center gap-1">
                         <User className="h-3 w-3" />
-                        {course.Instructor}
+                        {instructorDisplayName}
                       </span>
                       <span className="flex items-center gap-1">
                         <Calendar className="h-3 w-3" />

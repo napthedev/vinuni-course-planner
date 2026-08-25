@@ -87,3 +87,19 @@ test("generateICS omits the instructor line when unassigned", () => {
   assert.ok(!ics.includes("Instructor:"));
   assert.ok(!ics.includes("Unassigned"));
 });
+
+test("generateICS omits the delivery method location", () => {
+  for (const deliveryMethod of ["Classroom", "Hybrid"]) {
+    const courseWithDeliveryMethod = {
+      ...course,
+      "Delivery Method": deliveryMethod,
+    };
+    const ics = generateICS([courseWithDeliveryMethod]).replace(
+      /\r\n[ \t]/g,
+      ""
+    );
+
+    assert.ok(!ics.includes("LOCATION:"));
+    assert.ok(!ics.includes(deliveryMethod));
+  }
+});

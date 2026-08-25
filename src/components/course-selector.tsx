@@ -7,7 +7,6 @@ import {
   Clock,
   User,
   Calendar,
-  MapPin,
   AlertTriangle,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -224,10 +223,6 @@ export function CourseSelector({
                       <span className="flex items-center gap-1">
                         <Calendar className="h-3 w-3" />
                         {course.Dates}
-                      </span>
-                      <span className="flex items-center gap-1">
-                        <MapPin className="h-3 w-3" />
-                        {course["Delivery Method"]}
                       </span>
                     </div>
                     <div className="flex items-center gap-1 text-xs text-muted-foreground">

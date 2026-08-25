@@ -203,7 +203,6 @@ export function generateICS(courses: SelectedCourse[]): string {
         descriptionParts.push(`Instructor: ${course.Instructor}`);
       }
       const description = escapeICSText(descriptionParts.join("\n"));
-      const location = escapeICSText(course["Delivery Method"]);
 
       // Generate VEVENT
       lines.push("BEGIN:VEVENT");
@@ -220,7 +219,6 @@ export function generateICS(courses: SelectedCourse[]): string {
       );
       lines.push(`SUMMARY:${summary}`);
       lines.push(`DESCRIPTION:${description}`);
-      lines.push(`LOCATION:${location}`);
 
       // Add 15-minute reminder (VALARM)
       lines.push("BEGIN:VALARM");

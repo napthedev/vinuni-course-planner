@@ -732,21 +732,6 @@
         ]
     },
     {
-        "Course": "COMM2041",
-        "Course Title": "Strategic Thinking for Communicators",
-        "Section": "STTFA262",
-        "Dates": "9/24/2026 to 1/21/2027",
-        "Credits": "3.00",
-        "Instructor": "Nguyen Thuy Duong",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Thursday",
-                "time": "1:30PM to 4:20PM"
-            }
-        ]
-    },
-    {
         "Course": "COMM3010",
         "Course Title": "Media Production",
         "Section": "MEPFA261",
@@ -854,29 +839,14 @@
     {
         "Course": "COMM4080",
         "Course Title": "Communicating with AI",
-        "Section": "CAIFA261",
-        "Dates": "9/21/2026 to 1/18/2027",
-        "Credits": "3.00",
-        "Instructor": "Christine Mitchell",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "9:00AM to 11:50AM"
-            }
-        ]
-    },
-    {
-        "Course": "COMM4080",
-        "Course Title": "Communicating with AI",
         "Section": "CAIFA262",
-        "Dates": "9/22/2026 to 1/19/2027",
+        "Dates": "9/16/2026 to 1/13/2027",
         "Credits": "3.00",
         "Instructor": "Christine Mitchell",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Tuesday",
+                "day": "Wednesday",
                 "time": "9:00AM to 11:50AM"
             }
         ]

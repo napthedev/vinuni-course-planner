@@ -153,9 +153,9 @@ export default function Home() {
         </section>
 
         {/* Main Content Grid */}
-        <div className="grid gap-6 lg:grid-cols-[1fr_350px]">
+        <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_350px]">
           {/* Calendar Section */}
-          <section className="order-2 lg:order-1">
+          <section className="min-w-0 order-2 lg:order-1">
             <WeeklyCalendar courses={selectedCourses} />
             <CountdownTimer />
           </section>

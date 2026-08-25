@@ -2,7 +2,7 @@
 
 import { useMemo } from "react";
 import { Card, CardContent } from "@/components/ui/card";
-import { SelectedCourse, DAYS_OF_WEEK, ParsedTimeSlot } from "@/types/course";
+import { DayOfWeek, ParsedTimeSlot, SelectedCourse } from "@/types/course";
 import {
   parseSchedule,
   formatTime,
@@ -12,12 +12,8 @@ import { getInstructorDisplayName } from "@/lib/course-utils";
 
 interface AgendaViewProps {
   courses: SelectedCourse[];
+  days: DayOfWeek[];
 }
-
-// Weekdays only (exclude Saturday and Sunday)
-const WEEKDAYS = DAYS_OF_WEEK.filter(
-  (day) => day !== "Saturday" && day !== "Sunday"
-);
 
 interface AgendaItem {
   course: SelectedCourse;
@@ -59,13 +55,13 @@ function getCourseColor(courseCode: string): string {
   return colors[Math.abs(hash) % colors.length];
 }
 
-export function AgendaView({ courses }: AgendaViewProps) {
+export function AgendaView({ courses, days }: AgendaViewProps) {
   // Parse all course schedules and group by day
   const agendaByDay = useMemo(() => {
     const grouped: Map<string, AgendaItem[]> = new Map();
 
-    // Initialize all weekdays
-    WEEKDAYS.forEach((day) => {
+    // Initialize all currently visible calendar days
+    days.forEach((day) => {
       grouped.set(day, []);
     });
 
@@ -89,12 +85,12 @@ export function AgendaView({ courses }: AgendaViewProps) {
     });
 
     return grouped;
-  }, [courses]);
+  }, [courses, days]);
 
   return (
     <div className="space-y-4">
       {/* Day sections */}
-      {WEEKDAYS.map((day) => {
+      {days.map((day) => {
         const items = agendaByDay.get(day) || [];
 
         return (

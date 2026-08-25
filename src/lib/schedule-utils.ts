@@ -1,10 +1,34 @@
-import { Course, ParsedTimeSlot, SelectedCourse } from "@/types/course";
+import {
+  Course,
+  DAYS_OF_WEEK,
+  DayOfWeek,
+  ParsedTimeSlot,
+  SelectedCourse,
+} from "@/types/course";
 import { APP_CONFIG } from "@/config";
 
 const {
   startHour: CALENDAR_START_HOUR,
   endHour: CALENDAR_END_HOUR,
 } = APP_CONFIG.calendar;
+
+const WEEKDAY_COUNT = 5;
+
+/**
+ * Get the days that should be displayed in the weekly calendar.
+ * Weekend columns are shown together when any selected course meets on a weekend.
+ */
+export function getVisibleCalendarDays(courses: Course[]): DayOfWeek[] {
+  const hasWeekendCourse = courses.some((course) =>
+    course.Schedule.some(
+      ({ day }) => day === "Saturday" || day === "Sunday"
+    )
+  );
+
+  return hasWeekendCourse
+    ? [...DAYS_OF_WEEK]
+    : DAYS_OF_WEEK.slice(0, WEEKDAY_COUNT);
+}
 
 /**
  * Parse time string to extract hours and minutes

@@ -12,6 +12,7 @@ import { APP_CONFIG } from "@/config";
 import {
   parseSchedule,
   generateTimeLabels,
+  getVisibleCalendarDays,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
@@ -26,11 +27,6 @@ const {
   startHour: CALENDAR_START_HOUR,
   endHour: CALENDAR_END_HOUR,
 } = APP_CONFIG.calendar;
-
-// Weekdays only (exclude Saturday and Sunday)
-const WEEKDAYS = DAYS_OF_WEEK.filter(
-  (day) => day !== "Saturday" && day !== "Sunday"
-);
 
 interface CalendarBlock {
   course: SelectedCourse;
@@ -77,6 +73,10 @@ function getCourseColor(courseCode: string): string {
 
 export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
   const isMobile = useIsMobile();
+  const visibleDays = useMemo(
+    () => getVisibleCalendarDays(courses),
+    [courses]
+  );
 
   // Parse all course schedules into calendar blocks
   const calendarBlocks = useMemo(() => {
@@ -97,20 +97,19 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
     return blocks;
   }, [courses]);
 
-  // Group blocks by day for easier rendering (weekdays only)
+  // Group blocks by each currently visible calendar day
   const blocksByDay = useMemo(() => {
-    const grouped: CalendarBlock[][] = WEEKDAYS.map(() => []);
+    const grouped: CalendarBlock[][] = visibleDays.map(() => []);
     calendarBlocks.forEach((block) => {
-      // Find the index in WEEKDAYS array
-      const weekdayIndex = WEEKDAYS.indexOf(
-        DAYS_OF_WEEK[block.dayIndex] as (typeof WEEKDAYS)[number]
+      const visibleDayIndex = visibleDays.indexOf(
+        DAYS_OF_WEEK[block.dayIndex]
       );
-      if (weekdayIndex !== -1) {
-        grouped[weekdayIndex].push(block);
+      if (visibleDayIndex !== -1) {
+        grouped[visibleDayIndex].push(block);
       }
     });
     return grouped;
-  }, [calendarBlocks]);
+  }, [calendarBlocks, visibleDays]);
 
   const visibleBlocks = useMemo(() => blocksByDay.flat(), [blocksByDay]);
 
@@ -169,7 +168,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
           <CardTitle className="text-lg">Weekly Schedule</CardTitle>
         </CardHeader>
         <CardContent className="p-4 pt-0">
-          <AgendaView courses={courses} />
+          <AgendaView courses={courses} days={visibleDays} />
         </CardContent>
       </Card>
     );
@@ -177,17 +176,25 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
 
   // Desktop: render grid calendar
   return (
-    <Card>
+    <Card className="min-w-0">
       <CardHeader className="pb-3">
         <CardTitle className="text-lg">Weekly Schedule</CardTitle>
       </CardHeader>
       <CardContent className="p-0 sm:p-6 sm:pt-0">
-        <ScrollArea className="w-full">
-          <div className="min-w-[700px] p-4 sm:p-0">
+        <ScrollArea className="w-full min-w-0 max-w-full">
+          <div
+            className="p-4 sm:p-0"
+            style={{ minWidth: visibleDays.length === 7 ? "956px" : "700px" }}
+          >
             {/* Header with days */}
-            <div className="grid grid-cols-[60px_repeat(5,1fr)] gap-1 mb-1">
+            <div
+              className="grid gap-1 mb-1"
+              style={{
+                gridTemplateColumns: `60px repeat(${visibleDays.length}, minmax(0, 1fr))`,
+              }}
+            >
               <div className="h-10" /> {/* Empty corner cell */}
-              {WEEKDAYS.map((day) => (
+              {visibleDays.map((day) => (
                 <div
                   key={day}
                   className="h-10 flex items-center justify-center font-medium text-sm bg-muted rounded-md"
@@ -199,7 +206,12 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
             </div>
 
             {/* Calendar grid */}
-            <div className="grid grid-cols-[60px_repeat(5,1fr)] gap-1">
+            <div
+              className="grid gap-1"
+              style={{
+                gridTemplateColumns: `60px repeat(${visibleDays.length}, minmax(0, 1fr))`,
+              }}
+            >
               {/* Time labels column */}
               <div className="relative">
                 {timeLabels.map((label, index) => (
@@ -214,7 +226,7 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
               </div>
 
               {/* Day columns */}
-              {WEEKDAYS.map((day, dayIndex) => (
+              {visibleDays.map((day, dayIndex) => (
                 <div
                   key={day}
                   className="relative bg-muted/30 rounded-md"

@@ -96,7 +96,10 @@ export default function Home() {
           {/* Stack actions below the title on narrow screens */}
           <div className="mb-3 flex flex-col gap-3 md:flex-row md:items-center md:justify-between">
             <h2 className="text-xl font-semibold">
-              Search Courses for {TERM_NAME}
+              Search Courses for {TERM_NAME}{" "}
+              <span className="text-muted-foreground">
+                (Total: {courses.length} courses)
+              </span>
             </h2>
             <div className="flex items-center justify-end gap-2">
               <ViewListButton courses={selectedCourses} />

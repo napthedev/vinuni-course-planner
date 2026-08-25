@@ -251,6 +251,9 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
                           )?.time
                         }`}
                       >
+                        <div className="truncate text-[10px] leading-tight">
+                          {block.course["Course Title"]}
+                        </div>
                         <div className="font-semibold truncate">
                           {block.course.Course}
                         </div>

@@ -172,6 +172,35 @@ test('course parsing preserves the Course schema and maps raw fields', () => {
     }]);
 });
 
+test('course parsing falls back to maNhanSu when tenNhanSu is unavailable', () => {
+    const record = createRecord();
+    record.nhanSuList = [{
+        tenNhanSu: null,
+        maNhanSu: 'Fallback Instructor',
+    }];
+
+    const [course] = parseAndValidateCourses(createSource([
+        createTable(1, 1, [record]),
+    ]));
+
+    assert.equal(course.Instructor, 'Fallback Instructor');
+});
+
+test('course parsing reports detailed context for invalid instructors', () => {
+    const record = createRecord({
+        course: 'BROKEN1010',
+        section: 'BROKENFA261',
+    });
+    record.nhanSuList = [{ tenNhanSu: null, maNhanSu: '' }];
+
+    assert.throws(
+        () => parseAndValidateCourses(createSource([
+            createTable(1, 1, [record]),
+        ])),
+        /Course record 1 \(BROKEN1010 \/ BROKENFA261\).*nhanSuList\[0\].*tenNhanSu.*maNhanSu/,
+    );
+});
+
 test('course parsing falls back to the default title and maps delivery methods', () => {
     const records = [
         createRecord({

@@ -1998,7 +1998,7 @@
     },
     {
         "Course": "HASS1010",
-        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Course Title": "Marxism-Leninism Philosophy",
         "Section": "MLPFA261",
         "Dates": "9/23/2026 to 12/30/2026",
         "Credits": "3.00",
@@ -2013,7 +2013,7 @@
     },
     {
         "Course": "HASS1010",
-        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Course Title": "Marxism-Leninism Philosophy",
         "Section": "MLPFA262",
         "Dates": "9/22/2026 to 12/29/2026",
         "Credits": "3.00",
@@ -2028,7 +2028,7 @@
     },
     {
         "Course": "HASS1010",
-        "Course Title": "Marxism-Leninism Philosophy (Philosophy Science and Society)",
+        "Course Title": "Marxism-Leninism Philosophy",
         "Section": "MLPFA263",
         "Dates": "9/24/2026 to 12/31/2026",
         "Credits": "3.00",
@@ -2043,7 +2043,7 @@
     },
     {
         "Course": "HASS1020",
-        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
+        "Course Title": "Marxism-Leninism Political Economy",
         "Section": "MPEFA261",
         "Dates": "9/22/2026 to 11/10/2026",
         "Credits": "2.00",
@@ -2058,7 +2058,7 @@
     },
     {
         "Course": "HASS1020",
-        "Course Title": "Marxism-Leninism Political Economy (Global Political Economy)",
+        "Course Title": "Marxism-Leninism Political Economy",
         "Section": "MPEFA262",
         "Dates": "9/22/2026 to 11/10/2026",
         "Credits": "2.00",
@@ -2072,8 +2072,38 @@
         ]
     },
     {
+        "Course": "HASS1020",
+        "Course Title": "Marxism-Leninism Political Economy",
+        "Section": "MPEFA263",
+        "Dates": "9/18/2026 to 10/9/2026",
+        "Credits": "2.00",
+        "Instructor": "DOAN XUAN THUY",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "9:00AM to 1:00PM"
+            }
+        ]
+    },
+    {
         "Course": "HASS1030",
-        "Course Title": "Scientific Socialism (Politics and Social Change)",
+        "Course Title": "Scientific Socialism",
+        "Section": "SCSFA261",
+        "Dates": "9/14/2026 to 10/5/2026",
+        "Credits": "2.00",
+        "Instructor": "Do Thi Thach",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 1:00PM"
+            }
+        ]
+    },
+    {
+        "Course": "HASS1030",
+        "Course Title": "Scientific Socialism",
         "Section": "SCSFA262",
         "Dates": "9/24/2026 to 11/12/2026",
         "Credits": "2.00",
@@ -2088,7 +2118,7 @@
     },
     {
         "Course": "HASS1030",
-        "Course Title": "Scientific Socialism (Politics and Social Change)",
+        "Course Title": "Scientific Socialism",
         "Section": "SCSFA263",
         "Dates": "9/15/2026 to 11/3/2026",
         "Credits": "2.00",
@@ -2103,7 +2133,7 @@
     },
     {
         "Course": "HASS1041",
-        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+        "Course Title": "Ho Chi Minh Ideology",
         "Section": "HIDFA261",
         "Dates": "9/23/2026 to 11/11/2026",
         "Credits": "2.00",
@@ -2118,7 +2148,7 @@
     },
     {
         "Course": "HASS1041",
-        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+        "Course Title": "Ho Chi Minh Ideology",
         "Section": "HIDFA262",
         "Dates": "9/23/2026 to 11/11/2026",
         "Credits": "2.00",
@@ -2133,7 +2163,7 @@
     },
     {
         "Course": "HASS1041",
-        "Course Title": "Ho Chi Minh Ideology (Vietnam: History and Culture II)",
+        "Course Title": "Ho Chi Minh Ideology",
         "Section": "HIDFA263",
         "Dates": "9/18/2026 to 11/6/2026",
         "Credits": "2.00",
@@ -2148,7 +2178,7 @@
     },
     {
         "Course": "HASS1050",
-        "Course Title": "History of the Communist Party (Vietnam: History and Culture I)",
+        "Course Title": "History of the Communist Party",
         "Section": "HCPFA261",
         "Dates": "9/24/2026 to 11/12/2026",
         "Credits": "2.00",
@@ -2163,7 +2193,7 @@
     },
     {
         "Course": "HASS1050",
-        "Course Title": "History of the Communist Party (Vietnam: History and Culture I)",
+        "Course Title": "History of the Communist Party",
         "Section": "HCPFA262",
         "Dates": "9/23/2026 to 11/11/2026",
         "Credits": "2.00",
@@ -2178,7 +2208,7 @@
     },
     {
         "Course": "HASS1050",
-        "Course Title": "History of the Communist Party (Vietnam: History and Culture I)",
+        "Course Title": "History of the Communist Party",
         "Section": "HCPFA263",
         "Dates": "9/24/2026 to 11/12/2026",
         "Credits": "2.00",

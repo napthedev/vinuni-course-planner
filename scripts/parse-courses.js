@@ -253,10 +253,10 @@ function buildSchedule(meetings, context) {
 }
 
 function transformCourseRecord(record, index) {
-    const context = `Course record ${index + 1}`;
+    const recordContext = `Course record ${index + 1}`;
 
     if (!record || typeof record !== 'object') {
-        throw new Error(`${context} is invalid`);
+        throw new Error(`${recordContext} is invalid`);
     }
 
     const courseCode = normalizeText(record.maHocPhan);
@@ -265,6 +265,8 @@ function transformCourseRecord(record, index) {
     const fallbackTitle = normalizeText(record.hocPhan?.ten);
     const title = englishTitle || fallbackTitle;
     const deliveryMethod = normalizeText(record.hinhThucGiangDay);
+    const context = `${recordContext} (${courseCode || 'unknown course'}`
+        + ` / ${section || 'unknown section'})`;
 
     if (!courseCode) {
         throw new Error(`${context} is missing maHocPhan`);
@@ -293,13 +295,30 @@ function transformCourseRecord(record, index) {
         throw new Error(`${context} is missing nhanSuList`);
     }
 
-    const instructors = [...new Set(record.nhanSuList.map((instructor) => (
-        normalizeText(instructor?.tenNhanSu)
-    )))];
-
-    if (instructors.length === 0 || instructors.some((name) => !name)) {
-        throw new Error(`${context} has an invalid instructor`);
+    if (record.nhanSuList.length === 0) {
+        throw new Error(`${context} has no instructors in nhanSuList`);
     }
+
+    const instructorNames = record.nhanSuList.map((instructor, instructorIndex) => {
+        const name = normalizeText(instructor?.tenNhanSu)
+            || normalizeText(instructor?.maNhanSu);
+
+        if (!name) {
+            const received = JSON.stringify({
+                tenNhanSu: instructor?.tenNhanSu,
+                maNhanSu: instructor?.maNhanSu,
+            });
+
+            throw new Error(
+                `${context} has invalid instructor data at nhanSuList[${instructorIndex}]: `
+                + `expected a non-empty tenNhanSu or maNhanSu; received ${received}`,
+            );
+        }
+
+        return name;
+    });
+
+    const instructors = [...new Set(instructorNames)];
 
     if (!Array.isArray(record.thoiKhoaBieuList)) {
         throw new Error(`${context} is missing thoiKhoaBieuList`);
@@ -535,7 +554,7 @@ async function main() {
         console.log(`✓ Course data ${coursesChanged ? 'updated' : 'unchanged'}: ${OUTPUT_FILE}`);
         console.log(`✓ Metadata ${metadataChanged ? 'updated' : 'unchanged'}: ${METADATA_FILE}`);
     } catch (error) {
-        console.error('❌ Error during parsing:', error.message);
+        console.error(`❌ Error during parsing:\n${error.stack || error.message}`);
         process.exitCode = 1;
     }
 }

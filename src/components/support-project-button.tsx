@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { HeartHandshake, TriangleAlert } from "lucide-react";
+import { Coffee, TriangleAlert } from "lucide-react";
 
 import { APP_CONFIG } from "@/config";
 import { Button } from "@/components/ui/button";
@@ -25,7 +25,7 @@ export function SupportProjectButton() {
           className="rounded-full shadow-sm"
           aria-label="Buy me a coffee"
         >
-          <HeartHandshake className="size-4.5" strokeWidth={2.25} />
+          <Coffee className="size-4.5" strokeWidth={2.25} />
           <span className="hidden md:inline">Buy me a coffee</span>
         </Button>
       </DialogTrigger>

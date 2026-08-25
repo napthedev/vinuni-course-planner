@@ -8,7 +8,7 @@
   ],
   "scripts": {
     "parse": "node scripts/parse-courses.js",
-    "dev": "node scripts/parse-courses.js && next dev",
+    "dev": "next dev",
     "build": "node scripts/parse-courses.js && next build",
     "start": "next start",
     "lint": "eslint",

@@ -5,6 +5,7 @@ import { Course, SelectedCourse } from "@/types/course";
 import { updateCoursesWithConflicts } from "@/lib/schedule-utils";
 import coursesData from "@/data/courses.json";
 import { APP_CONFIG } from "@/config";
+import { toast } from "sonner";
 
 // Master course data from courses.json
 const masterCourses = coursesData as Course[];
@@ -69,15 +70,25 @@ export function useSelectedCourses() {
 
         // If any courses were removed, update localStorage
         if (validatedCourses.length !== parsed.length) {
+          const removedCount = parsed.length - validatedCourses.length;
+
           localStorage.setItem(
             APP_CONFIG.storageKeys.selectedCourses,
             JSON.stringify(validatedCourses),
           );
           console.info(
-            `Removed ${
-              parsed.length - validatedCourses.length
-            } outdated course(s) from saved selection.`,
+            `Removed ${removedCount} outdated course(s) from saved selection.`,
           );
+          window.setTimeout(() => {
+            toast.warning("Saved course data changed", {
+              id: "outdated-saved-courses",
+              description: `${removedCount} outdated ${
+                removedCount === 1 ? "course was" : "courses were"
+              } removed from your saved selection. Please review your schedule.`,
+              duration: 8000,
+              closeButton: true,
+            });
+          }, 0);
         }
 
         // Recalculate conflicts on load

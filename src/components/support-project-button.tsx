@@ -23,16 +23,16 @@ export function SupportProjectButton() {
         <Button
           size="sm"
           className="rounded-full shadow-sm"
-          aria-label="Support this project"
+          aria-label="Buy me a coffee"
         >
           <HeartHandshake className="size-4.5" strokeWidth={2.25} />
-          <span className="hidden md:inline">Support this project</span>
+          <span className="hidden md:inline">Buy me a coffee</span>
         </Button>
       </DialogTrigger>
 
       <DialogContent className="sm:max-w-md">
         <DialogHeader>
-          <DialogTitle>Support this project</DialogTitle>
+          <DialogTitle>Buy me a coffee</DialogTitle>
           <DialogDescription className="leading-relaxed">
             {APP_CONFIG.site.name} is completely free to use. If you find it
             helpful, an optional contribution can help cover the domain,

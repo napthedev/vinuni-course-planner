@@ -1,0 +1,86 @@
+name: Update course data
+
+on:
+  schedule:
+    - cron: "7,17,27,37,47,57 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-course-data-main
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - name: Set up Bun
+        uses: oven-sh/setup-bun@v2
+
+      - name: Install monitor dependencies
+        run: bun install --frozen-lockfile --filter monitor
+
+      - name: Test monitor
+        run: bun run --filter monitor test
+
+      - name: Install Chromium
+        run: bunx playwright install --with-deps chromium
+
+      - name: Restore authentication state
+        env:
+          VINUNI_AUTH_JSON: ${{ secrets.VINUNI_AUTH_JSON }}
+        run: |
+          if [[ -z "$VINUNI_AUTH_JSON" ]]; then
+            echo "::error::The VINUNI_AUTH_JSON repository secret is missing or empty."
+            exit 1
+          fi
+          umask 077
+          printf '%s' "$VINUNI_AUTH_JSON" > monitor/auth.json
+          bun -e 'JSON.parse(await Bun.file("monitor/auth.json").text())'
+
+      - name: Query current course data
+        run: bun run --filter monitor headless
+
+      - name: Remove authentication state
+        if: always()
+        run: rm -f monitor/auth.json
+
+      - name: Detect course data changes
+        id: course_data
+        run: |
+          if git diff --quiet -- scripts/raw-data.js; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Course data is unchanged."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Course data changed."
+          fi
+
+      - name: Install all dependencies
+        if: steps.course_data.outputs.changed == 'true'
+        run: bun ci
+
+      - name: Build application
+        if: steps.course_data.outputs.changed == 'true'
+        run: bun run build
+
+      - name: Commit and push course data
+        if: steps.course_data.outputs.changed == 'true'
+        run: |
+          git diff --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- scripts/raw-data.js src/data/courses.json src/data/courses.meta.json
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: update course data"
+          git push origin HEAD:main

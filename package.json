@@ -2,13 +2,20 @@
   "name": "vinuni-course-planning",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "bun@1.3.14",
+  "workspaces": [
+    "monitor"
+  ],
   "scripts": {
     "parse": "node scripts/parse-courses.js",
     "dev": "node scripts/parse-courses.js && next dev",
     "build": "node scripts/parse-courses.js && next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "bun test scripts/parse-courses.test.js src/lib/ics-generator.test.ts"
+    "test": "bun test scripts/parse-courses.test.js src/lib/ics-generator.test.ts",
+    "monitor:login": "bun run --filter monitor login",
+    "monitor:headless": "bun run --filter monitor headless",
+    "monitor:test": "bun run --filter monitor test"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",

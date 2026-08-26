@@ -2105,14 +2105,14 @@
         "Course": "HASS1030",
         "Course Title": "Scientific Socialism",
         "Section": "SCSFA261",
-        "Dates": "9/14/2026 to 10/5/2026",
+        "Dates": "9/8/2026 to 9/29/2026",
         "Credits": "2.00",
         "Instructor": "Do Thi Thach",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Monday",
-                "time": "9:00AM to 1:00PM"
+                "day": "Tuesday",
+                "time": "1:00PM to 5:00PM"
             }
         ]
     },

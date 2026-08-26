@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "lastUpdated": "2026-08-26T10:46:06+07:00",
     "sourceHash": "5d0a98f89122b23f85035eb649ee362dc3e175ccb410e7decd98c63f41a24aa7"
+=======
+    "lastUpdated": "2026-08-26T03:31:39+00:00",
+    "sourceHash": "956d97945501a0349171bc5c72557332276113b537cab420acb75af6fbd47b10"
+>>>>>>> 226c5fb (ci: static export)
 }

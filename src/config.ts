@@ -12,7 +12,7 @@ export const APP_CONFIG = {
     googleMeasurementId: "G-S00YVDJTZX",
   },
   countdown: {
-    targetDateTime: "2026-08-26T14:00:00+07:00",
+    targetDateTime: "2026-08-28T15:00:00+07:00",
     timeZone: "Asia/Bangkok",
     locale: "en-US",
     heading: "Course Registration Opens In",

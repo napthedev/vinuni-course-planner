@@ -3348,6 +3348,25 @@
         ]
     },
     {
+        "Course": "MECE3010",
+        "Course Title": "Statics and Mechanics of Solids",
+        "Section": "SMSFA261",
+        "Dates": "9/22/2026 to 12/31/2026",
+        "Credits": "4.00",
+        "Instructor": "Đỗ Thọ Trường",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Tuesday",
+                "time": "9:00AM to 10:50AM"
+            },
+            {
+                "day": "Thursday",
+                "time": "9:00AM to 10:50AM"
+            }
+        ]
+    },
+    {
         "Course": "MECE3040",
         "Course Title": "Mechanical Synthesis",
         "Section": "MSYFA261",

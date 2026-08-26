@@ -8,12 +8,14 @@ import {
   DAYS_OF_WEEK,
   ParsedTimeSlot,
 } from "@/types/course";
-import { APP_CONFIG } from "@/config";
 import {
   formatTime,
   parseSchedule,
   generateTimeLabels,
   getVisibleCalendarDays,
+  getCalendarBlockPosition,
+  getCalendarTimeRange,
+  getCourseColor,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
 import { useIsMobile } from "@/hooks/use-mobile";
@@ -24,52 +26,10 @@ interface WeeklyCalendarProps {
   courses: SelectedCourse[];
 }
 
-const {
-  startHour: CALENDAR_START_HOUR,
-  endHour: CALENDAR_END_HOUR,
-} = APP_CONFIG.calendar;
-
 interface CalendarBlock {
   course: SelectedCourse;
   slot: ParsedTimeSlot;
   dayIndex: number;
-}
-
-// Generate a consistent color for each course based on its code
-function getCourseColor(courseCode: string): string {
-  const colors = [
-    "bg-blue-500",
-    "bg-purple-500",
-    "bg-pink-500",
-    "bg-indigo-500",
-    "bg-cyan-500",
-    "bg-teal-500",
-    "bg-amber-500",
-    "bg-orange-500",
-    "bg-lime-500",
-    "bg-emerald-500",
-    "bg-rose-500",
-    "bg-violet-500",
-    "bg-fuchsia-500",
-    "bg-sky-500",
-    "bg-green-500",
-    "bg-yellow-500",
-    "bg-blue-600",
-    "bg-purple-600",
-    "bg-teal-600",
-    "bg-orange-600",
-    "bg-emerald-600",
-    "bg-indigo-600",
-    "bg-pink-600",
-    "bg-cyan-600",
-  ];
-
-  // Simple hash function for consistent color assignment
-  let hash = 0;
-  for (let i = 0; i < courseCode.length; i++) {
-    hash = courseCode.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  return colors[Math.abs(hash) % colors.length];
 }
 
 export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
@@ -112,30 +72,10 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
     return grouped;
   }, [calendarBlocks, visibleDays]);
 
-  const visibleBlocks = useMemo(() => blocksByDay.flat(), [blocksByDay]);
-
-  const calendarRange = useMemo(() => {
-    if (visibleBlocks.length === 0) {
-      return {
-        startHour: CALENDAR_START_HOUR,
-        endHour: CALENDAR_END_HOUR,
-      };
-    }
-
-    const earliestStartHour = Math.min(
-      ...visibleBlocks.map((block) => block.slot.startHour)
-    );
-    const latestEndHour = Math.max(
-      ...visibleBlocks.map((block) =>
-        block.slot.endMinute > 0 ? block.slot.endHour + 1 : block.slot.endHour
-      )
-    );
-
-    return {
-      startHour: Math.min(CALENDAR_START_HOUR, earliestStartHour),
-      endHour: Math.max(CALENDAR_END_HOUR, latestEndHour),
-    };
-  }, [visibleBlocks]);
+  const calendarRange = useMemo(
+    () => getCalendarTimeRange(courses),
+    [courses]
+  );
 
   const timeLabels = useMemo(
     () => generateTimeLabels(calendarRange.startHour, calendarRange.endHour),
@@ -145,19 +85,11 @@ export function WeeklyCalendar({ courses }: WeeklyCalendarProps) {
 
   // Calculate position and size for a block
   const getBlockStyle = (slot: ParsedTimeSlot) => {
-    const startOffset =
-      (slot.startHour - calendarRange.startHour) * 60 + slot.startMinute;
-    const endOffset =
-      (slot.endHour - calendarRange.startHour) * 60 + slot.endMinute;
-    const duration = endOffset - startOffset;
-
-    const totalMinutes = totalHours * 60;
-    const top = (startOffset / totalMinutes) * 100;
-    const height = (duration / totalMinutes) * 100;
+    const position = getCalendarBlockPosition(slot, calendarRange);
 
     return {
-      top: `${top}%`,
-      height: `${height}%`,
+      top: `${position.top}%`,
+      height: `${position.height}%`,
     };
   };
 

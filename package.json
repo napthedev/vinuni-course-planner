@@ -12,7 +12,7 @@
     "build": "node scripts/parse-courses.js && next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "bun test scripts/parse-courses.test.js src/lib/ics-generator.test.ts src/lib/schedule-utils.test.ts",
+    "test": "bun test scripts/parse-courses.test.js src/lib/ics-generator.test.ts src/lib/schedule-utils.test.ts src/lib/auto-fit-algorithm.test.ts src/lib/auto-fit-config.test.ts",
     "monitor:login": "bun run --filter monitor login",
     "monitor:headless": "bun run --filter monitor headless",
     "monitor:test": "bun run --filter monitor test"

@@ -142,6 +142,10 @@ export function useSelectedCourses() {
     setSelectedCourses([]);
   }, []);
 
+  const replaceAllCourses = useCallback((courses: Course[]) => {
+    setSelectedCourses(updateCoursesWithConflicts(courses));
+  }, []);
+
   const isCourseSelected = useCallback(
     (sectionId: string) => {
       return selectedCourses.some((c) => c.Section === sectionId);
@@ -161,6 +165,7 @@ export function useSelectedCourses() {
     addCourse,
     removeCourse,
     clearAllCourses,
+    replaceAllCourses,
     isCourseSelected,
     isCourseCodeSelected,
     isLoaded,

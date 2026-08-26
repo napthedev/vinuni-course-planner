@@ -26,5 +26,6 @@ export const APP_CONFIG = {
   storageKeys: {
     selectedCourses: "vinuni-selected-courses",
     courseFilters: "vinuni-course-filters",
+    autoFit: "vinuni-autofit-config",
   },
 } as const;

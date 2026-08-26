@@ -14,6 +14,43 @@ const {
 
 const WEEKDAY_COUNT = 5;
 
+const COURSE_COLOR_CLASSES = [
+  "bg-blue-500",
+  "bg-purple-500",
+  "bg-pink-500",
+  "bg-indigo-500",
+  "bg-cyan-500",
+  "bg-teal-500",
+  "bg-amber-500",
+  "bg-orange-500",
+  "bg-lime-500",
+  "bg-emerald-500",
+  "bg-rose-500",
+  "bg-violet-500",
+  "bg-fuchsia-500",
+  "bg-sky-500",
+  "bg-green-500",
+  "bg-yellow-500",
+  "bg-blue-600",
+  "bg-purple-600",
+  "bg-teal-600",
+  "bg-orange-600",
+  "bg-emerald-600",
+  "bg-indigo-600",
+  "bg-pink-600",
+  "bg-cyan-600",
+] as const;
+
+export interface CalendarTimeRange {
+  startHour: number;
+  endHour: number;
+}
+
+export interface CalendarBlockPosition {
+  top: number;
+  height: number;
+}
+
 /**
  * Get the days that should be displayed in the weekly calendar.
  * Weekend columns are shown together when any selected course meets on a weekend.
@@ -103,6 +140,67 @@ export function parseSchedule(course: Course): ParsedTimeSlot[] {
   }
 
   return slots;
+}
+
+/**
+ * Generate a consistent Tailwind background color for a course code.
+ */
+export function getCourseColor(courseCode: string): string {
+  let hash = 0;
+  for (let index = 0; index < courseCode.length; index++) {
+    hash = courseCode.charCodeAt(index) + ((hash << 5) - hash);
+  }
+
+  return COURSE_COLOR_CLASSES[Math.abs(hash) % COURSE_COLOR_CLASSES.length];
+}
+
+/**
+ * Determine the displayed calendar range, expanding the configured bounds when
+ * a course begins earlier or ends later.
+ */
+export function getCalendarTimeRange(courses: Course[]): CalendarTimeRange {
+  const slots = courses.flatMap(parseSchedule);
+
+  if (slots.length === 0) {
+    return {
+      startHour: CALENDAR_START_HOUR,
+      endHour: CALENDAR_END_HOUR,
+    };
+  }
+
+  const earliestStartHour = Math.min(...slots.map((slot) => slot.startHour));
+  const latestEndHour = Math.max(
+    ...slots.map((slot) =>
+      slot.endMinute > 0 ? slot.endHour + 1 : slot.endHour
+    )
+  );
+
+  return {
+    startHour: Math.min(CALENDAR_START_HOUR, earliestStartHour),
+    endHour: Math.max(CALENDAR_END_HOUR, latestEndHour),
+  };
+}
+
+/**
+ * Calculate a slot's percentage-based position inside a calendar range.
+ */
+export function getCalendarBlockPosition(
+  slot: ParsedTimeSlot,
+  range: CalendarTimeRange
+): CalendarBlockPosition {
+  const totalMinutes = (range.endHour - range.startHour) * 60;
+  if (totalMinutes <= 0) {
+    return { top: 0, height: 0 };
+  }
+
+  const startOffset =
+    (slot.startHour - range.startHour) * 60 + slot.startMinute;
+  const endOffset = (slot.endHour - range.startHour) * 60 + slot.endMinute;
+
+  return {
+    top: (startOffset / totalMinutes) * 100,
+    height: ((endOffset - startOffset) / totalMinutes) * 100,
+  };
 }
 
 /**

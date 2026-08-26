@@ -6,6 +6,7 @@ import { DayOfWeek, ParsedTimeSlot, SelectedCourse } from "@/types/course";
 import {
   parseSchedule,
   formatTime,
+  getCourseColor,
 } from "@/lib/schedule-utils";
 import { cn } from "@/lib/utils";
 import { getInstructorDisplayName } from "@/lib/course-utils";
@@ -18,41 +19,6 @@ interface AgendaViewProps {
 interface AgendaItem {
   course: SelectedCourse;
   slot: ParsedTimeSlot;
-}
-
-// Generate a consistent color for each course based on its code
-function getCourseColor(courseCode: string): string {
-  const colors = [
-    "bg-blue-500",
-    "bg-purple-500",
-    "bg-indigo-500",
-    "bg-cyan-500",
-    "bg-teal-500",
-    "bg-amber-500",
-    "bg-orange-500",
-    "bg-lime-500",
-    "bg-emerald-500",
-    "bg-violet-500",
-    "bg-fuchsia-500",
-    "bg-sky-500",
-    "bg-green-500",
-    "bg-yellow-500",
-    "bg-blue-600",
-    "bg-purple-600",
-    "bg-teal-600",
-    "bg-orange-600",
-    "bg-emerald-600",
-    "bg-indigo-600",
-    "bg-pink-600",
-    "bg-cyan-600",
-  ];
-
-  // Simple hash function for consistent color assignment
-  let hash = 0;
-  for (let i = 0; i < courseCode.length; i++) {
-    hash = courseCode.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  return colors[Math.abs(hash) % colors.length];
 }
 
 export function AgendaView({ courses, days }: AgendaViewProps) {

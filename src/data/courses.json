@@ -2402,21 +2402,6 @@
         ]
     },
     {
-        "Course": "IEAD1021",
-        "Course Title": "Big Ideas: The Pursuit of Happiness: East and West",
-        "Section": "BTPFA261",
-        "Dates": "9/23/2026 to 1/20/2027",
-        "Credits": "2.00",
-        "Instructor": "Tyler Dalton McNabb",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Wednesday",
-                "time": "9:00AM to 10:50AM"
-            }
-        ]
-    },
-    {
         "Course": "INTR1010",
         "Course Title": "Introduction to Economics",
         "Section": "INEFA261",

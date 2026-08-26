@@ -883,7 +883,7 @@
     },
     {
         "Course": "COMM4110",
-        "Course Title": "Gaming and Interactive Media",
+        "Course Title": "Game Design and Interactive Media",
         "Section": "GIMFA261",
         "Dates": "9/23/2026 to 1/20/2027",
         "Credits": "3.00",
@@ -2062,7 +2062,7 @@
         "Section": "MPEFA261",
         "Dates": "9/22/2026 to 11/10/2026",
         "Credits": "2.00",
-        "Instructor": "Nguyen Khac Thanh",
+        "Instructor": "Nguyen Thanh Son",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -2077,7 +2077,7 @@
         "Section": "MPEFA262",
         "Dates": "9/22/2026 to 11/10/2026",
         "Credits": "2.00",
-        "Instructor": "Nguyen Hong Son",
+        "Instructor": "Le Thi Thuy",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -2092,7 +2092,7 @@
         "Section": "MPEFA263",
         "Dates": "9/18/2026 to 10/9/2026",
         "Credits": "2.00",
-        "Instructor": "DOAN XUAN THUY",
+        "Instructor": "Doan Xuan Thuy",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -2122,7 +2122,7 @@
         "Section": "SCSFA262",
         "Dates": "9/24/2026 to 11/12/2026",
         "Credits": "2.00",
-        "Instructor": "Bui Thi Ngoc Lan",
+        "Instructor": "Nguyen Thi Hoa",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -2137,7 +2137,7 @@
         "Section": "SCSFA263",
         "Dates": "9/15/2026 to 11/3/2026",
         "Credits": "2.00",
-        "Instructor": "Pham Thi Vien",
+        "Instructor": "Khuat Thi Thanh Van",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -2182,7 +2182,7 @@
         "Section": "HIDFA263",
         "Dates": "9/18/2026 to 11/6/2026",
         "Credits": "2.00",
-        "Instructor": "Le Dinh Nam",
+        "Instructor": "Le Thi Thao",
         "Delivery Method": "Classroom",
         "Schedule": [
             {

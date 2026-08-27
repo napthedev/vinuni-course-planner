@@ -2402,6 +2402,21 @@
         ]
     },
     {
+        "Course": "IDEA1021",
+        "Course Title": "Statics and Mechanics of Solids",
+        "Section": "BTPFA261",
+        "Dates": "9/23/2026 to 1/6/2027",
+        "Credits": "4.00",
+        "Instructor": "Tyler Dalton McNabb",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Wednesday",
+                "time": "9:00AM to 10:50AM"
+            }
+        ]
+    },
+    {
         "Course": "INTR1010",
         "Course Title": "Introduction to Economics",
         "Section": "INEFA261",

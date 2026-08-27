@@ -5502,14 +5502,14 @@
         "Course": "NURS2221",
         "Course Title": "HealthTech & Innovation",
         "Section": "HTIFA261",
-        "Dates": "9/21/2026 to 1/4/2027",
+        "Dates": "9/14/2026 to 12/28/2026",
         "Credits": "3.00",
         "Instructor": "Pham Thi Ngoc",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Monday",
-                "time": "9:00AM to 12:00PM"
+                "time": "8:30AM to 12:00PM"
             }
         ]
     },

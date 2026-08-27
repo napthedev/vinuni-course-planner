@@ -623,25 +623,6 @@
         ]
     },
     {
-        "Course": "CHS1020",
-        "Course Title": "Introduction to Healthcare Communication (VINCORE)",
-        "Section": "IHCFA261",
-        "Dates": "9/24/2026 to 11/6/2026",
-        "Credits": "2.00",
-        "Instructor": "Trương Nguyễn Xuân Quỳnh",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Thursday",
-                "time": "2:00PM to 4:50PM"
-            },
-            {
-                "day": "Friday",
-                "time": "2:00PM to 4:50PM"
-            }
-        ]
-    },
-    {
         "Course": "CISM2020",
         "Course Title": "Big Data Management for Revenue Enhancement",
         "Section": "BDMFA261",

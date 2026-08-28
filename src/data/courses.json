@@ -3216,6 +3216,25 @@
     {
         "Course": "MATH2030",
         "Course Title": "Differential Equations",
+        "Section": "DEQFA261",
+        "Dates": "9/18/2026 to 12/25/2026",
+        "Credits": "3.00",
+        "Instructor": "Lieu Long Ho",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Friday",
+                "time": "10:30AM to 12:20PM"
+            },
+            {
+                "day": "Friday",
+                "time": "2:00PM to 3:50PM"
+            }
+        ]
+    },
+    {
+        "Course": "MATH2030",
+        "Course Title": "Differential Equations",
         "Section": "DEQFA262",
         "Dates": "9/14/2026 to 12/25/2026",
         "Credits": "3.00",

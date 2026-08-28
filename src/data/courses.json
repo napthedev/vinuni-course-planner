@@ -445,14 +445,14 @@
         "Course": "CECS1031",
         "Course Title": "Computational Thinking",
         "Section": "COTFA261",
-        "Dates": "9/25/2026 to 1/1/2027",
+        "Dates": "9/18/2026 to 12/25/2026",
         "Credits": "2.00",
         "Instructor": "Cha Sung Deok",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Friday",
-                "time": "9:00AM to 10:50AM"
+                "time": "6:00AM to 6:55AM"
             }
         ]
     },
@@ -1149,7 +1149,7 @@
         "Course": "COMP4050",
         "Course Title": "Cryptography",
         "Section": "CRYFA261",
-        "Dates": "9/21/2026 to 12/31/2026",
+        "Dates": "9/14/2026 to 12/24/2026",
         "Credits": "3.00",
         "Instructor": "Nguyễn Đình Đức Nhã",
         "Delivery Method": "Classroom",
@@ -1538,7 +1538,7 @@
         "Course": "ELEC3050",
         "Course Title": "Control Systems",
         "Section": "COSFA261",
-        "Dates": "9/7/2026 to 12/17/2026",
+        "Dates": "8/31/2026 to 12/10/2026",
         "Credits": "4.00",
         "Instructor": "Đỗ Danh Cường",
         "Delivery Method": "Classroom",
@@ -2296,7 +2296,7 @@
         "Course": "IDEA1011",
         "Course Title": "Big Ideas: AI and the Knowledge Revolution",
         "Section": "BAKFA261",
-        "Dates": "9/24/2026 to 12/31/2026",
+        "Dates": "9/17/2026 to 12/24/2026",
         "Credits": "2.00",
         "Instructor": "Rolley Matthew Henry",
         "Delivery Method": "Classroom",

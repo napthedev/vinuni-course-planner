@@ -3216,25 +3216,6 @@
     {
         "Course": "MATH2030",
         "Course Title": "Differential Equations",
-        "Section": "DEQFA261",
-        "Dates": "9/18/2026 to 12/25/2026",
-        "Credits": "3.00",
-        "Instructor": "Le Hai Khoi",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Friday",
-                "time": "9:00AM to 10:15AM"
-            },
-            {
-                "day": "Friday",
-                "time": "10:30AM to 12:20PM"
-            }
-        ]
-    },
-    {
-        "Course": "MATH2030",
-        "Course Title": "Differential Equations",
         "Section": "DEQFA262",
         "Dates": "9/14/2026 to 12/25/2026",
         "Credits": "3.00",

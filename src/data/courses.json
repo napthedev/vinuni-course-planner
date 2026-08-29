@@ -5400,17 +5400,17 @@
         ]
     },
     {
-        "Course": "NURS2221",
-        "Course Title": "HealthTech & Innovations",
+        "Course": "NURS2222",
+        "Course Title": "Health Tech & Innovations",
         "Section": "HTIFA261",
         "Dates": "9/14/2026 to 12/28/2026",
-        "Credits": "3.00",
+        "Credits": "2.00",
         "Instructor": "Pham Thi Ngoc",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
                 "day": "Monday",
-                "time": "8:30AM to 12:00PM"
+                "time": "9:00AM to 12:30PM"
             }
         ]
     },
@@ -5577,7 +5577,7 @@
         "Course": "NURS4321",
         "Course Title": "Nursing Care of Older Adults",
         "Section": "NCOFA261",
-        "Dates": "9/22/2026 to 10/30/2026",
+        "Dates": "9/15/2026 to 10/23/2026",
         "Credits": "2.00",
         "Instructor": "Giáp Thị Thanh Tình",
         "Delivery Method": "Classroom",

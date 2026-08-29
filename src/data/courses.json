@@ -366,82 +366,6 @@
         ]
     },
     {
-        "Course": "CECS1011",
-        "Course Title": "Introduction to Engineering and Computer Science",
-        "Section": "IECFA261",
-        "Dates": "9/14/2026 to 12/24/2026",
-        "Credits": "2.00",
-        "Instructor": "Rolley Matthew Henry",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "3:30PM to 5:20PM"
-            },
-            {
-                "day": "Thursday",
-                "time": "10:30AM to 12:20PM"
-            }
-        ]
-    },
-    {
-        "Course": "CECS1011",
-        "Course Title": "Introduction to Engineering and Computer Science",
-        "Section": "IECFA262",
-        "Dates": "9/14/2026 to 12/24/2026",
-        "Credits": "2.00",
-        "Instructor": "Rolley Matthew Henry",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "3:30PM to 5:20PM"
-            },
-            {
-                "day": "Thursday",
-                "time": "1:30PM to 3:20PM"
-            }
-        ]
-    },
-    {
-        "Course": "CECS1011",
-        "Course Title": "Introduction to Engineering and Computer Science",
-        "Section": "IECFA263",
-        "Dates": "9/14/2026 to 12/22/2026",
-        "Credits": "2.00",
-        "Instructor": "Phạm Ngọc Nam",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "10:30AM to 12:20PM"
-            },
-            {
-                "day": "Tuesday",
-                "time": "1:30PM to 3:30PM"
-            }
-        ]
-    },
-    {
-        "Course": "CECS1011",
-        "Course Title": "Introduction to Engineering and Computer Science",
-        "Section": "IECFA264",
-        "Dates": "9/14/2026 to 12/22/2026",
-        "Credits": "2.00",
-        "Instructor": "Phạm Ngọc Nam",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "3:30PM to 5:20PM"
-            },
-            {
-                "day": "Tuesday",
-                "time": "1:30PM to 3:30PM"
-            }
-        ]
-    },
-    {
         "Course": "CECS1031",
         "Course Title": "Computational Thinking",
         "Section": "COTFA261",
@@ -2424,6 +2348,21 @@
             {
                 "day": "Monday",
                 "time": "1:30PM to 3:20PM"
+            }
+        ]
+    },
+    {
+        "Course": "KORE1010",
+        "Course Title": "Korean Language and Culture",
+        "Section": "KLCFA262",
+        "Dates": "9/14/2026 to 12/21/2026",
+        "Credits": "2.00",
+        "Instructor": "King Sejong Institude",
+        "Delivery Method": "Classroom",
+        "Schedule": [
+            {
+                "day": "Monday",
+                "time": "9:00AM to 10:50AM"
             }
         ]
     },
@@ -5262,25 +5201,6 @@
             {
                 "day": "Thursday",
                 "time": "9:00AM to 12:00PM"
-            }
-        ]
-    },
-    {
-        "Course": "MNSR1240",
-        "Course Title": "Communication Skills in Healthcare System",
-        "Section": "CSHFA261",
-        "Dates": "9/21/2026 to 1/7/2027",
-        "Credits": "4.00",
-        "Instructor": "Hoàng Thị Huệ",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Monday",
-                "time": "1:30PM to 4:30PM"
-            },
-            {
-                "day": "Thursday",
-                "time": "1:30PM to 4:30PM"
             }
         ]
     },

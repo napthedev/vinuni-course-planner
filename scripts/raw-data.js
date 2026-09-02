@@ -449,8 +449,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efda",
@@ -476,6 +476,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -672,8 +673,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe3fe9d2ce3fdefd810d3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -1117,8 +1117,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efdd",
@@ -1144,6 +1144,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -1340,8 +1341,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a7fe3fe9d2ce3fdefd810e4"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -1809,8 +1809,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe0",
@@ -1860,6 +1860,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -2056,8 +2057,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe3fe9d2ce3fdefd810f5"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -2501,8 +2501,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f007",
@@ -2528,6 +2528,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -2724,8 +2725,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe3ff9d2ce3fdefd811d4"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -3169,8 +3169,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f00a",
@@ -3196,6 +3196,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -3392,8 +3393,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe3ff9d2ce3fdefd811e5"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -3861,8 +3861,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f00d",
@@ -3912,6 +3912,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -4108,8 +4109,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe3ff9d2ce3fdefd811f6"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -4530,8 +4530,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4f8",
@@ -4627,6 +4627,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -4758,8 +4759,7 @@ export const TABLES = [
               "ngay": "2026-12-19",
               "_id": "6a84958a80b526f2ae28203b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -5125,8 +5125,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef21",
@@ -5176,6 +5176,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -5294,8 +5295,7 @@ export const TABLES = [
               "ngay": "2026-11-09",
               "_id": "6a7fe3f89d2ce3fdefd80cfa"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -5746,8 +5746,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef24",
@@ -5797,6 +5797,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -5980,8 +5981,7 @@ export const TABLES = [
               "ngay": "2026-11-17",
               "_id": "6a7fe3f89d2ce3fdefd80d0f"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -6425,8 +6425,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4039d2ce3fdefd8146d",
@@ -6452,6 +6452,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -6648,8 +6649,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a7fe4039d2ce3fdefd8146b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -7093,8 +7093,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4039d2ce3fdefd8145b",
@@ -7120,6 +7120,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -7316,8 +7317,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe4039d2ce3fdefd81459"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -7761,8 +7761,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f010",
@@ -7788,6 +7788,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -7984,8 +7985,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a7fe3ff9d2ce3fdefd81207"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -8429,8 +8429,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f013",
@@ -8456,6 +8456,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -8652,8 +8653,7 @@ export const TABLES = [
               "ngay": "2027-01-01",
               "_id": "6a7fe3ff9d2ce3fdefd81218"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -9533,8 +9533,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f335",
@@ -9628,6 +9628,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -10136,8 +10137,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7f37a5a96069bd9190f333"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -11017,8 +11017,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f365",
@@ -11112,6 +11112,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -11620,8 +11621,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7f37a5a96069bd9190f363"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -12484,8 +12484,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f394",
@@ -12579,6 +12579,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -13074,8 +13075,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7f37a5a96069bd9190f392"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -13938,8 +13938,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f3c3",
@@ -14033,6 +14033,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -14528,8 +14529,7 @@ export const TABLES = [
               "ngay": "2026-12-25",
               "_id": "6a7f37a5a96069bd9190f3c0"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -15048,8 +15048,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef2a",
@@ -15099,6 +15099,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -15334,8 +15335,7 @@ export const TABLES = [
               "ngay": "2027-01-19",
               "_id": "6a7fe3f89d2ce3fdefd80d40"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -15854,8 +15854,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef2d",
@@ -15905,6 +15905,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -16140,8 +16141,7 @@ export const TABLES = [
               "ngay": "2027-01-20",
               "_id": "6a7fe3f89d2ce3fdefd80d54"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -16660,8 +16660,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef27",
@@ -16711,6 +16711,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -16946,8 +16947,7 @@ export const TABLES = [
               "ngay": "2027-01-20",
               "_id": "6a7fe3f89d2ce3fdefd80d2c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -17442,8 +17442,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a8d779c0e2ba141350dbf37",
@@ -17469,6 +17469,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -17704,8 +17705,7 @@ export const TABLES = [
               "ngay": "2027-01-15",
               "_id": "6a8d779c0e2ba141350dbf35"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -18224,8 +18224,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85704c7246ef3bccc61282",
@@ -18275,6 +18275,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -18510,8 +18511,7 @@ export const TABLES = [
               "ngay": "2027-01-21",
               "_id": "6a85704c7246ef3bccc61280"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -18979,8 +18979,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d6c",
@@ -19030,6 +19030,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -19226,8 +19227,7 @@ export const TABLES = [
               "ngay": "2026-12-18",
               "_id": "6a912f8c00330b739be12961"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -19695,8 +19695,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d7f",
@@ -19746,6 +19746,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -19942,8 +19943,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a91300db2df0420db9b65e7"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -20411,8 +20411,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d92",
@@ -20462,6 +20462,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -20658,8 +20659,7 @@ export const TABLES = [
               "ngay": "2026-12-23",
               "_id": "6a913040285edb4340ca54b0"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -21127,8 +21127,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028da5",
@@ -21178,6 +21178,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -21374,8 +21375,7 @@ export const TABLES = [
               "ngay": "2026-12-25",
               "_id": "6a9130ce285edb4340ca54c3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -21843,8 +21843,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a86c05b6d149acb607da84b",
@@ -21894,6 +21894,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -22090,8 +22091,7 @@ export const TABLES = [
               "ngay": "2026-12-25",
               "_id": "6a86c0cc30636ebf3387bf68"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -22414,7 +22414,7 @@ export const TABLES = [
           "maHocPhan": "CECS1050",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 101,
+          "siSo": 100,
           "fullAt": "2026-08-28T08:40:46.902Z",
           "siSoKeHoach": null,
           "siSoToiDa": 100,
@@ -22469,12 +22469,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "87a46b12-0845-47c9-9108-6eb6c59903ed",
-          "updatedByUsername": "dat.dt2@vinuni.edu.vn",
+          "updatedById": "f77bad0c-92b5-4774-936e-6b15b91ad9bb",
+          "updatedByUsername": "25anh.lh@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T02:09:07.004Z",
-          "updatedAt": "2026-08-28T10:24:09.015Z",
+          "updatedAt": "2026-09-02T08:25:21.446Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -22559,8 +22559,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b6ba96069bd9190f118",
@@ -22656,6 +22656,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -22852,8 +22853,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a913112285edb4340ca54d2"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -23176,8 +23176,8 @@ export const TABLES = [
           "maHocPhan": "CECS1050",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 99,
-          "fullAt": null,
+          "siSo": 100,
+          "fullAt": "2026-09-02T08:25:27.154Z",
           "siSoKeHoach": null,
           "siSoToiDa": 100,
           "trangThaiDuyetGiangDay": "Đang xử lý",
@@ -23231,12 +23231,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "71123cb1-ecdc-4aed-bcc6-e0d2086c3169",
-          "updatedByUsername": "25anh.dl@vinuni.edu.vn",
+          "updatedById": "f77bad0c-92b5-4774-936e-6b15b91ad9bb",
+          "updatedByUsername": "25anh.lh@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T02:09:07.053Z",
-          "updatedAt": "2026-09-02T03:49:34.610Z",
+          "updatedAt": "2026-09-02T08:25:27.180Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -23321,8 +23321,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b6ba96069bd9190f11d",
@@ -23418,6 +23418,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -23614,8 +23615,7 @@ export const TABLES = [
               "ngay": "2026-12-25",
               "_id": "6a91313a913ad686bcfabff8"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -24328,8 +24328,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f2a3",
@@ -24355,6 +24355,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -24746,8 +24747,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7f37a4a96069bd9190f2a1"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -25460,8 +25460,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f2c5",
@@ -25487,6 +25487,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -25878,8 +25879,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7f37a4a96069bd9190f2c3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -26592,8 +26592,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f2e7",
@@ -26619,6 +26619,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -27010,8 +27011,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7f37a4a96069bd9190f2e5"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -27724,8 +27724,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f309",
@@ -27751,6 +27751,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -28142,8 +28143,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7f37a4a96069bd9190f307"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -28611,8 +28611,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f06a",
@@ -28662,6 +28662,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -28858,8 +28859,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7fe4029d2ce3fdefd81408"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -29327,8 +29327,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f06d",
@@ -29378,6 +29378,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -29574,8 +29575,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7fe4029d2ce3fdefd81419"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -30094,8 +30094,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282239",
@@ -30145,6 +30145,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -30380,8 +30381,7 @@ export const TABLES = [
               "ngay": "2026-11-17",
               "_id": "6a85680380b526f2ae282230"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -30900,8 +30900,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae28224e",
@@ -30951,6 +30951,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -31186,8 +31187,7 @@ export const TABLES = [
               "ngay": "2027-01-19",
               "_id": "6a8573627246ef3bccc61310"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -31706,8 +31706,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae28228d",
@@ -31757,6 +31757,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -31992,8 +31993,7 @@ export const TABLES = [
               "ngay": "2026-09-29",
               "_id": "6a85680380b526f2ae28227d"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -32367,7 +32367,7 @@ export const TABLES = [
           "maHocPhan": "COMM2031",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 38,
+          "siSo": 39,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 40,
@@ -32422,12 +32422,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "3fea9468-6a43-41e0-adfc-6bb2dc3b2a7a",
           "createdByUsername": "hang.tt@vinuni.edu.vn",
-          "updatedById": "f64bfdfd-d476-4126-a933-742f735acc8e",
-          "updatedByUsername": "25nhi.bn@vinuni.edu.vn",
+          "updatedById": "f823df55-71b7-4370-bd4c-bbde7160d4e3",
+          "updatedByUsername": "25huyen.pt@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-19T08:23:31.693Z",
-          "updatedAt": "2026-08-30T07:56:52.859Z",
+          "updatedAt": "2026-09-02T10:25:55.789Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -32512,8 +32512,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822a2",
@@ -32563,6 +32563,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -32798,8 +32799,7 @@ export const TABLES = [
               "ngay": "2026-10-30",
               "_id": "6a85680380b526f2ae282296"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -33294,8 +33294,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282263",
@@ -33321,6 +33321,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -33556,8 +33557,7 @@ export const TABLES = [
               "ngay": "2027-01-21",
               "_id": "6a8573627246ef3bccc61314"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -34052,8 +34052,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822b7",
@@ -34079,6 +34079,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -34314,8 +34315,7 @@ export const TABLES = [
               "ngay": "2027-01-19",
               "_id": "6a8573637246ef3bccc61324"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -34810,8 +34810,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822cc",
@@ -34837,6 +34837,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -35072,8 +35073,7 @@ export const TABLES = [
               "ngay": "2026-12-10",
               "_id": "6a85680380b526f2ae2822c6"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -35592,8 +35592,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822e1",
@@ -35643,6 +35643,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -35878,8 +35879,7 @@ export const TABLES = [
               "ngay": "2026-10-07",
               "_id": "6a85680380b526f2ae2822d2"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -36398,8 +36398,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822f6",
@@ -36449,6 +36449,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -36684,8 +36685,7 @@ export const TABLES = [
               "ngay": "2026-10-07",
               "_id": "6a85680380b526f2ae2822e7"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -37180,8 +37180,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae28230b",
@@ -37207,6 +37207,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -37442,8 +37443,7 @@ export const TABLES = [
               "ngay": "2026-12-14",
               "_id": "6a85680480b526f2ae282306"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -37938,8 +37938,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282320",
@@ -37965,6 +37965,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -38200,8 +38201,7 @@ export const TABLES = [
               "ngay": "2026-10-03",
               "_id": "6a85680480b526f2ae282310"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -38696,8 +38696,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282335",
@@ -38723,6 +38723,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -38958,8 +38959,7 @@ export const TABLES = [
               "ngay": "2026-10-19",
               "_id": "6a85680480b526f2ae282328"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -39478,8 +39478,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282374",
@@ -39529,6 +39529,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -39764,8 +39765,7 @@ export const TABLES = [
               "ngay": "2027-01-13",
               "_id": "6a8d635174d6b36c158ae7c3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -40284,8 +40284,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae28234a",
@@ -40335,6 +40335,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -40570,8 +40571,7 @@ export const TABLES = [
               "ngay": "2026-11-04",
               "_id": "6a85680480b526f2ae28233f"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -41066,8 +41066,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282389",
@@ -41093,6 +41093,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -41328,8 +41329,7 @@ export const TABLES = [
               "ngay": "2027-01-15",
               "_id": "6a9138e7b2df0420db9b667b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -42383,8 +42383,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bd58a0c27d5d0286c5",
@@ -42434,6 +42434,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -43020,8 +43021,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a851a8f9d848f8a1397d956"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -44075,8 +44075,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bd58a0c27d5d0286f6",
@@ -44126,6 +44126,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -44712,8 +44713,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a851a8f9d848f8a1397d985"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -45767,8 +45767,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bd58a0c27d5d028727",
@@ -45818,6 +45818,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -46404,8 +46405,7 @@ export const TABLES = [
               "ngay": "2027-01-01",
               "_id": "6a851a909d848f8a1397d9b4"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -47459,8 +47459,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d028758",
@@ -47510,6 +47510,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -48096,8 +48097,7 @@ export const TABLES = [
               "ngay": "2027-01-01",
               "_id": "6a851a909d848f8a1397d9e3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -49151,8 +49151,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a0a",
@@ -49202,6 +49202,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -49788,8 +49789,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a8526cc7246ef3bccc60f34"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -50843,8 +50843,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a3b",
@@ -50894,6 +50894,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -51480,8 +51481,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a8526cd7246ef3bccc60f63"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -52535,8 +52535,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028b12",
@@ -52586,6 +52586,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -53172,8 +53173,7 @@ export const TABLES = [
               "ngay": "2026-09-11",
               "_id": "6a913183913ad686bcfac009"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -54227,8 +54227,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028ae1",
@@ -54278,6 +54278,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -54864,8 +54865,7 @@ export const TABLES = [
               "ngay": "2026-09-09",
               "_id": "6a91321676d7c6043ce8a693"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -55919,8 +55919,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a8e",
@@ -55970,6 +55970,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -56556,8 +56557,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7feba1cc13ee11f45b63a7"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -57611,8 +57611,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028ab0",
@@ -57662,6 +57662,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -58248,8 +58249,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7feba1cc13ee11f45b63d6"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -59010,8 +59010,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c7d",
@@ -59061,6 +59061,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -59452,8 +59453,7 @@ export const TABLES = [
               "ngay": "2026-12-21",
               "_id": "6a91325e00330b739be129ab"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -60214,8 +60214,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c5b",
@@ -60265,6 +60265,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -60656,8 +60657,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a9132aa4652ee3d2e5ddb46"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -60830,8 +60830,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d55",
@@ -60881,8 +60881,8 @@ export const TABLES = [
             }
           ],
           "children": [],
-          "thoiKhoaBieuGocList": [],
-          "thoiKhoaBieuGhepList": []
+          "thoiKhoaBieuGhepList": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [],
@@ -61055,8 +61055,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d59",
@@ -61106,8 +61106,8 @@ export const TABLES = [
             }
           ],
           "children": [],
-          "thoiKhoaBieuGocList": [],
-          "thoiKhoaBieuGhepList": []
+          "thoiKhoaBieuGhepList": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -61868,8 +61868,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c9f",
@@ -61919,6 +61919,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -62310,8 +62311,7 @@ export const TABLES = [
               "ngay": "2026-09-10",
               "_id": "6a9132e776d7c6043ce8a6a3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -62484,8 +62484,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d27",
@@ -62535,8 +62535,8 @@ export const TABLES = [
             }
           ],
           "children": [],
-          "thoiKhoaBieuGocList": [],
-          "thoiKhoaBieuGhepList": []
+          "thoiKhoaBieuGhepList": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -63297,8 +63297,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d51",
@@ -63348,6 +63348,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -63739,8 +63740,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a9133274652ee3d2e5ddb66"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -64225,8 +64225,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef30",
@@ -64276,6 +64276,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -64485,8 +64486,7 @@ export const TABLES = [
               "ngay": "2027-01-04",
               "_id": "6a7fe3f89d2ce3fdefd80d66"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -64971,8 +64971,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef33",
@@ -65022,6 +65022,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -65231,8 +65232,7 @@ export const TABLES = [
               "ngay": "2027-01-05",
               "_id": "6a7fe3f89d2ce3fdefd80d78"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -65717,8 +65717,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef36",
@@ -65768,6 +65768,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -65977,8 +65978,7 @@ export const TABLES = [
               "ngay": "2027-01-06",
               "_id": "6a7fe3f89d2ce3fdefd80d8a"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -66318,7 +66318,7 @@ export const TABLES = [
           "maHocPhan": "COSL1010",
           "soThuTuNhom": null,
           "soThuTuLop": "4",
-          "siSo": 85,
+          "siSo": 86,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 100,
@@ -66373,12 +66373,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "02abf5ce-530b-4702-8858-1ecc7e8f6907",
-          "updatedByUsername": "25khanh.tlt@vinuni.edu.vn",
+          "updatedById": "e990149a-2084-4f9d-9d77-d67ab9e374d7",
+          "updatedByUsername": "24thu.vm@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:31.561Z",
-          "updatedAt": "2026-09-01T15:40:22.376Z",
+          "updatedAt": "2026-09-02T07:33:26.939Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -66463,8 +66463,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef39",
@@ -66514,6 +66514,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -66723,8 +66724,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7fe3f99d2ce3fdefd80d9c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -67778,8 +67778,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a6c",
@@ -67829,6 +67829,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -68415,8 +68416,7 @@ export const TABLES = [
               "ngay": "2026-12-23",
               "_id": "6a913396b2df0420db9b662c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -68884,8 +68884,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe6",
@@ -68935,6 +68935,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -69131,8 +69132,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7fe3fe9d2ce3fdefd81117"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -69600,8 +69600,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe9",
@@ -69651,6 +69651,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -69847,8 +69848,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7fe3fe9d2ce3fdefd81128"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -70316,8 +70316,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efec",
@@ -70367,6 +70367,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -70563,8 +70564,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe3fe9d2ce3fdefd81139"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -71032,8 +71032,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe3",
@@ -71083,6 +71083,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -71279,8 +71280,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe3fe9d2ce3fdefd81106"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -71724,8 +71724,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe3fe9d2ce3fdefd8114c",
@@ -71751,6 +71751,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -71947,8 +71948,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe4eecc13ee11f45b6233"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -72392,8 +72392,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190eff2",
@@ -72419,6 +72419,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -72615,8 +72616,7 @@ export const TABLES = [
               "ngay": "2026-11-04",
               "_id": "6a7fe3fe9d2ce3fdefd81154"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -73060,8 +73060,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190eff5",
@@ -73087,6 +73087,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -73283,8 +73284,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a7fe4eecc13ee11f45b6246"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -73728,8 +73728,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe3ff9d2ce3fdefd81180",
@@ -73755,6 +73755,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -73951,8 +73952,7 @@ export const TABLES = [
               "ngay": "2026-11-05",
               "_id": "6a7fe3ff9d2ce3fdefd81176"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -74447,8 +74447,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a8573617246ef3bccc612dc",
@@ -74474,6 +74474,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -74709,8 +74710,7 @@ export const TABLES = [
               "ngay": "2026-10-15",
               "_id": "6a85680280b526f2ae282141"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -75205,8 +75205,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae28213a",
@@ -75232,6 +75232,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -75467,8 +75468,7 @@ export const TABLES = [
               "ngay": "2026-10-30",
               "_id": "6a85680280b526f2ae28212e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -75963,8 +75963,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a8573627246ef3bccc612e5",
@@ -75990,6 +75990,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -76225,8 +76226,7 @@ export const TABLES = [
               "ngay": "2026-11-23",
               "_id": "6a85680280b526f2ae282171"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -76745,8 +76745,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae282164",
@@ -76796,6 +76796,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -77031,8 +77032,7 @@ export const TABLES = [
               "ngay": "2026-09-30",
               "_id": "6a85680280b526f2ae282154"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -78086,8 +78086,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d0289d9",
@@ -78137,6 +78137,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -78723,8 +78724,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a851f369d848f8a1397db8b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -79778,8 +79778,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe7ee2b914050d44fad72",
@@ -79829,6 +79829,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -80415,8 +80416,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a7fe7ee2b914050d44fad6f"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -81470,8 +81470,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028bd7",
@@ -81543,6 +81543,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -82129,8 +82130,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7feee29d2ce3fdefd81501"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -82891,8 +82891,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85322184842edf8e35ec93",
@@ -83034,6 +83034,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -83425,8 +83426,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a85322184842edf8e35ec91"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -84480,8 +84480,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028cf2",
@@ -84531,6 +84531,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -85117,8 +85118,7 @@ export const TABLES = [
               "ngay": "2026-09-03",
               "_id": "6a911b8cb2e34aca67420ec5"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -86172,8 +86172,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028c08",
@@ -86223,6 +86223,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -86809,8 +86810,7 @@ export const TABLES = [
               "ngay": "2026-12-17",
               "_id": "6a7ff0eaa96069bd9191078c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -87864,8 +87864,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c39",
@@ -87915,6 +87915,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -88501,8 +88502,7 @@ export const TABLES = [
               "ngay": "2027-01-01",
               "_id": "6a7ff44e9d2ce3fdefd81568"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -89556,8 +89556,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d23",
@@ -89607,6 +89607,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -90193,8 +90194,7 @@ export const TABLES = [
               "ngay": "2026-09-10",
               "_id": "6a913442913ad686bcfac02c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -90367,8 +90367,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d2b",
@@ -90418,8 +90418,8 @@ export const TABLES = [
             }
           ],
           "children": [],
-          "thoiKhoaBieuGocList": [],
-          "thoiKhoaBieuGhepList": []
+          "thoiKhoaBieuGhepList": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -91282,8 +91282,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eeee",
@@ -91333,6 +91333,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -91802,8 +91803,7 @@ export const TABLES = [
               "ngay": "2027-01-20",
               "_id": "6a7fe3f59d2ce3fdefd80b20"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -92666,8 +92666,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eef1",
@@ -92717,6 +92717,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -93186,8 +93187,7 @@ export const TABLES = [
               "ngay": "2027-01-21",
               "_id": "6a7fe3f59d2ce3fdefd80b46"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -94050,8 +94050,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eef4",
@@ -94101,6 +94101,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -94570,8 +94571,7 @@ export const TABLES = [
               "ngay": "2027-01-20",
               "_id": "6a7fe3f69d2ce3fdefd80b6c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -95434,8 +95434,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eef7",
@@ -95485,6 +95485,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -95954,8 +95955,7 @@ export const TABLES = [
               "ngay": "2027-01-21",
               "_id": "6a856e5f9d848f8a1397dc00"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -96818,8 +96818,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eefa",
@@ -96869,6 +96869,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -97338,8 +97339,7 @@ export const TABLES = [
               "ngay": "2027-01-21",
               "_id": "6a856e5f9d848f8a1397dc26"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -98202,8 +98202,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190eefd",
@@ -98253,6 +98253,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -98722,8 +98723,7 @@ export const TABLES = [
               "ngay": "2027-01-20",
               "_id": "6a7fe3f69d2ce3fdefd80bde"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -99586,8 +99586,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190ef00",
@@ -99637,6 +99637,7 @@ export const TABLES = [
             }
           ],
           "children": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -100106,8 +100107,7 @@ export const TABLES = [
               "ngay": "2027-01-20",
               "_id": "6a7fe3f69d2ce3fdefd80c04"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         }
       ]
     }
@@ -100981,7 +100981,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190ef03",
@@ -101030,8 +101029,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -102365,7 +102365,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190ef06",
@@ -102414,8 +102413,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -103405,7 +103405,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190ef09",
@@ -103454,8 +103453,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -104177,7 +104177,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efb1",
@@ -104272,8 +104271,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -104969,7 +104969,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efb6",
@@ -105064,8 +105063,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -105761,7 +105761,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efbb",
@@ -105856,8 +105855,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -106553,7 +106553,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efc0",
@@ -106648,8 +106647,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -107328,7 +107328,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f016",
@@ -107377,8 +107376,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -108044,7 +108044,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f019",
@@ -108093,8 +108092,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -108736,7 +108736,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f05e",
@@ -108761,8 +108760,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:35.169Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -109428,7 +109428,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f05b",
@@ -109477,8 +109476,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -110144,7 +110144,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f058",
@@ -110193,8 +110192,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -110860,7 +110860,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f085",
@@ -110909,8 +110908,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -111576,7 +111576,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f082",
@@ -111625,8 +111624,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -112292,7 +112292,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f08b",
@@ -112341,8 +112340,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -112984,7 +112984,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8661aae128454986416e9f",
@@ -113009,8 +113008,9 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:42.660Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -113652,7 +113652,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8661aae128454986416ea2",
@@ -113677,8 +113676,9 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:42.775Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -114320,7 +114320,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b59a96069bd9190eecb",
@@ -114345,8 +114344,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:25.521Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -114869,7 +114869,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e78fdd125a5955c93d7c5",
@@ -114894,8 +114893,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:26:21.042Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -115327,7 +115327,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e791fd125a5955c93d7c7",
@@ -115352,8 +115351,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:26:55.533Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -115717,7 +115717,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e7960800c3883de46ac87",
@@ -115742,8 +115741,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:28:00.238Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -116055,7 +116055,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8d70ac0e2ba141350dbf18",
@@ -116080,8 +116079,9 @@ export const TABLES = [
               "updatedAt": "2026-08-25T10:38:36.323Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -116316,7 +116316,7 @@ export const TABLES = [
           "maHocPhan": "HASS1030",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 66,
+          "siSo": 65,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 70,
@@ -116371,12 +116371,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "ed7b8ab8-2d01-4953-92de-87b096ed23cb",
-          "updatedByUsername": "25minh.nn@vinuni.edu.vn",
+          "updatedById": "f2fb2b08-ae0e-4003-b6a8-1eb978d89d73",
+          "updatedByUsername": "25phu.nn@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-10T05:18:17.520Z",
-          "updatedAt": "2026-08-31T15:54:42.272Z",
+          "updatedAt": "2026-09-02T06:48:09.300Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -116461,7 +116461,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e7848495ded074981b92e",
@@ -116486,8 +116485,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:23:20.107Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -116919,7 +116919,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e78b5bf8eb0c15cc8e79f",
@@ -116944,8 +116943,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:25:09.344Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -117377,7 +117377,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b59a96069bd9190eed8",
@@ -117402,8 +117401,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:25.790Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -117835,7 +117835,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8661abe128454986416eb9",
@@ -117860,8 +117859,9 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:43.117Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -118293,7 +118293,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e79a5495ded074981b930",
@@ -118318,8 +118317,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:29:09.346Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -118751,7 +118751,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b59a96069bd9190eedd",
@@ -118776,8 +118775,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:25.901Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -119209,7 +119209,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e7a97495ded074981b933",
@@ -119234,8 +119233,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:33:11.453Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -119667,7 +119667,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8661aae128454986416e9c",
@@ -119692,8 +119691,9 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:42.548Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -120319,7 +120319,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190ef0c",
@@ -120368,8 +120367,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -121125,7 +121125,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef0f",
@@ -121174,8 +121173,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -121931,7 +121931,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e883befe3ef6aa8c5b0bf",
@@ -121956,8 +121955,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T06:31:23.684Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -122689,7 +122689,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e888dc6f5ea6fc1a58a8b",
@@ -122714,8 +122713,9 @@ export const TABLES = [
               "updatedAt": "2026-08-26T06:32:45.376Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -123309,7 +123309,7 @@ export const TABLES = [
           "maHocPhan": "HESP3042",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 10,
+          "siSo": 6,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 11,
@@ -123369,7 +123369,7 @@ export const TABLES = [
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:46.235Z",
-          "updatedAt": "2026-08-28T17:07:49.220Z",
+          "updatedAt": "2026-09-02T09:55:39.762Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -123454,7 +123454,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd9191055a",
@@ -123549,8 +123548,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -124242,7 +124242,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e94aecc13ee11f45b5620",
@@ -124291,8 +124290,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -124873,7 +124873,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a86af216f914cb0a446476c",
@@ -124922,8 +124921,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -125541,7 +125541,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef3f",
@@ -125590,8 +125589,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -126287,7 +126287,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef3c",
@@ -126336,8 +126335,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -127067,7 +127067,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85704c7246ef3bccc61298",
@@ -127116,8 +127115,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -127849,7 +127849,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85704c7246ef3bccc612ae",
@@ -127874,8 +127873,9 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:58:52.479Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -128573,7 +128573,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8e53ddce73d95fce32643d",
@@ -128622,8 +128621,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -129353,7 +129353,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae282125",
@@ -129402,8 +129401,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -130101,7 +130101,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8573617246ef3bccc612c7",
@@ -130126,8 +130125,9 @@ export const TABLES = [
               "updatedAt": "2026-08-19T09:12:01.395Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -130637,7 +130637,7 @@ export const TABLES = [
           "maHocPhan": "KORE1010",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 1,
+          "siSo": 2,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 25,
@@ -130692,12 +130692,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "3fea9468-6a43-41e0-adfc-6bb2dc3b2a7a",
           "createdByUsername": "hang.tt@vinuni.edu.vn",
-          "updatedById": "3973f330-7283-4095-83c1-c7a6f5f8d93c",
-          "updatedByUsername": "25ngoc.nk@vinuni.edu.vn",
+          "updatedById": "f823df55-71b7-4370-bd4c-bbde7160d4e3",
+          "updatedByUsername": "25huyen.pt@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-29T03:40:57.084Z",
-          "updatedAt": "2026-09-01T10:58:39.342Z",
+          "updatedAt": "2026-09-02T10:29:12.551Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -130782,7 +130782,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a9254c90cb37b39bb459064",
@@ -130807,8 +130806,9 @@ export const TABLES = [
               "updatedAt": "2026-08-29T03:40:57.311Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -131501,7 +131501,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eee2",
@@ -131526,8 +131525,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:26.042Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -132259,7 +132259,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eee5",
@@ -132284,8 +132283,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:26.120Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -132966,7 +132966,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f02b",
@@ -132991,8 +132990,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.285Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -133634,7 +133634,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f02e",
@@ -133659,8 +133658,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.337Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -134302,7 +134302,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f031",
@@ -134327,8 +134326,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.389Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -134909,7 +134909,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efd1",
@@ -134958,8 +134957,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -135475,7 +135475,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efd4",
@@ -135524,8 +135523,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -136041,7 +136041,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efd7",
@@ -136090,8 +136089,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -136607,7 +136607,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efc5",
@@ -136656,8 +136655,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -137173,7 +137173,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efc8",
@@ -137222,8 +137221,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -137739,7 +137739,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efcb",
@@ -137788,8 +137787,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -138305,7 +138305,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efce",
@@ -138354,8 +138353,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -138956,7 +138956,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f025",
@@ -139005,8 +139004,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -139672,7 +139672,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f028",
@@ -139721,8 +139720,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -140388,7 +140388,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f037",
@@ -140437,8 +140436,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -141080,7 +141080,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4019d2ce3fdefd812f7",
@@ -141105,8 +141104,9 @@ export const TABLES = [
               "updatedAt": "2026-08-15T03:58:57.128Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -141772,7 +141772,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f061",
@@ -141821,8 +141820,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -142488,7 +142488,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f064",
@@ -142537,8 +142536,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -143204,7 +143204,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f067",
@@ -143253,8 +143252,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -143920,7 +143920,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f088",
@@ -143969,8 +143968,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -144636,7 +144636,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f03d",
@@ -144685,8 +144684,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -145352,7 +145352,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f040",
@@ -145401,8 +145400,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -146068,7 +146068,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f043",
@@ -146117,8 +146116,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -146784,7 +146784,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f046",
@@ -146833,8 +146832,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -147500,7 +147500,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190effb",
@@ -147549,8 +147548,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -148216,7 +148216,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190effe",
@@ -148265,8 +148264,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -148932,7 +148932,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f001",
@@ -148981,8 +148980,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -149648,7 +149648,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f004",
@@ -149697,8 +149696,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -150364,7 +150364,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f070",
@@ -150413,8 +150412,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -151080,7 +151080,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f073",
@@ -151129,8 +151128,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -151728,7 +151728,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7beda438576b5fba3ddc71",
@@ -151777,8 +151776,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -152978,7 +152978,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a797ff738dd923398a443ce",
@@ -153027,8 +153026,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -154670,7 +154670,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a797ff838dd923398a443e4",
@@ -154719,8 +154718,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -157127,7 +157127,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a797ff938dd923398a4440c",
@@ -157222,8 +157221,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -160215,7 +160215,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a797ffa38dd923398a44436",
@@ -160310,8 +160309,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -161928,7 +161928,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f04f",
@@ -161953,8 +161952,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.907Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -162596,7 +162596,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f052",
@@ -162621,8 +162620,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.959Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -163264,7 +163264,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f055",
@@ -163289,8 +163288,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:35.012Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -164542,7 +164542,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d028811",
@@ -164591,8 +164590,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -166234,7 +166234,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d028842",
@@ -166283,8 +166282,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -167926,7 +167926,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d028873",
@@ -167975,8 +167974,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -169618,7 +169618,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bf58a0c27d5d0288a4",
@@ -169667,8 +169666,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -171310,7 +171310,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bf58a0c27d5d0288d5",
@@ -171359,8 +171358,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -173002,7 +173002,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bf58a0c27d5d028906",
@@ -173097,8 +173096,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -174740,7 +174740,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bf58a0c27d5d028937",
@@ -174835,8 +174834,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -176478,7 +176478,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bf58a0c27d5d028968",
@@ -176573,8 +176572,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -177875,7 +177875,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a914a42614aa74f7f7aee25",
@@ -177900,8 +177899,9 @@ export const TABLES = [
               "updatedAt": "2026-08-28T08:43:46.191Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -178862,8 +178862,8 @@ export const TABLES = [
           "maHocPhan": "MATH2030",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 32,
-          "fullAt": null,
+          "siSo": 33,
+          "fullAt": "2026-09-02T05:29:18.991Z",
           "siSoKeHoach": null,
           "siSoToiDa": 33,
           "trangThaiDuyetGiangDay": "Đang xử lý",
@@ -178917,12 +178917,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "e30a13cc-e804-4159-97fb-7479f6a700d8",
-          "updatedByUsername": "25hoa.nx@vinuni.edu.vn",
+          "updatedById": "a3a5ef78-8ae8-41e5-ab32-7d4ad18ca4e3",
+          "updatedByUsername": "23phuong.dn@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T02:09:03.794Z",
-          "updatedAt": "2026-08-29T15:12:54.683Z",
+          "updatedAt": "2026-09-02T05:29:19.019Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -179007,7 +179007,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b68a96069bd9190f0cf",
@@ -179032,8 +179031,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:40.443Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -180480,7 +180480,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b64a96069bd9190f08e",
@@ -180529,8 +180528,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -182172,7 +182172,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b64a96069bd9190f091",
@@ -182221,8 +182220,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -183864,7 +183864,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b64a96069bd9190f094",
@@ -183913,8 +183912,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -185556,7 +185556,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b64a96069bd9190f097",
@@ -185605,8 +185604,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -186955,7 +186955,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d0287e0",
@@ -187004,8 +187003,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -188380,7 +188380,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7feee29d2ce3fdefd81534",
@@ -188473,8 +188472,9 @@ export const TABLES = [
               "updatedAt": "2026-08-15T04:45:22.483Z"
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -189823,7 +189823,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b69a96069bd9190f0e2",
@@ -189918,8 +189917,9 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
@@ -191084,9 +191084,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028b64",
@@ -191135,6 +191133,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -191526,8 +191527,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a9135b7913ad686bcfac073"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -192288,9 +192288,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85322184842edf8e35ecb9",
@@ -192431,6 +192429,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -192822,8 +192823,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a85322184842edf8e35ecb7"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -193584,9 +193584,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028b86",
@@ -193635,6 +193633,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -194026,8 +194027,7 @@ export const TABLES = [
               "ngay": "2026-12-24",
               "_id": "6a84925b9d848f8a1397d737"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -194788,9 +194788,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028cc1",
@@ -194839,6 +194837,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -195230,8 +195231,7 @@ export const TABLES = [
               "ngay": "2026-12-23",
               "_id": "6a91360c913ad686bcfac093"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -195404,9 +195404,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d2f",
@@ -195455,8 +195453,10 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGocList": [],
-          "children": []
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -195779,7 +195779,7 @@ export const TABLES = [
           "maHocPhan": "MEDI1021A",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 49,
+          "siSo": 50,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 140,
@@ -195834,12 +195834,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "f2fb2b08-ae0e-4003-b6a8-1eb978d89d73",
-          "updatedByUsername": "25phu.nn@vinuni.edu.vn",
+          "updatedById": "363da7ac-b8ce-4147-98a9-4a66af389404",
+          "updatedByUsername": "24nhung.nth@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:33.939Z",
-          "updatedAt": "2026-09-01T13:48:15.895Z",
+          "updatedAt": "2026-09-02T09:53:01.672Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -195924,9 +195924,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f43c",
@@ -195975,6 +195973,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -196171,8 +196172,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7f37a5a96069bd9190f43a"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -196599,9 +196599,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f51c",
@@ -196626,6 +196624,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.632Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -196809,8 +196810,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a6a96069bd9190f51a"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -198641,9 +198641,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7feba1cc13ee11f45b6371",
@@ -198828,6 +198826,9 @@ export const TABLES = [
               "updatedAt": "2026-08-15T04:31:29.212Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -199921,8 +199922,7 @@ export const TABLES = [
               "ngay": "2026-12-16",
               "_id": "6a7feba1cc13ee11f45b636f"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -201753,9 +201753,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7feba0cc13ee11f45b62da",
@@ -201940,6 +201938,9 @@ export const TABLES = [
               "updatedAt": "2026-08-15T04:31:28.685Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -203033,8 +203034,7 @@ export const TABLES = [
               "ngay": "2026-09-28",
               "_id": "6a7feba0cc13ee11f45b6250"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -203747,9 +203747,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f416",
@@ -203774,6 +203772,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:33.877Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -204165,8 +204166,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7f37a5a96069bd9190f413"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -204701,9 +204701,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f44a",
@@ -204752,6 +204750,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -204883,8 +204884,7 @@ export const TABLES = [
               "ngay": "2026-10-02",
               "_id": "6a7f37a6a96069bd9190f448"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -205384,9 +205384,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f474",
@@ -205433,6 +205431,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.147Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -205629,8 +205630,7 @@ export const TABLES = [
               "ngay": "2026-11-13",
               "_id": "6a7f37a6a96069bd9190f472"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -206155,7 +206155,7 @@ export const TABLES = [
           "maHocPhan": "MEDI2070",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 2,
+          "siSo": 3,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 69,
@@ -206210,12 +206210,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "523b4c9b-4157-4b49-83da-8796bb0b7793",
-          "updatedByUsername": "24minh.ph@vinuni.edu.vn",
+          "updatedById": "363da7ac-b8ce-4147-98a9-4a66af389404",
+          "updatedByUsername": "24nhung.nth@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:34.290Z",
-          "updatedAt": "2026-08-29T07:49:57.611Z",
+          "updatedAt": "2026-09-02T09:56:49.781Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -206300,9 +206300,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4ac",
@@ -206327,6 +206325,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.295Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -206653,8 +206654,7 @@ export const TABLES = [
               "ngay": "2027-02-18",
               "_id": "6a849abc80b526f2ae282070"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -207239,9 +207239,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4a6",
@@ -207288,6 +207286,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.284Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -207549,8 +207550,7 @@ export const TABLES = [
               "ngay": "2027-01-14",
               "_id": "6a8498962db09dc372be4106"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -208220,9 +208220,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f493",
@@ -208247,6 +208245,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.229Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -208573,8 +208574,7 @@ export const TABLES = [
               "ngay": "2026-12-18",
               "_id": "6a7f37a6a96069bd9190f491"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -209059,9 +209059,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f429",
@@ -209110,6 +209108,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -209319,8 +209320,7 @@ export const TABLES = [
               "ngay": "2027-01-15",
               "_id": "6a82852d80b526f2ae281d3b"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -209822,9 +209822,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4be",
@@ -209873,6 +209871,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -210095,8 +210096,7 @@ export const TABLES = [
               "ngay": "2027-01-28",
               "_id": "6a8523ff80b526f2ae2820ae"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -210596,9 +210596,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f45d",
@@ -210667,6 +210665,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.090Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -210863,8 +210864,7 @@ export const TABLES = [
               "ngay": "2026-10-23",
               "_id": "6a7f37a6a96069bd9190f45b"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -211332,9 +211332,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f3da",
@@ -211405,6 +211403,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:33.713Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -211601,8 +211602,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7f37a5a96069bd9190f3d8"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -211985,9 +211985,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4e2",
@@ -212082,6 +212080,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -212213,8 +212214,7 @@ export const TABLES = [
               "ngay": "2026-10-27",
               "_id": "6a84958980b526f2ae282021"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -213397,9 +213397,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f570",
@@ -213446,6 +213444,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.859Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -214175,8 +214176,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a6a96069bd9190f56e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -214761,9 +214761,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f534",
@@ -214788,6 +214786,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.696Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -215049,8 +215050,7 @@ export const TABLES = [
               "ngay": "2026-10-02",
               "_id": "6a7f37a6a96069bd9190f532"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -216740,9 +216740,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd91910342",
@@ -216767,6 +216765,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:44.899Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -217873,8 +217874,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd91910340"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -218325,9 +218325,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f50a",
@@ -218376,6 +218374,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -218559,8 +218560,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a6a96069bd9190f508"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -219743,9 +219743,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f5ae",
@@ -219770,6 +219768,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.021Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -220499,8 +220500,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f5ac"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -222190,9 +222190,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd9191039b",
@@ -222217,6 +222215,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.129Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -223323,8 +223324,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd91910399"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -224507,9 +224507,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f5ea",
@@ -224534,6 +224532,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.185Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -225263,8 +225264,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f5e8"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -226954,9 +226954,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919103f4",
@@ -226981,6 +226979,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.352Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -228087,8 +228088,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd919103f2"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -229271,9 +229271,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f626",
@@ -229298,6 +229296,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.350Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -230027,8 +230028,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f624"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -231803,9 +231803,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a8a96069bd9190f726",
@@ -231830,6 +231828,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:36.326Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -233001,8 +233002,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a8a96069bd9190f724"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -234692,9 +234692,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd9191044d",
@@ -234719,6 +234717,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.577Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -235825,8 +235826,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd9191044b"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -237601,9 +237601,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a8a96069bd9190f784",
@@ -237628,6 +237626,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:36.586Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -238799,8 +238800,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a8a96069bd9190f782"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -240575,9 +240575,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a8a96069bd9190f7e2",
@@ -240602,6 +240600,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:36.839Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -241773,8 +241774,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a8a96069bd9190f7e0"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -243549,9 +243549,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f840",
@@ -243576,6 +243574,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.086Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -244747,8 +244748,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f83e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -246523,9 +246523,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f89e",
@@ -246550,6 +246548,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.330Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -247721,8 +247722,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f89c"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -248551,9 +248551,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f6c8",
@@ -248602,6 +248600,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -249045,8 +249046,7 @@ export const TABLES = [
               "ngay": "2027-01-09",
               "_id": "6a7f37a7a96069bd9190f6c6"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -250821,9 +250821,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f8fc",
@@ -250848,6 +250846,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.568Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -252019,8 +252020,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f8fa"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -253795,9 +253795,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f95a",
@@ -253822,6 +253820,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.813Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -254993,8 +254994,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f958"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -256769,9 +256769,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190f9b8",
@@ -256796,6 +256794,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:38.056Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -257967,8 +257968,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190f9b6"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -259743,9 +259743,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190fa16",
@@ -259770,6 +259768,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:38.302Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -260941,8 +260942,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190fa14"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -262837,9 +262837,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190fa74",
@@ -262888,6 +262886,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -264059,8 +264060,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190fa72"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -265243,9 +265243,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f662",
@@ -265292,6 +265290,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.517Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -266021,8 +266022,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f660"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -267205,9 +267205,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f6a0",
@@ -267254,6 +267252,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.685Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -267983,8 +267984,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f69e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -269759,9 +269759,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190fad2",
@@ -269786,6 +269784,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:38.776Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -270957,8 +270958,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190fad0"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -272733,9 +272733,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd9191022e",
@@ -272760,6 +272758,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:44.191Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -273931,8 +273932,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd9191022c"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -275707,9 +275707,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fb30",
@@ -275734,6 +275732,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.017Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -276905,8 +276906,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fb2e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -278681,9 +278681,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fb8e",
@@ -278708,6 +278706,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.259Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -279879,8 +279880,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fb8c"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -281655,9 +281655,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fbec",
@@ -281704,6 +281702,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.512Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -282875,8 +282876,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fbea"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -284652,9 +284652,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd919102e9",
@@ -284703,6 +284701,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -285783,8 +285784,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd919102e7"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -287559,9 +287559,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fc4c",
@@ -287586,6 +287584,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.752Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -288757,8 +288758,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fc4a"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -290533,9 +290533,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fcaa",
@@ -290560,6 +290558,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.990Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -291731,8 +291732,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fca8"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -293542,9 +293542,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919104a6",
@@ -293593,6 +293591,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -294699,8 +294700,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd919104a4"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -296475,9 +296475,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aca96069bd9190fd08",
@@ -296502,6 +296500,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:40.235Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -297673,8 +297674,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aca96069bd9190fd06"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -299449,9 +299449,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aca96069bd9190fd66",
@@ -299476,6 +299474,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:40.785Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -300647,8 +300648,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aca96069bd9190fd64"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -302423,9 +302423,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd91910290",
@@ -302450,6 +302448,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:44.446Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -303621,8 +303622,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd9191028e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -305517,9 +305517,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fdc4",
@@ -305568,6 +305566,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -306739,8 +306740,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fdc2"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -308515,9 +308515,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fe22",
@@ -308542,6 +308540,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.276Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -309713,8 +309714,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fe20"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -311489,9 +311489,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fe80",
@@ -311516,6 +311514,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.518Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -312687,8 +312688,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fe7e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -314463,9 +314463,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fede",
@@ -314512,6 +314510,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.761Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -315683,8 +315684,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fedc"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -317459,9 +317459,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190ff3e",
@@ -317486,6 +317484,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.998Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -318657,8 +318658,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190ff3c"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -320433,9 +320433,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd9190ff9c",
@@ -320460,6 +320458,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.244Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -321631,8 +321632,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd9190ff9a"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -323407,9 +323407,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd9190fffa",
@@ -323434,6 +323432,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.484Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -324605,8 +324606,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd9190fff8"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -326381,9 +326381,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd91910058",
@@ -326408,6 +326406,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.718Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -327579,8 +327580,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd91910056"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -329355,9 +329355,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd919100b6",
@@ -329382,6 +329380,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.954Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -330553,8 +330554,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd919100b4"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -332329,9 +332329,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37afa96069bd91910114",
@@ -332356,6 +332354,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:43.193Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -333527,8 +333528,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37afa96069bd91910112"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -335303,9 +335303,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37afa96069bd91910172",
@@ -335330,6 +335328,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:43.601Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -336501,8 +336502,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37afa96069bd91910170"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -336530,7 +336530,7 @@ export const TABLES = [
           "maHocPhan": "MEDI7010",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 0,
+          "siSo": 2,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 41,
@@ -336585,12 +336585,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
-          "updatedByUsername": "khanh.pq@vinuni.edu.vn",
+          "updatedById": "363da7ac-b8ce-4147-98a9-4a66af389404",
+          "updatedByUsername": "24nhung.nth@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:44.197Z",
-          "updatedAt": "2026-08-14T15:43:44.202Z",
+          "updatedAt": "2026-09-02T09:59:09.045Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -336675,9 +336675,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd91910232",
@@ -336726,8 +336724,10 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGocList": [],
-          "children": []
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -338622,9 +338622,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37afa96069bd919101d0",
@@ -338673,6 +338671,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -339844,8 +339845,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37afa96069bd919101ce"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -340364,9 +340364,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b3a96069bd91910641",
@@ -340415,6 +340413,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -340650,8 +340651,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37b3a96069bd9191063f"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -341399,9 +341399,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b3a96069bd9191068f",
@@ -341450,6 +341448,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -341802,8 +341803,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b3a96069bd9191068d"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -342839,9 +342839,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fcf76cc13ee11f45b572a",
@@ -342890,6 +342888,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -343346,8 +343347,7 @@ export const TABLES = [
               "ngay": "2026-11-21",
               "_id": "6a7fcf76cc13ee11f45b5727"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -343887,9 +343887,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105cf",
@@ -343938,6 +343936,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -344160,8 +344161,7 @@ export const TABLES = [
               "ngay": "2027-01-06",
               "_id": "6a7f37b2a96069bd919105cd"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -344701,9 +344701,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105a7",
@@ -344752,6 +344750,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -344974,8 +344975,7 @@ export const TABLES = [
               "ngay": "2026-12-16",
               "_id": "6a7f37b2a96069bd919105a3"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -345671,9 +345671,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105f3",
@@ -345698,6 +345696,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:46.969Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -346076,8 +346077,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7f37b2a96069bd919105f0"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -346617,9 +346617,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b3a96069bd91910609",
@@ -346668,6 +346666,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -346890,8 +346891,7 @@ export const TABLES = [
               "ngay": "2026-11-12",
               "_id": "6a7f37b3a96069bd91910606"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -347754,9 +347754,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910594",
@@ -347805,6 +347803,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -348274,8 +348275,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37b2a96069bd91910592"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -348743,9 +348743,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105bb",
@@ -348794,6 +348792,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -348990,8 +348991,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b2a96069bd919105b9"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -349407,7 +349407,7 @@ export const TABLES = [
           "maHocPhan": "NURS2150",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 9,
+          "siSo": 10,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 11,
@@ -349462,12 +349462,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "1c711550-bc72-41c2-b1a8-b86f1676b405",
-          "updatedByUsername": "24quadri.aa@vinuni.edu.vn",
+          "updatedById": "fd5ee25c-7665-4ca8-8b9f-2a1ec9bc6de8",
+          "updatedByUsername": "24peace.bt@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:46.179Z",
-          "updatedAt": "2026-08-29T01:45:44.529Z",
+          "updatedAt": "2026-09-02T09:33:35.287Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -349552,9 +349552,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910546",
@@ -349603,6 +349601,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -349812,8 +349813,7 @@ export const TABLES = [
               "ngay": "2026-12-01",
               "_id": "6a7f37b2a96069bd91910544"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -350129,8 +350129,8 @@ export const TABLES = [
           "maHocPhan": "NURS2222",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 15,
-          "fullAt": null,
+          "siSo": 16,
+          "fullAt": "2026-09-02T10:00:59.414Z",
           "siSoKeHoach": null,
           "siSoToiDa": 16,
           "trangThaiDuyetGiangDay": "Đang xử lý",
@@ -350184,12 +350184,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "3fea9468-6a43-41e0-adfc-6bb2dc3b2a7a",
           "createdByUsername": "hang.tt@vinuni.edu.vn",
-          "updatedById": "ba2d7d6a-4961-4f5c-9dd5-5e4d919054b4",
-          "updatedByUsername": "23phuong.pl@vinuni.edu.vn",
+          "updatedById": "fd5ee25c-7665-4ca8-8b9f-2a1ec9bc6de8",
+          "updatedByUsername": "24peace.bt@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-29T10:15:05.729Z",
-          "updatedAt": "2026-08-29T10:54:25.613Z",
+          "updatedAt": "2026-09-02T10:00:59.439Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -350274,9 +350274,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a92b129a8e9a37aa83bdb59",
@@ -350301,6 +350299,9 @@ export const TABLES = [
               "updatedAt": "2026-08-29T10:15:05.842Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -350510,8 +350511,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a92b129a8e9a37aa83bdb57"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -351169,7 +351169,7 @@ export const TABLES = [
           "maHocPhan": "NURS3010",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 8,
+          "siSo": 9,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 11,
@@ -351224,12 +351224,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "1c711550-bc72-41c2-b1a8-b86f1676b405",
-          "updatedByUsername": "24quadri.aa@vinuni.edu.vn",
+          "updatedById": "fd5ee25c-7665-4ca8-8b9f-2a1ec9bc6de8",
+          "updatedByUsername": "24peace.bt@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:46.015Z",
-          "updatedAt": "2026-08-29T01:42:33.420Z",
+          "updatedAt": "2026-09-02T09:58:01.843Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -351314,9 +351314,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910511",
@@ -351365,6 +351363,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -351730,8 +351731,7 @@ export const TABLES = [
               "ngay": "2026-11-06",
               "_id": "6a7f37b2a96069bd9191050f"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -352458,7 +352458,7 @@ export const TABLES = [
           "maHocPhan": "NURS3011",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 8,
+          "siSo": 9,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 11,
@@ -352513,12 +352513,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "1c711550-bc72-41c2-b1a8-b86f1676b405",
-          "updatedByUsername": "24quadri.aa@vinuni.edu.vn",
+          "updatedById": "fd5ee25c-7665-4ca8-8b9f-2a1ec9bc6de8",
+          "updatedByUsername": "24peace.bt@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:46.098Z",
-          "updatedAt": "2026-08-29T01:42:49.211Z",
+          "updatedAt": "2026-09-02T09:58:06.343Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -352603,9 +352603,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910530",
@@ -352654,6 +352652,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -353032,8 +353033,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b2a96069bd9191052e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -353759,9 +353759,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7ebc4c2b914050d44f996c",
@@ -353786,6 +353784,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T06:57:16.321Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -354112,8 +354113,7 @@ export const TABLES = [
               "ngay": "2026-11-09",
               "_id": "6a848fcc2db09dc372be40dd"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -354581,9 +354581,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910570",
@@ -354632,6 +354630,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -354828,8 +354829,7 @@ export const TABLES = [
               "ngay": "2027-01-05",
               "_id": "6a7f37b2a96069bd9191056e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -355326,9 +355326,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919104cc",
@@ -355353,6 +355351,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.903Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -355536,8 +355537,7 @@ export const TABLES = [
               "ngay": "2026-11-06",
               "_id": "6a7f37b1a96069bd919104ca"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -356246,9 +356246,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a8483e32db09dc372be40c8",
@@ -356297,6 +356295,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -356532,8 +356533,7 @@ export const TABLES = [
               "ngay": "2026-10-08",
               "_id": "6a92acc4c1c68ea35f3b53b2"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -357064,9 +357064,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a8484a67246ef3bccc60e1d",
@@ -357115,6 +357113,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -357272,8 +357273,7 @@ export const TABLES = [
               "ngay": "2026-10-24",
               "_id": "6a8484a67246ef3bccc60e1b"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -357787,9 +357787,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919104ba",
@@ -357814,6 +357812,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.857Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -358010,8 +358011,7 @@ export const TABLES = [
               "ngay": "2026-12-18",
               "_id": "6a7f37b1a96069bd919104b8"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -358455,9 +358455,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f034",
@@ -358482,6 +358480,9 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.444Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -358678,8 +358679,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7fe4009d2ce3fdefd812d3"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -359147,9 +359147,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f07c",
@@ -359198,6 +359196,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -359394,8 +359395,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe4039d2ce3fdefd8147d"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -359863,9 +359863,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f07f",
@@ -359914,6 +359912,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -360110,8 +360111,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe4039d2ce3fdefd8148e"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -360555,9 +360555,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4019d2ce3fdefd8134d",
@@ -360582,6 +360580,9 @@ export const TABLES = [
               "updatedAt": "2026-08-15T03:58:57.570Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -360778,8 +360779,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a7fe4019d2ce3fdefd8134b"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -361223,9 +361223,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4019d2ce3fdefd8135f",
@@ -361250,6 +361248,9 @@ export const TABLES = [
               "updatedAt": "2026-08-15T03:58:57.660Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -361446,8 +361447,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe4019d2ce3fdefd8135d"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -362208,9 +362208,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d02877a",
@@ -362259,6 +362257,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -362650,8 +362651,7 @@ export const TABLES = [
               "ngay": "2026-12-21",
               "_id": "6a91366a913ad686bcfac0b3"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -363412,9 +363412,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d02879c",
@@ -363463,6 +363461,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -363854,8 +363855,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a9136a94652ee3d2e5ddb99"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -364616,9 +364616,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d0287be",
@@ -364667,6 +364665,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -365058,8 +365059,7 @@ export const TABLES = [
               "ngay": "2026-12-23",
               "_id": "6a9136e9285edb4340ca5524"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -365544,9 +365544,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae28218c",
@@ -365595,6 +365593,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -365804,8 +365805,7 @@ export const TABLES = [
               "ngay": "2026-09-22",
               "_id": "6a85680280b526f2ae28217d"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -366290,9 +366290,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae28219f",
@@ -366341,6 +366339,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -366550,8 +366551,7 @@ export const TABLES = [
               "ngay": "2026-11-10",
               "_id": "6a85680280b526f2ae282197"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -367036,9 +367036,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821b2",
@@ -367087,6 +367085,9 @@ export const TABLES = [
               }
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -367296,8 +367297,7 @@ export const TABLES = [
               "ngay": "2027-01-06",
               "_id": "6a8573627246ef3bccc612f0"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -367758,9 +367758,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821c5",
@@ -367785,6 +367783,9 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.059Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -367994,8 +367995,7 @@ export const TABLES = [
               "ngay": "2026-11-27",
               "_id": "6a85680380b526f2ae2821bf"
             }
-          ],
-          "children": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -368456,9 +368456,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "thoiKhoaBieuGhepList": [],
           "lopHpHcList": [],
-          "listLopHpKn": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821d8",
@@ -368483,6 +368481,9 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.116Z"
             }
           ],
+          "children": [],
+          "listLopHpKn": [],
+          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -368692,8 +368693,7 @@ export const TABLES = [
               "ngay": "2026-10-07",
               "_id": "6a85680380b526f2ae2821cb"
             }
-          ],
-          "children": []
+          ]
         }
       ]
     }
@@ -369165,8 +369165,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821eb",
@@ -369191,7 +369192,6 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.171Z"
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -369402,7 +369402,7 @@ export const TABLES = [
               "_id": "6a85680380b526f2ae2821e4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -369887,8 +369887,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821fe",
@@ -369937,7 +369938,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -370148,7 +370148,7 @@ export const TABLES = [
               "_id": "6a8e542ef63c5a587e90f311"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -370609,8 +370609,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282211",
@@ -370635,7 +370636,6 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.289Z"
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -370846,7 +370846,7 @@ export const TABLES = [
               "_id": "6a8d6b4df233c9d0da2ef459"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -371331,8 +371331,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282224",
@@ -371381,7 +371382,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -371592,7 +371592,7 @@ export const TABLES = [
               "_id": "6a85680380b526f2ae282215"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [],
@@ -371765,12 +371765,12 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -372289,8 +372289,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae2820fb",
@@ -372339,7 +372340,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -372576,7 +372576,7 @@ export const TABLES = [
               "_id": "6a85680280b526f2ae2820ef"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -373095,8 +373095,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae282110",
@@ -373145,7 +373146,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -373382,7 +373382,7 @@ export const TABLES = [
               "_id": "6a8573617246ef3bccc612ce"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -373705,7 +373705,7 @@ export const TABLES = [
           "maHocPhan": "STAT2020",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 29,
+          "siSo": 30,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 40,
@@ -373760,12 +373760,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "41b034d9-b58c-4fd5-a3db-89d1a874f269",
-          "updatedByUsername": "25linh.dp@vinuni.edu.vn",
+          "updatedById": "4d86ae88-fd6a-4712-8dc1-291693a3292e",
+          "updatedByUsername": "25haleem.aa@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:52.161Z",
-          "updatedAt": "2026-08-28T10:01:40.465Z",
+          "updatedAt": "2026-09-02T08:05:15.278Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -373850,8 +373850,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f01c",
@@ -373900,7 +373901,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -374098,7 +374098,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd8124b"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -374566,8 +374566,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f01f",
@@ -374616,7 +374617,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -374814,7 +374814,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd8125c"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -375137,7 +375137,7 @@ export const TABLES = [
           "maHocPhan": "STAT2020",
           "soThuTuNhom": null,
           "soThuTuLop": "3",
-          "siSo": 13,
+          "siSo": 9,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 40,
@@ -375192,12 +375192,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "ad9ccf72-258b-483b-a2f9-ce0ac23b067b",
-          "updatedByUsername": "25an.nt@vinuni.edu.vn",
+          "updatedById": "4d86ae88-fd6a-4712-8dc1-291693a3292e",
+          "updatedByUsername": "25haleem.aa@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:52.963Z",
-          "updatedAt": "2026-08-29T17:33:54.304Z",
+          "updatedAt": "2026-09-02T08:06:00.553Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -375282,8 +375282,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f022",
@@ -375332,7 +375333,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -375530,7 +375530,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd8126d"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -376049,8 +376049,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef18",
@@ -376099,7 +376100,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -376336,7 +376336,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80cc8"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -376855,8 +376855,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef1b",
@@ -376905,7 +376906,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -377142,7 +377142,7 @@ export const TABLES = [
               "_id": "6a856e5f9d848f8a1397dc3a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -377661,8 +377661,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef1e",
@@ -377711,7 +377712,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -377948,7 +377948,7 @@ export const TABLES = [
               "_id": "6a7fe3f89d2ce3fdefd80cf0"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -378433,8 +378433,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef66",
@@ -378483,7 +378484,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -378694,7 +378694,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80eaa"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -379179,8 +379179,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef69",
@@ -379229,7 +379230,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -379440,7 +379440,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80ebc"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -379925,8 +379925,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef6c",
@@ -379975,7 +379976,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -380186,7 +380186,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80ece"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -380671,8 +380671,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef42",
@@ -380721,7 +380722,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -380932,7 +380932,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80dd2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -381417,8 +381417,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef45",
@@ -381467,7 +381468,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -381678,7 +381678,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80de4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -382163,8 +382163,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef48",
@@ -382213,7 +382214,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -382424,7 +382424,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80df6"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -382909,8 +382909,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef5d",
@@ -382959,7 +382960,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -383170,7 +383170,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80e74"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -383655,8 +383655,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef60",
@@ -383705,7 +383706,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -383916,7 +383916,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80e86"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -384401,8 +384401,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef63",
@@ -384451,7 +384452,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -384662,7 +384662,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80e98"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -385147,8 +385147,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efa2",
@@ -385197,7 +385198,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -385408,7 +385408,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd81012"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -385893,8 +385893,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efa5",
@@ -385943,7 +385944,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -386154,7 +386154,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd81024"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -386639,8 +386639,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efa8",
@@ -386689,7 +386690,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -386900,7 +386900,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd81036"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -387385,8 +387385,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef90",
@@ -387435,7 +387436,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -387646,7 +387646,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd80fa6"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -388131,8 +388131,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef93",
@@ -388181,7 +388182,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -388392,7 +388392,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd80fb8"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -388877,8 +388877,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef96",
@@ -388927,7 +388928,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -389138,7 +389138,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd80fca"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -389623,8 +389623,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef81",
@@ -389673,7 +389674,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -389884,7 +389884,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f4c"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -390369,8 +390369,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef84",
@@ -390419,7 +390420,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -390630,7 +390630,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f5e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -391115,8 +391115,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef99",
@@ -391165,7 +391166,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -391376,7 +391376,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd80fdc"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -391861,8 +391861,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef9c",
@@ -391911,7 +391912,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -392122,7 +392122,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd80fee"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -392607,8 +392607,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef9f",
@@ -392657,7 +392658,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -392868,7 +392868,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd81000"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -393353,8 +393353,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef54",
@@ -393403,7 +393404,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -393614,7 +393614,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80e3e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -394099,8 +394099,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef57",
@@ -394149,7 +394150,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -394360,7 +394360,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80e50"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -394845,8 +394845,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef5a",
@@ -394895,7 +394896,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -395106,7 +395106,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80e62"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -395591,8 +395591,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef87",
@@ -395641,7 +395642,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -395852,7 +395852,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f70"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -396337,8 +396337,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef8a",
@@ -396387,7 +396388,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -396598,7 +396598,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f82"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -397083,8 +397083,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef8d",
@@ -397133,7 +397134,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -397344,7 +397344,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f94"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -397829,8 +397829,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef6f",
@@ -397879,7 +397880,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -398090,7 +398090,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80ee0"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -398430,7 +398430,7 @@ export const TABLES = [
           "maHocPhan": "VCOR1021",
           "soThuTuNhom": null,
           "soThuTuLop": "17",
-          "siSo": 3,
+          "siSo": 4,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 20,
@@ -398485,12 +398485,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "a343692f-381f-4a1c-bc4f-f3800980f3a1",
-          "updatedByUsername": "25nhung.nth@vinuni.edu.vn",
+          "updatedById": "363da7ac-b8ce-4147-98a9-4a66af389404",
+          "updatedByUsername": "24nhung.nth@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:35.673Z",
-          "updatedAt": "2026-08-29T05:03:03.436Z",
+          "updatedAt": "2026-09-02T10:07:03.509Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -398575,8 +398575,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef72",
@@ -398625,7 +398626,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -398836,7 +398836,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80ef2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -399321,8 +399321,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef75",
@@ -399371,7 +399372,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -399582,7 +399582,7 @@ export const TABLES = [
               "_id": "6a7fe3fa9d2ce3fdefd80f04"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -400067,8 +400067,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef78",
@@ -400117,7 +400118,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -400328,7 +400328,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f16"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -400813,8 +400813,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef7b",
@@ -400863,7 +400864,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -401074,7 +401074,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f28"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -401559,8 +401559,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef7e",
@@ -401609,7 +401610,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -401820,7 +401820,7 @@ export const TABLES = [
               "_id": "6a7fe3fb9d2ce3fdefd80f3a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -402305,8 +402305,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef4b",
@@ -402355,7 +402356,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -402566,7 +402566,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80e08"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -403051,8 +403051,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef4e",
@@ -403101,7 +403102,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -403312,7 +403312,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80e1a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -403797,8 +403797,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef51",
@@ -403847,7 +403848,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -404058,7 +404058,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80e2c"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -404543,8 +404543,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efab",
@@ -404593,7 +404594,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -404804,7 +404804,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd81048"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -405289,8 +405289,9 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
           "lopHpHcList": [],
+          "listLopHpKn": [],
+          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efae",
@@ -405339,7 +405340,6 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGhepList": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -405550,7 +405550,7 @@ export const TABLES = [
               "_id": "6a7fe3fc9d2ce3fdefd8105a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         }
       ]
     }

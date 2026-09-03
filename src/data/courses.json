@@ -2010,14 +2010,14 @@
         "Course": "HASS1030",
         "Course Title": "Scientific Socialism",
         "Section": "SCSFA261",
-        "Dates": "9/8/2026 to 9/29/2026",
+        "Dates": "9/23/2026 to 11/11/2026",
         "Credits": "2.00",
         "Instructor": "Do Thi Thach",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
-                "day": "Tuesday",
-                "time": "1:00PM to 5:00PM"
+                "day": "Wednesday",
+                "time": "9:00AM to 1:00PM"
             }
         ]
     },
@@ -2040,9 +2040,9 @@
         "Course": "HASS1030",
         "Course Title": "Scientific Socialism",
         "Section": "SCSFA263",
-        "Dates": "9/15/2026 to 11/3/2026",
+        "Dates": "9/22/2026 to 11/10/2026",
         "Credits": "2.00",
-        "Instructor": "Khuat Thi Thanh Van",
+        "Instructor": "Pham Thi Vien",
         "Delivery Method": "Classroom",
         "Schedule": [
             {
@@ -5186,21 +5186,6 @@
             {
                 "day": "Friday",
                 "time": "7:30AM to 5:00PM"
-            }
-        ]
-    },
-    {
-        "Course": "MNSR1110",
-        "Course Title": "Research Methods and Evidence -Based Practice in Healthcare",
-        "Section": "RMEFA261",
-        "Dates": "9/24/2026 to 1/21/2027",
-        "Credits": "5.00",
-        "Instructor": "Giáp Thị Thanh Tình",
-        "Delivery Method": "Classroom",
-        "Schedule": [
-            {
-                "day": "Thursday",
-                "time": "9:00AM to 12:00PM"
             }
         ]
     },

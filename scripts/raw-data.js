@@ -276,11 +276,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -451,7 +454,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efda",
@@ -477,6 +479,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -944,11 +947,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -1119,7 +1125,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efdd",
@@ -1145,6 +1150,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -1612,11 +1618,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Hương",
                 "ten": "Liên",
@@ -1811,7 +1820,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe0",
@@ -1861,6 +1869,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -2328,11 +2337,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -2503,7 +2515,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f007",
@@ -2529,6 +2540,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -2996,11 +3008,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -3171,7 +3186,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f00a",
@@ -3197,6 +3211,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -3664,11 +3679,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Hương",
                 "ten": "Liên",
@@ -3863,7 +3881,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f00d",
@@ -3913,6 +3930,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -4279,11 +4297,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 150,
               "soTiet": 42,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "14:00",
               "gioKetThuc": "17:29",
               "id": "0",
+              "danhSachTuanStr": "8,10,12,14,16,18",
               "nhanSu": {
                 "hoDem": "Trương Nguyễn Xuân",
                 "ten": "Quỳnh",
@@ -4333,11 +4354,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 150,
               "soTiet": 42,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "17:29",
               "id": "1",
+              "danhSachTuanStr": "13,17,19,20",
               "nhanSu": {
                 "hoDem": "Trương Nguyễn Xuân",
                 "ten": "Quỳnh",
@@ -4532,7 +4556,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4f8",
@@ -4628,6 +4651,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -4928,11 +4952,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 94,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -4980,7 +5007,7 @@ export const TABLES = [
           "maHocPhan": "ARTS1030",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 50,
+          "siSo": 51,
           "fullAt": "2026-09-02T15:45:18.238Z",
           "siSoKeHoach": null,
           "siSoToiDa": 50,
@@ -5035,12 +5062,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "f3d6e11f-69a3-4593-a0c7-496249ecddd5",
-          "updatedByUsername": "25phuong.dtt@vinuni.edu.vn",
+          "updatedById": "1e7562c4-4dd6-49b3-bc6f-458068c7f3e4",
+          "updatedByUsername": "admin.tuanba@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:28.338Z",
-          "updatedAt": "2026-09-02T15:45:18.257Z",
+          "updatedAt": "2026-09-04T09:20:29.396Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -5127,7 +5154,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef21",
@@ -5177,6 +5203,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -5549,11 +5576,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 94,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -5748,7 +5778,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef24",
@@ -5798,6 +5827,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -6252,11 +6282,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -6280,8 +6313,8 @@ export const TABLES = [
           "maHocPhan": "BANA3010",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 39,
-          "fullAt": null,
+          "siSo": 40,
+          "fullAt": "2026-09-04T06:32:58.500Z",
           "siSoKeHoach": null,
           "siSoToiDa": 40,
           "trangThaiDuyetGiangDay": "Đang xử lý",
@@ -6335,12 +6368,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "dbd24b0d-1a9f-4c89-a0ab-f15a0abd875a",
-          "updatedByUsername": "23bach.nnh@vinuni.edu.vn",
+          "updatedById": "0f4d437d-21b6-4e11-97ec-23f330a6ec40",
+          "updatedByUsername": "22hai.dq@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:51:01.939Z",
-          "updatedAt": "2026-09-03T06:28:14.028Z",
+          "updatedAt": "2026-09-04T06:32:58.527Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -6427,7 +6460,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4039d2ce3fdefd8146d",
@@ -6453,6 +6485,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -6920,11 +6953,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -7095,7 +7131,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4039d2ce3fdefd8145b",
@@ -7121,6 +7156,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -7588,11 +7624,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -7763,7 +7802,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f010",
@@ -7789,6 +7827,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -8256,11 +8295,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -8431,7 +8473,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190f013",
@@ -8457,6 +8498,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -9212,11 +9254,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 150,
               "soTiet": 24,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "11,12,13,14,15,16,17,18,19"
             },
             {
               "danhSachTuan": [
@@ -9286,11 +9331,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -9360,11 +9408,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -9535,7 +9586,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f335",
@@ -9629,6 +9679,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -10696,11 +10747,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 150,
               "soTiet": 24,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "11,12,13,14,15,16,17,18,19"
             },
             {
               "danhSachTuan": [
@@ -10770,11 +10824,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -10844,11 +10901,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 142,
               "soTiet": 34,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:49",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -11019,7 +11079,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f365",
@@ -11113,6 +11172,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -12163,11 +12223,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 150,
               "soTiet": 24,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "12,13,14,15,16,17,18,19"
             },
             {
               "danhSachTuan": [
@@ -12237,11 +12300,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -12311,11 +12377,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -12486,7 +12555,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f394",
@@ -12580,6 +12648,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -13645,11 +13714,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -13719,11 +13791,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 142,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:49",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -13765,11 +13840,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 150,
               "soTiet": 24,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:29",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "12,13,14,15,16,17,18,19"
             }
           ],
           "thoiGianNhapDiem": {
@@ -13940,7 +14018,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f3c3",
@@ -14034,6 +14111,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -14851,11 +14929,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "David Koh Wee",
                 "ten": "Hock",
@@ -15050,7 +15131,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef2a",
@@ -15100,6 +15180,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -15657,11 +15738,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "David Koh Wee",
                 "ten": "Hock",
@@ -15856,7 +15940,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef2d",
@@ -15906,6 +15989,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -16463,11 +16547,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Michael John",
                 "ten": "Clark",
@@ -16662,7 +16749,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef27",
@@ -16712,6 +16798,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -17269,11 +17356,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 150,
               "soTiet": 24,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22"
             }
           ],
           "thoiGianNhapDiem": {
@@ -17444,7 +17534,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a8d779c0e2ba141350dbf37",
@@ -17470,6 +17559,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -18027,11 +18117,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Daniel Peter",
                 "ten": "Ruelle",
@@ -18226,7 +18319,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85704c7246ef3bccc61282",
@@ -18276,6 +18368,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -18782,11 +18875,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Cha Sung",
                 "ten": "Deok",
@@ -18981,7 +19077,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d6c",
@@ -19031,6 +19126,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -19498,11 +19594,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -19697,7 +19796,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d7f",
@@ -19747,6 +19845,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -20214,11 +20313,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -20413,7 +20515,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d92",
@@ -20463,6 +20564,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -20930,11 +21032,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Soriano Marcolino",
                 "ten": "Leandro",
@@ -21129,7 +21234,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028da5",
@@ -21179,6 +21283,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -21646,11 +21751,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Phùng Mạnh",
                 "ten": "Dương",
@@ -21845,7 +21953,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a86c05b6d149acb607da84b",
@@ -21895,6 +22002,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -22362,11 +22470,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Phước Quý",
                 "ten": "Duy",
@@ -22561,7 +22672,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b6ba96069bd9190f118",
@@ -22657,6 +22767,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -23124,11 +23235,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Phước Quý",
                 "ten": "Duy",
@@ -23323,7 +23437,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b6ba96069bd9190f11d",
@@ -23419,6 +23532,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -24081,11 +24195,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -24155,11 +24272,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -24330,7 +24450,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f2a3",
@@ -24356,6 +24475,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -25213,11 +25333,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -25287,11 +25410,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 142,
               "soTiet": 34,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:49",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -25462,7 +25588,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f2c5",
@@ -25488,6 +25613,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -26345,11 +26471,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -26419,11 +26548,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -26594,7 +26726,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f2e7",
@@ -26620,6 +26751,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -27477,11 +27609,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -27551,11 +27686,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 142,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:49",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -27726,7 +27864,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a4a96069bd9190f309",
@@ -27752,6 +27889,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -28414,11 +28552,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nayak Abhishek",
                 "ten": "Shashikant",
@@ -28466,7 +28607,7 @@ export const TABLES = [
           "maHocPhan": "CISM2020",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 28,
+          "siSo": 27,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 40,
@@ -28521,12 +28662,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "048d4693-9b3f-43a2-87fe-19ba72362fc5",
-          "updatedByUsername": "24my.tng@vinuni.edu.vn",
+          "updatedById": "ad5a777d-2602-4d60-8cfc-2ba0fa796d4c",
+          "updatedByUsername": "24bao.tg@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:59.989Z",
-          "updatedAt": "2026-09-03T08:56:29.188Z",
+          "updatedAt": "2026-09-04T06:08:39.774Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -28613,7 +28754,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f06a",
@@ -28663,6 +28803,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -29130,11 +29271,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nayak Abhishek",
                 "ten": "Shashikant",
@@ -29329,7 +29473,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f06d",
@@ -29379,6 +29522,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -29897,11 +30041,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Guimond",
                 "ten": "David",
@@ -30096,7 +30243,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282239",
@@ -30146,6 +30292,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -30703,11 +30850,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -30902,7 +31052,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae28224e",
@@ -30952,6 +31101,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -31509,11 +31659,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Christine",
                 "ten": "Mitchell",
@@ -31708,7 +31861,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae28228d",
@@ -31758,6 +31910,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -32315,11 +32468,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Christine",
                 "ten": "Mitchell",
@@ -32514,7 +32670,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822a2",
@@ -32564,6 +32719,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -33121,11 +33277,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -33296,7 +33455,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282263",
@@ -33322,6 +33480,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -33879,11 +34038,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -34054,7 +34216,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822b7",
@@ -34080,6 +34241,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -34637,11 +34799,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -34812,7 +34977,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822cc",
@@ -34838,6 +35002,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -35395,11 +35560,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -35594,7 +35762,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822e1",
@@ -35644,6 +35811,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -36201,11 +36369,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -36400,7 +36571,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2822f6",
@@ -36450,6 +36620,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -37007,11 +37178,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -37182,7 +37356,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae28230b",
@@ -37208,6 +37381,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -37765,11 +37939,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 94,
               "soTiet": 46,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -37940,7 +38117,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282320",
@@ -37966,6 +38142,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -38523,11 +38700,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 132,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:00",
               "gioKetThuc": "15:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -38698,7 +38878,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282335",
@@ -38724,6 +38903,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -39281,11 +39461,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
               "nhanSu": {
                 "hoDem": "Christine",
                 "ten": "Mitchell",
@@ -39480,7 +39663,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282374",
@@ -39530,6 +39712,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -40087,11 +40270,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 132,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:00",
               "gioKetThuc": "15:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Guimond",
                 "ten": "David",
@@ -40286,7 +40472,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae28234a",
@@ -40336,6 +40521,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -40893,11 +41079,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22"
             }
           ],
           "thoiGianNhapDiem": {
@@ -41068,7 +41257,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680480b526f2ae282389",
@@ -41094,6 +41282,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -41990,11 +42179,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Wong Kok",
                 "ten": "Seng",
@@ -42088,11 +42280,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Wong Kok",
                 "ten": "Seng",
@@ -42186,11 +42381,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Wong Kok",
                 "ten": "Seng",
@@ -42385,7 +42583,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bd58a0c27d5d0286c5",
@@ -42435,6 +42632,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -43682,11 +43880,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Wong Kok",
                 "ten": "Seng",
@@ -43780,11 +43981,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Wong Kok",
                 "ten": "Seng",
@@ -43878,11 +44082,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 121,
+              "tietKetThuc": 142,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:00",
               "gioKetThuc": "16:49",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Wong Kok",
                 "ten": "Seng",
@@ -44077,7 +44284,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bd58a0c27d5d0286f6",
@@ -44127,6 +44333,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -45374,11 +45581,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 133,
+              "tietKetThuc": 147,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "16:00",
               "gioKetThuc": "17:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Yuvraj",
                 "ten": "Sahni",
@@ -45472,11 +45682,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 133,
+              "tietKetThuc": 147,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "16:00",
               "gioKetThuc": "17:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Yuvraj",
                 "ten": "Sahni",
@@ -45570,11 +45783,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 64,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Yuvraj",
                 "ten": "Sahni",
@@ -45769,7 +45985,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78bd58a0c27d5d028727",
@@ -45819,6 +46034,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -47066,11 +47282,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 133,
+              "tietKetThuc": 147,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "16:00",
               "gioKetThuc": "17:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Yuvraj",
                 "ten": "Sahni",
@@ -47164,11 +47383,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 133,
+              "tietKetThuc": 147,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "16:00",
               "gioKetThuc": "17:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Yuvraj",
                 "ten": "Sahni",
@@ -47262,11 +47484,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Yuvraj",
                 "ten": "Sahni",
@@ -47461,7 +47686,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d028758",
@@ -47511,6 +47735,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -48758,11 +48983,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 81,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Ngọc",
                 "ten": "Nam",
@@ -48856,11 +49084,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 81,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Ngọc",
                 "ten": "Nam",
@@ -48954,11 +49185,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Ngọc",
                 "ten": "Nam",
@@ -49153,7 +49387,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a0a",
@@ -49203,6 +49436,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -50450,11 +50684,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 81,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Ngọc",
                 "ten": "Nam",
@@ -50548,11 +50785,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 81,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Ngọc",
                 "ten": "Nam",
@@ -50646,11 +50886,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Ngọc",
                 "ten": "Nam",
@@ -50845,7 +51088,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a3b",
@@ -50895,6 +51137,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -52142,11 +52385,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Cha Sung",
                 "ten": "Deok",
@@ -52240,11 +52486,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Cha Sung",
                 "ten": "Deok",
@@ -52338,11 +52587,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Cha Sung",
                 "ten": "Deok",
@@ -52537,7 +52789,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028b12",
@@ -52587,6 +52838,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -53834,11 +54086,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Huỳnh Thành",
                 "ten": "Trung",
@@ -53932,11 +54187,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Huỳnh Thành",
                 "ten": "Trung",
@@ -54030,11 +54288,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 64,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:19",
               "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Huỳnh Thành",
                 "ten": "Trung",
@@ -54229,7 +54490,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028ae1",
@@ -54279,6 +54539,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -55526,11 +55787,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 87,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đoàn Đăng",
                 "ten": "Khoa",
@@ -55624,11 +55888,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 87,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đoàn Đăng",
                 "ten": "Khoa",
@@ -55722,11 +55989,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đoàn Đăng",
                 "ten": "Khoa",
@@ -55921,7 +56191,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a8e",
@@ -55971,6 +56240,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -57218,11 +57488,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 87,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đoàn Đăng",
                 "ten": "Khoa",
@@ -57316,11 +57589,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đoàn Đăng",
                 "ten": "Khoa",
@@ -57414,11 +57690,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 87,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:14",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đoàn Đăng",
                 "ten": "Khoa",
@@ -57466,7 +57745,7 @@ export const TABLES = [
           "maHocPhan": "COMP3020",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 7,
+          "siSo": 3,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 35,
@@ -57526,7 +57805,7 @@ export const TABLES = [
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T02:09:04.798Z",
-          "updatedAt": "2026-08-28T11:02:32.049Z",
+          "updatedAt": "2026-09-04T07:00:59.262Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -57613,7 +57892,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028ab0",
@@ -57663,6 +57941,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -58715,11 +58994,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Lê Duy",
                 "ten": "Dũng",
@@ -58813,11 +59095,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 64,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Lê Duy",
                 "ten": "Dũng",
@@ -59012,7 +59297,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c7d",
@@ -59062,6 +59346,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -59919,11 +60204,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Phạm Huy",
                 "ten": "Hiệu",
@@ -60017,11 +60305,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Phạm Huy",
                 "ten": "Hiệu",
@@ -60216,7 +60507,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c5b",
@@ -60266,6 +60556,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -60832,7 +61123,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d55",
@@ -60882,6 +61172,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": []
         },
         {
@@ -61057,7 +61348,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d59",
@@ -61107,6 +61397,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": []
         },
         {
@@ -61573,11 +61864,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Nguyễn Đình Đức",
                 "ten": "Nhã",
@@ -61671,11 +61965,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Nguyễn Đình Đức",
                 "ten": "Nhã",
@@ -61870,7 +62167,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c9f",
@@ -61920,6 +62216,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -62486,7 +62783,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d27",
@@ -62536,6 +62832,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": []
         },
         {
@@ -63002,11 +63299,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Phạm Huy",
                 "ten": "Hiệu",
@@ -63100,11 +63400,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Phạm Huy",
                 "ten": "Hiệu",
@@ -63299,7 +63602,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d51",
@@ -63349,6 +63651,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -64028,11 +64331,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 82,
               "soTiet": 10,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "11:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Myles Liam",
                 "ten": "Lynch",
@@ -64227,7 +64533,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef30",
@@ -64277,6 +64582,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -64774,11 +65080,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 82,
               "soTiet": 10,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "11:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Myles Liam",
                 "ten": "Lynch",
@@ -64973,7 +65282,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef33",
@@ -65023,6 +65331,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -65520,11 +65829,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 82,
               "soTiet": 10,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "11:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Myles Liam",
                 "ten": "Lynch",
@@ -65719,7 +66031,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef36",
@@ -65769,6 +66080,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -66266,11 +66578,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 82,
               "soTiet": 10,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "11:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Myles Liam",
                 "ten": "Lynch",
@@ -66465,7 +66780,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef39",
@@ -66515,6 +66829,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -67385,11 +67700,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "El Haj",
                 "ten": "Mahmoud",
@@ -67483,11 +67801,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 60,
               "soTiet": 12,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:59",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "El Haj",
                 "ten": "Mahmoud",
@@ -67581,11 +67902,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 63,
+              "tietKetThuc": 84,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:10",
               "gioKetThuc": "11:59",
               "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "El Haj",
                 "ten": "Mahmoud",
@@ -67780,7 +68104,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d028a6c",
@@ -67830,6 +68153,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -68687,11 +69011,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Barkley Thurston",
                 "ten": "Daniel",
@@ -68886,7 +69213,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe6",
@@ -68936,6 +69262,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -69403,11 +69730,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Barkley Thurston",
                 "ten": "Daniel",
@@ -69602,7 +69932,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe9",
@@ -69652,6 +69981,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -70119,11 +70449,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Barkley Thurston",
                 "ten": "Daniel",
@@ -70318,7 +70651,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efec",
@@ -70368,6 +70700,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -70835,11 +71168,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Barkley Thurston",
                 "ten": "Daniel",
@@ -71034,7 +71370,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b60a96069bd9190efe3",
@@ -71084,6 +71419,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -71551,11 +71887,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -71726,7 +72065,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7fe3fe9d2ce3fdefd8114c",
@@ -71752,6 +72090,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -72219,11 +72558,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -72394,7 +72736,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190eff2",
@@ -72420,6 +72761,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -72887,11 +73229,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -73062,7 +73407,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b61a96069bd9190eff5",
@@ -73088,6 +73432,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -73555,11 +73900,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -73730,7 +74078,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7fe3ff9d2ce3fdefd81180",
@@ -73756,6 +74103,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -74274,11 +74622,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -74449,7 +74800,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a8573617246ef3bccc612dc",
@@ -74475,6 +74825,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -75032,11 +75383,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -75207,7 +75561,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae28213a",
@@ -75233,6 +75586,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -75790,11 +76144,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 115,
+              "tietKetThuc": 148,
               "soTiet": 34,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "14:30",
               "gioKetThuc": "17:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -75965,7 +76322,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a8573627246ef3bccc612e5",
@@ -75991,6 +76347,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -76548,11 +76905,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Ostermeijer Francis",
                 "ten": "Jonathan",
@@ -76747,7 +77107,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae282164",
@@ -76797,6 +77156,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -77693,11 +78053,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -77791,11 +78154,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -77889,11 +78255,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -78088,7 +78457,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c058a0c27d5d0289d9",
@@ -78138,6 +78506,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -79385,11 +79754,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -79483,11 +79855,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -79581,11 +79956,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -79780,7 +80158,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7fe7ee2b914050d44fad72",
@@ -79830,6 +80207,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -81077,11 +81455,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lê Văn",
                 "ten": "Quỳnh",
@@ -81175,11 +81556,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lê Văn",
                 "ten": "Quỳnh",
@@ -81273,11 +81657,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lê Văn",
                 "ten": "Quỳnh",
@@ -81472,7 +81859,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028bd7",
@@ -81544,6 +81930,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -82596,11 +82983,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -82694,11 +83084,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 64,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -82746,8 +83139,8 @@ export const TABLES = [
           "maHocPhan": "ELEC3030",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 15,
-          "fullAt": null,
+          "siSo": 16,
+          "fullAt": "2026-09-04T08:31:22.746Z",
           "siSoKeHoach": null,
           "siSoToiDa": 16,
           "trangThaiDuyetGiangDay": "Đang xử lý",
@@ -82801,12 +83194,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "bbc3af69-18ef-41d1-a746-ae23e3cfde01",
-          "updatedByUsername": "24tung.lv@vinuni.edu.vn",
+          "updatedById": "ff22ebf5-65bf-4dbe-b96b-14f6b4d610d3",
+          "updatedByUsername": "23hung.lm@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-19T04:33:37.276Z",
-          "updatedAt": "2026-08-28T13:50:38.427Z",
+          "updatedAt": "2026-09-04T08:31:22.771Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -82893,7 +83286,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a85322184842edf8e35ec93",
@@ -83035,6 +83427,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -84087,11 +84480,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
               "nhanSu": {
                 "hoDem": "Đỗ Danh",
                 "ten": "Cường",
@@ -84185,11 +84581,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
               "nhanSu": {
                 "hoDem": "Đỗ Danh",
                 "ten": "Cường",
@@ -84283,11 +84682,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
               "nhanSu": {
                 "hoDem": "Đỗ Danh",
                 "ten": "Cường",
@@ -84482,7 +84884,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028cf2",
@@ -84532,6 +84933,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -85779,11 +86181,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đỗ Danh",
                 "ten": "Cường",
@@ -85877,11 +86282,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đỗ Danh",
                 "ten": "Cường",
@@ -85975,11 +86383,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đỗ Danh",
                 "ten": "Cường",
@@ -86174,7 +86585,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028c08",
@@ -86224,6 +86634,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -87471,11 +87882,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 87,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Thái Mai",
                 "ten": "Thành",
@@ -87569,11 +87983,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 87,
               "soTiet": 15,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Thái Mai",
                 "ten": "Thành",
@@ -87667,11 +88084,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Thái Mai",
                 "ten": "Thành",
@@ -87866,7 +88286,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028c39",
@@ -87916,6 +88335,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -89163,11 +89583,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 81,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:44",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -89261,11 +89684,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 81,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:44",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -89359,11 +89785,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -89558,7 +89987,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d23",
@@ -89608,6 +90036,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -90369,7 +90798,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d2b",
@@ -90419,6 +90847,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": []
         },
         {
@@ -90975,11 +91404,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -91085,11 +91517,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -91284,7 +91719,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eeee",
@@ -91334,6 +91768,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -92359,11 +92794,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -92469,11 +92907,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -92668,7 +93109,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eef1",
@@ -92718,6 +93158,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -93743,11 +94184,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 76,
               "soTiet": 10,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -93853,11 +94297,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 76,
               "soTiet": 10,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -94052,7 +94499,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eef4",
@@ -94102,6 +94548,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -95127,11 +95574,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 85,
+              "tietKetThuc": 94,
               "soTiet": 10,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "12:00",
               "gioKetThuc": "12:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -95237,11 +95687,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 85,
+              "tietKetThuc": 94,
               "soTiet": 10,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "12:00",
               "gioKetThuc": "12:49",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -95436,7 +95889,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eef7",
@@ -95486,6 +95938,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -96511,11 +96964,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 106,
               "soTiet": 10,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:00",
               "gioKetThuc": "13:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -96621,11 +97077,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 106,
               "soTiet": 10,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:00",
               "gioKetThuc": "13:49",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -96820,7 +97279,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5aa96069bd9190eefa",
@@ -96870,6 +97328,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -97895,11 +98354,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 76,
               "soTiet": 10,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -98005,11 +98467,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 76,
               "soTiet": 10,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -98204,7 +98669,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190eefd",
@@ -98254,6 +98718,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -99279,11 +99744,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -99389,11 +99857,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -99588,7 +100059,6 @@ export const TABLES = [
           },
           "lopHpHcList": [],
           "listLopHpKn": [],
-          "children": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ba96069bd9190ef00",
@@ -99638,6 +100108,7 @@ export const TABLES = [
             }
           ],
           "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -100674,11 +101145,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -100784,11 +101258,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 58,
               "soTiet": 10,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "09:49",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -100981,6 +101458,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -101030,8 +101508,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -101502,7 +101979,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80c2a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -102058,11 +102535,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 76,
               "soTiet": 10,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -102168,11 +102648,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 76,
               "soTiet": 10,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:30",
               "gioKetThuc": "11:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nichols Jon",
                 "ten": "William",
@@ -102365,6 +102848,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -102414,8 +102898,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -102886,7 +103369,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80c50"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -103208,11 +103691,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 94,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nhữ Đình Ngọc",
                 "ten": "Anh",
@@ -103405,6 +103891,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -103454,8 +103941,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -103692,7 +104178,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80c64"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -103980,11 +104466,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 75,
               "soTiet": 27,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thu",
                 "ten": "Giang",
@@ -104177,6 +104666,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -104272,8 +104762,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -104484,7 +104973,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd8105e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -104772,11 +105261,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 129,
               "soTiet": 27,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,20",
               "nhanSu": {
                 "hoDem": "Kramer Marc",
                 "ten": "David",
@@ -104969,6 +105461,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -105064,8 +105557,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -105276,7 +105768,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd81063"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -105564,11 +106056,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 75,
               "soTiet": 27,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,20",
               "nhanSu": {
                 "hoDem": "Kramer Marc",
                 "ten": "David",
@@ -105761,6 +106256,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -105856,8 +106352,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -106068,7 +106563,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd81068"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -106356,11 +106851,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 129,
               "soTiet": 27,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thu",
                 "ten": "Giang",
@@ -106553,6 +107051,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -106648,8 +107147,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -106860,7 +107358,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd8106d"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -107131,11 +107629,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Mai",
                 "ten": "Lan",
@@ -107328,6 +107829,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -107377,8 +107879,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -107576,7 +108077,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd81229"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -107847,11 +108348,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lee Sang",
                 "ten": "Hoon",
@@ -108044,6 +108548,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -108093,8 +108598,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -108292,7 +108796,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd8123a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -108563,11 +109067,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -108736,6 +109243,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -108761,8 +109269,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:35.169Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -108960,7 +109467,7 @@ export const TABLES = [
               "_id": "6a7fe4029d2ce3fdefd813c4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -109231,11 +109738,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lee Sang",
                 "ten": "Hoon",
@@ -109428,6 +109938,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -109477,8 +109988,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -109676,7 +110186,7 @@ export const TABLES = [
               "_id": "6a7fe4029d2ce3fdefd813b3"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -109947,11 +110457,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lee Sang",
                 "ten": "Hoon",
@@ -110144,6 +110657,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -110193,8 +110707,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -110392,7 +110905,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd813a2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -110663,11 +111176,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vanhove David Rene",
                 "ten": "Joffre",
@@ -110860,6 +111376,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -110909,8 +111426,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -111108,7 +111624,7 @@ export const TABLES = [
               "_id": "6a7fe4039d2ce3fdefd814b0"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -111379,11 +111895,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Lê Thị Phương",
                 "ten": "Dung",
@@ -111576,6 +112095,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -111625,8 +112145,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -111824,7 +112343,7 @@ export const TABLES = [
               "_id": "6a7fe4039d2ce3fdefd8149f"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -112095,11 +112614,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vanhove David Rene",
                 "ten": "Joffre",
@@ -112292,6 +112814,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -112341,8 +112864,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -112540,7 +113062,7 @@ export const TABLES = [
               "_id": "6a7fe4039d2ce3fdefd814d2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -112811,11 +113333,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 82,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -112984,6 +113509,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -113009,8 +113535,7 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:42.660Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -113208,7 +113733,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a16"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -113479,11 +114004,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -113652,6 +114180,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -113677,8 +114206,7 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:42.775Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -113876,7 +114404,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a26"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -114147,11 +114675,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 132,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:00",
               "gioKetThuc": "15:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -114320,6 +114851,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -114345,8 +114877,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:25.521Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -114544,7 +115075,7 @@ export const TABLES = [
               "_id": "6a856e5f9d848f8a1397dbc5"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -114696,11 +115227,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -114869,6 +115403,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -114894,8 +115429,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:26:21.042Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -115002,7 +115536,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a40"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -115154,11 +115688,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 144,
               "soTiet": 48,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -115327,6 +115864,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -115352,8 +115890,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:26:55.533Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -115460,7 +115997,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a4a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -115544,11 +116081,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8"
             }
           ],
           "thoiGianNhapDiem": {
@@ -115717,6 +116257,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -115742,8 +116283,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:28:00.238Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -115798,7 +116338,7 @@ export const TABLES = [
               "_id": "6a8d7295089070d2f97f1af4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -115950,11 +116490,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -116123,6 +116666,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -116148,8 +116692,7 @@ export const TABLES = [
               "updatedAt": "2026-08-25T10:38:36.323Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -116256,7 +116799,7 @@ export const TABLES = [
               "_id": "6a98f902a8e9a37aa83bdd73"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -116408,11 +116951,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -116581,6 +117127,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -116606,8 +117153,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:23:20.107Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -116714,7 +117260,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a64"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -116866,11 +117412,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 144,
               "soTiet": 48,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -117039,6 +117588,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -117064,8 +117614,7 @@ export const TABLES = [
               "updatedAt": "2026-09-03T04:35:14.146Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -117172,7 +117721,7 @@ export const TABLES = [
               "_id": "6a98f902a8e9a37aa83bdd76"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -117324,11 +117873,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -117497,6 +118049,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -117522,8 +118075,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:25.790Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -117630,7 +118182,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a78"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -117782,11 +118334,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 144,
               "soTiet": 48,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -117955,6 +118510,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -117980,8 +118536,7 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:43.117Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -118088,7 +118643,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a7d"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -118240,11 +118795,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 144,
               "soTiet": 48,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12"
             }
           ],
           "thoiGianNhapDiem": {
@@ -118413,6 +118971,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -118438,8 +118997,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:29:09.346Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -118546,7 +119104,7 @@ export const TABLES = [
               "_id": "6a8d68990e2ba141350dbf03"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -118698,11 +119256,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -118871,6 +119432,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -118896,8 +119458,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:25.901Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -119004,7 +119565,7 @@ export const TABLES = [
               "_id": "6a7fe3f49d2ce3fdefd80a94"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -119156,11 +119717,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 96,
               "soTiet": 48,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -119329,6 +119893,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -119354,8 +119919,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T05:33:11.453Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -119462,7 +120026,7 @@ export const TABLES = [
               "_id": "6a7fe3f59d2ce3fdefd80a9e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -119614,11 +120178,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 144,
               "soTiet": 48,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -119787,6 +120354,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -119812,8 +120380,7 @@ export const TABLES = [
               "updatedAt": "2026-08-20T02:08:42.548Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -119920,7 +120487,7 @@ export const TABLES = [
               "_id": "6a7fe3f59d2ce3fdefd80aa5"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -120242,11 +120809,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Losavio Antonio",
                 "ten": "Martin",
@@ -120439,6 +121009,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -120488,8 +121059,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -120726,7 +121296,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80c78"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -121048,11 +121618,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Lê",
                 "ten": "Lêna",
@@ -121245,6 +121818,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -121294,8 +121868,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -121532,7 +122105,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80c8c"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -121854,11 +122427,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Lê",
                 "ten": "Lêna",
@@ -122051,6 +122627,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -122076,8 +122653,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T06:31:23.684Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -122314,7 +122890,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80ca0"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -122636,11 +123212,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -122809,6 +123388,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -122834,8 +123414,7 @@ export const TABLES = [
               "updatedAt": "2026-08-26T06:32:45.376Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -123072,7 +123651,7 @@ export const TABLES = [
               "_id": "6a7fe3f79d2ce3fdefd80cb4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -123377,11 +123956,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 144,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trương Nguyễn Xuân",
                 "ten": "Quỳnh",
@@ -123574,6 +124156,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -123669,8 +124252,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -123894,7 +124476,7 @@ export const TABLES = [
               "_id": "6a7f37b2a96069bd91910558"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -124165,11 +124747,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Rolley Matthew",
                 "ten": "Henry",
@@ -124362,6 +124947,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -124411,8 +124997,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -124610,7 +125195,7 @@ export const TABLES = [
               "_id": "6a9119d59ee4eaf0af1e1f00"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -124796,11 +125381,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Thu",
                 "ten": "Giang",
@@ -124993,6 +125581,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -125042,8 +125631,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -125176,7 +125764,7 @@ export const TABLES = [
               "_id": "6a86af216f914cb0a446476a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -125464,11 +126052,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Phương",
                 "ten": "Tú",
@@ -125661,6 +126252,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -125710,8 +126302,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -125922,7 +126513,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80dc0"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -126210,11 +126801,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 124,
+              "tietKetThuc": 145,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:15",
               "gioKetThuc": "17:04",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Jason Andrew",
                 "ten": "Picard",
@@ -126407,6 +127001,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -126456,8 +127051,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -126668,7 +127262,7 @@ export const TABLES = [
               "_id": "6a7fe3f99d2ce3fdefd80dae"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -126990,11 +127584,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Nguyễn Phương",
                 "ten": "Tú",
@@ -127187,6 +127784,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -127236,8 +127834,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -127474,7 +128071,7 @@ export const TABLES = [
               "_id": "6a85704c7246ef3bccc61296"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -127796,11 +128393,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -127969,6 +128569,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -127994,8 +128595,7 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:58:52.479Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -128232,7 +128832,7 @@ export const TABLES = [
               "_id": "6a85704c7246ef3bccc612ac"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -128520,11 +129120,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -128693,6 +129296,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -128742,8 +129346,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -128954,7 +129557,7 @@ export const TABLES = [
               "_id": "6a8e8a1c22a234b4f1a374ec"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -129276,11 +129879,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Ostermeijer Francis",
                 "ten": "Jonathan",
@@ -129473,6 +130079,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -129522,8 +130129,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -129760,7 +130366,7 @@ export const TABLES = [
               "_id": "6a8573617246ef3bccc612d2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -130048,11 +130654,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -130221,6 +130830,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -130246,8 +130856,7 @@ export const TABLES = [
               "updatedAt": "2026-08-19T09:12:01.395Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -130458,7 +131067,7 @@ export const TABLES = [
               "_id": "6a85680280b526f2ae2820e4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -130729,11 +131338,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19"
             }
           ],
           "thoiGianNhapDiem": {
@@ -130757,7 +131369,7 @@ export const TABLES = [
           "maHocPhan": "KORE1010",
           "soThuTuNhom": null,
           "soThuTuLop": "2",
-          "siSo": 3,
+          "siSo": 4,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 25,
@@ -130812,12 +131424,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "3fea9468-6a43-41e0-adfc-6bb2dc3b2a7a",
           "createdByUsername": "hang.tt@vinuni.edu.vn",
-          "updatedById": "08c18f9a-bd0e-4506-9021-bfd2d6eaf0e0",
-          "updatedByUsername": "24linh.tdk@vinuni.edu.vn",
+          "updatedById": "a1b9a322-4d5e-4924-a9af-da91f0bc576c",
+          "updatedByUsername": "25vy.nph@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-29T03:40:57.084Z",
-          "updatedAt": "2026-09-02T16:57:43.622Z",
+          "updatedAt": "2026-09-04T06:43:34.982Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -130902,6 +131514,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -130927,8 +131540,7 @@ export const TABLES = [
               "updatedAt": "2026-08-29T03:40:57.311Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -131126,7 +131738,7 @@ export const TABLES = [
               "_id": "6a9254c90cb37b39bb459062"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -131448,11 +132060,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -131621,6 +132236,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -131646,8 +132262,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:26.042Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -131884,7 +132499,7 @@ export const TABLES = [
               "_id": "6a7fe3f59d2ce3fdefd80aba"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -132206,11 +132821,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 73,
+              "tietKetThuc": 94,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "11:00",
               "gioKetThuc": "12:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23"
             }
           ],
           "thoiGianNhapDiem": {
@@ -132379,6 +132997,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -132404,8 +133023,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:26.120Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -132642,7 +133260,7 @@ export const TABLES = [
               "_id": "6a7fe3f59d2ce3fdefd80ace"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -132913,11 +133531,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -133086,6 +133707,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -133111,8 +133733,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.285Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -133310,7 +133931,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd812a0"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -133581,11 +134202,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -133754,6 +134378,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -133779,8 +134404,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.337Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -133978,7 +134602,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd812b1"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -134249,11 +134873,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -134422,6 +135049,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -134447,8 +135075,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.389Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -134646,7 +135273,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd812c2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -134832,11 +135459,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Kramer Marc",
                 "ten": "David",
@@ -135029,6 +135659,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -135078,8 +135709,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -135212,7 +135842,7 @@ export const TABLES = [
               "_id": "6a7fe3fe9d2ce3fdefd810aa"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -135398,11 +136028,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Vanhove David Rene",
                 "ten": "Joffre",
@@ -135595,6 +136228,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -135644,8 +136278,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -135778,7 +136411,7 @@ export const TABLES = [
               "_id": "6a7fe3fe9d2ce3fdefd810b6"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -135964,11 +136597,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Vanhove David Rene",
                 "ten": "Joffre",
@@ -136161,6 +136797,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -136210,8 +136847,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -136344,7 +136980,7 @@ export const TABLES = [
               "_id": "6a7fe3fe9d2ce3fdefd810c2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -136530,11 +137166,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Bùi Thị Minh",
                 "ten": "Hồng",
@@ -136727,6 +137366,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -136776,8 +137416,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -136910,7 +137549,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd8107a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -137096,11 +137735,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Bùi Thị Minh",
                 "ten": "Hồng",
@@ -137293,6 +137935,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -137342,8 +137985,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -137476,7 +138118,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd81086"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -137662,11 +138304,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Đinh Anh",
                 "ten": "Tuấn",
@@ -137859,6 +138504,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -137908,8 +138554,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -138042,7 +138687,7 @@ export const TABLES = [
               "_id": "6a7fe3fd9d2ce3fdefd81092"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -138228,11 +138873,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15",
               "nhanSu": {
                 "hoDem": "Đinh Anh",
                 "ten": "Tuấn",
@@ -138425,6 +139073,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -138474,8 +139123,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -138608,7 +139256,7 @@ export const TABLES = [
               "_id": "6a7fe3fe9d2ce3fdefd8109e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -138879,11 +139527,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Phan Hạnh",
                 "ten": "Thảo",
@@ -139076,6 +139727,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -139125,8 +139777,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -139324,7 +139975,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd8127e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -139595,11 +140246,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Phan Hạnh",
                 "ten": "Thảo",
@@ -139792,6 +140446,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -139841,8 +140496,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -140040,7 +140694,7 @@ export const TABLES = [
               "_id": "6a7fe4009d2ce3fdefd8128f"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -140311,11 +140965,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Jin Suk",
                 "ten": "Park",
@@ -140508,6 +141165,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -140557,8 +141215,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -140756,7 +141413,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd812e4"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -141027,11 +141684,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -141200,6 +141860,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -141225,8 +141886,7 @@ export const TABLES = [
               "updatedAt": "2026-08-15T03:58:57.128Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -141424,7 +142084,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd812f5"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -141695,11 +142355,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đinh Anh",
                 "ten": "Tuấn",
@@ -141892,6 +142555,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -141941,8 +142605,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -142140,7 +142803,7 @@ export const TABLES = [
               "_id": "6a7fe4029d2ce3fdefd813d5"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -142411,11 +143074,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Hồ Hồng",
                 "ten": "Hải",
@@ -142608,6 +143274,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -142657,8 +143324,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -142856,7 +143522,7 @@ export const TABLES = [
               "_id": "6a7fe4029d2ce3fdefd813e6"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -143127,11 +143793,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Kramer Marc",
                 "ten": "David",
@@ -143324,6 +143993,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -143373,8 +144043,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -143572,7 +144241,7 @@ export const TABLES = [
               "_id": "6a7fe4029d2ce3fdefd813f7"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -143843,11 +144512,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vanhove David Rene",
                 "ten": "Joffre",
@@ -144040,6 +144712,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -144089,8 +144762,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -144288,7 +144960,7 @@ export const TABLES = [
               "_id": "6a7fe4039d2ce3fdefd814c1"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -144559,11 +145231,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đào Quỳnh",
                 "ten": "Anh",
@@ -144756,6 +145431,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -144805,8 +145481,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -145004,7 +145679,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd81307"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -145275,11 +145950,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đào Quỳnh",
                 "ten": "Anh",
@@ -145472,6 +146150,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -145521,8 +146200,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -145720,7 +146398,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd81318"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -145991,11 +146669,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Trà",
                 "ten": "My",
@@ -146188,6 +146869,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -146237,8 +146919,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -146436,7 +147117,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd81329"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -146707,11 +147388,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Trà",
                 "ten": "My",
@@ -146904,6 +147588,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -146953,8 +147638,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -147152,7 +147836,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd8133a"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -147423,11 +148107,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Linh",
                 "ten": "Đan",
@@ -147620,6 +148307,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -147669,8 +148357,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -147868,7 +148555,7 @@ export const TABLES = [
               "_id": "6a7fe3ff9d2ce3fdefd81190"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -148139,11 +148826,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Linh",
                 "ten": "Đan",
@@ -148336,6 +149026,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -148385,8 +149076,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -148584,7 +149274,7 @@ export const TABLES = [
               "_id": "6a7fe3ff9d2ce3fdefd811a1"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -148855,11 +149545,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Linh",
                 "ten": "Đan",
@@ -149052,6 +149745,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -149101,8 +149795,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -149300,7 +149993,7 @@ export const TABLES = [
               "_id": "6a7fe3ff9d2ce3fdefd811b2"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -149571,11 +150264,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đào Quỳnh",
                 "ten": "Anh",
@@ -149768,6 +150464,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -149817,8 +150514,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -150016,7 +150712,7 @@ export const TABLES = [
               "_id": "6a7fe3ff9d2ce3fdefd811c3"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -150287,11 +150983,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nayak Abhishek",
                 "ten": "Shashikant",
@@ -150484,6 +151183,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -150533,8 +151233,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -150732,7 +151431,7 @@ export const TABLES = [
               "_id": "6a7fe4039d2ce3fdefd81437"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -151003,11 +151702,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Anh",
                 "ten": "Dũng",
@@ -151200,6 +151902,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -151249,8 +151952,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -151448,7 +152150,7 @@ export const TABLES = [
               "_id": "6a7fe4039d2ce3fdefd81448"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -151651,11 +152353,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 37,
+              "tietKetThuc": 84,
               "soTiet": 48,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "08:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16",
               "nhanSu": {
                 "hoDem": "Nguyễn Linh",
                 "ten": "Đan",
@@ -151848,6 +152553,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -151897,8 +152603,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -152044,7 +152749,7 @@ export const TABLES = [
               "_id": "6a7fe4029d2ce3fdefd81426"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -152705,11 +153410,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -152803,11 +153511,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -152901,11 +153612,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -153098,6 +153812,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -153147,8 +153862,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -153736,7 +154450,7 @@ export const TABLES = [
               "_id": "6a8490d42db09dc372be40fc"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -154397,11 +155111,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -154495,11 +155212,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -154593,11 +155313,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -154790,6 +155513,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -154839,8 +155563,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -155428,7 +156151,7 @@ export const TABLES = [
               "_id": "6a851a8e9d848f8a1397d86d"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -156734,11 +157457,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -156892,11 +157618,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -157050,11 +157779,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -157247,6 +157979,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -157342,8 +158075,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -158516,7 +159248,7 @@ export const TABLES = [
               "_id": "6a851a8e9d848f8a1397d8c9"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -159822,11 +160554,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -159980,11 +160715,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -160138,11 +160876,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "2",
+              "danhSachTuanStr": "6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,15,15,16,16,17,17,18,18,19,19,20,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -160335,6 +161076,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -160430,8 +161172,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -161604,7 +162345,7 @@ export const TABLES = [
               "_id": "6a851a8f9d848f8a1397d926"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -161875,11 +162616,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -162048,6 +162792,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -162073,8 +162818,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.907Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -162272,7 +163016,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd8136f"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -162543,11 +163287,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -162716,6 +163463,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -162741,8 +163489,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.959Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -162940,7 +163687,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd81380"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -163211,11 +163958,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -163384,6 +164134,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -163409,8 +164160,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:35.012Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -163608,7 +164358,7 @@ export const TABLES = [
               "_id": "6a7fe4019d2ce3fdefd81391"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -164269,11 +165019,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -164367,11 +165120,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -164465,11 +165221,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -164662,6 +165421,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -164711,8 +165471,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -165300,7 +166059,7 @@ export const TABLES = [
               "_id": "6a851a909d848f8a1397da12"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -165961,11 +166720,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -166059,11 +166821,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -166157,11 +166922,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -166354,6 +167122,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -166403,8 +167172,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -166992,7 +167760,7 @@ export const TABLES = [
               "_id": "6a851a909d848f8a1397da41"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -167653,11 +168421,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -167751,11 +168522,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -167849,11 +168623,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Chu Thị Mai",
                 "ten": "Hồng",
@@ -168046,6 +168823,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -168095,8 +168873,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -168684,7 +169461,7 @@ export const TABLES = [
               "_id": "6a851a919d848f8a1397da70"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -169345,11 +170122,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -169443,11 +170223,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -169541,11 +170324,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -169738,6 +170524,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -169787,8 +170574,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -170376,7 +171162,7 @@ export const TABLES = [
               "_id": "6a851a919d848f8a1397da9f"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -171037,11 +171823,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -171135,11 +171924,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -171233,11 +172025,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Qin",
                 "ten": "Zengchang",
@@ -171430,6 +172225,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -171479,8 +172275,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -172068,7 +172863,7 @@ export const TABLES = [
               "_id": "6a851a919d848f8a1397dace"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -172729,11 +173524,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -172827,11 +173625,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -172925,11 +173726,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -173122,6 +173926,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -173217,8 +174022,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -173806,7 +174610,7 @@ export const TABLES = [
               "_id": "6a851a919d848f8a1397dafd"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -174467,11 +175271,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -174565,11 +175372,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -174663,11 +175473,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -174860,6 +175673,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -174955,8 +175769,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -175544,7 +176357,7 @@ export const TABLES = [
               "_id": "6a851a929d848f8a1397db2c"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -176205,11 +177018,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -176303,11 +177119,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -176401,11 +177220,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 63,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:14",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Vũ Văn",
                 "ten": "Khu",
@@ -176598,6 +177420,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -176693,8 +177516,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -177282,7 +178104,7 @@ export const TABLES = [
               "_id": "6a851a929d848f8a1397db54"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -177748,11 +178570,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19"
             },
             {
               "danhSachTuan": [
@@ -177822,11 +178647,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 130,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "14:00",
               "gioKetThuc": "15:49",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19"
             }
           ],
           "thoiGianNhapDiem": {
@@ -177995,6 +178823,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -178020,8 +178849,7 @@ export const TABLES = [
               "updatedAt": "2026-08-28T08:43:46.191Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -178414,7 +179242,7 @@ export const TABLES = [
               "_id": "6a914b3700330b739be1345e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -178880,11 +179708,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 130,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "14:00",
               "gioKetThuc": "15:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19"
             },
             {
               "danhSachTuan": [
@@ -178954,11 +179785,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19"
             }
           ],
           "thoiGianNhapDiem": {
@@ -179127,6 +179961,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -179152,8 +179987,7 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:40.443Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -179546,7 +180380,7 @@ export const TABLES = [
               "_id": "6a9134c7b2df0420db9b6651"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -180207,11 +181041,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -180305,11 +181142,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -180403,11 +181243,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -180600,6 +181443,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -180649,8 +181493,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -181238,7 +182081,7 @@ export const TABLES = [
               "_id": "6a851a8d9d848f8a1397d79e"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -181899,11 +182742,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -181997,11 +182843,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -182095,11 +182944,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Ngọc",
                 "ten": "Doanh",
@@ -182292,6 +183144,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -182341,8 +183194,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -182930,7 +183782,7 @@ export const TABLES = [
               "_id": "6a851a8d9d848f8a1397d7cd"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -183591,11 +184443,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Tuấn",
                 "ten": "Bình",
@@ -183689,11 +184544,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Tuấn",
                 "ten": "Bình",
@@ -183787,11 +184645,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Tuấn",
                 "ten": "Bình",
@@ -183984,6 +184845,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -184033,8 +184895,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -184622,7 +185483,7 @@ export const TABLES = [
               "_id": "6a851a8d9d848f8a1397d7fc"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -185283,11 +186144,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Tuấn",
                 "ten": "Bình",
@@ -185381,11 +186245,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Tuấn",
                 "ten": "Bình",
@@ -185479,11 +186346,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Tuấn",
                 "ten": "Bình",
@@ -185676,6 +186546,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -185725,8 +186596,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -186314,7 +187184,7 @@ export const TABLES = [
               "_id": "6a851a8d9d848f8a1397d82b"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -186780,11 +187650,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Đỗ Thọ",
                 "ten": "Trường",
@@ -186878,11 +187751,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Đỗ Thọ",
                 "ten": "Trường",
@@ -187075,6 +187951,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -187124,8 +188001,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -187518,7 +188394,7 @@ export const TABLES = [
               "_id": "6a91351076d7c6043ce8a6c5"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -188179,11 +189055,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 121,
+              "tietKetThuc": 142,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "15:00",
               "gioKetThuc": "16:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -188253,11 +189132,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -188327,11 +189209,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 117,
               "soTiet": 15,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "14:44",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -188500,6 +189385,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -188593,8 +189479,7 @@ export const TABLES = [
               "updatedAt": "2026-08-15T04:45:22.483Z"
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -189182,7 +190067,7 @@ export const TABLES = [
               "_id": "6a7feee29d2ce3fdefd81532"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -189648,11 +190533,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Hajjar Ahmad",
                 "ten": "Alain",
@@ -189746,11 +190634,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 67,
+              "tietKetThuc": 88,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "10:30",
               "gioKetThuc": "12:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Hajjar Ahmad",
                 "ten": "Alain",
@@ -189943,6 +190834,7 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
+          "listLopHpKn": [],
           "lopHpHcList": [],
           "nhanSuList": [
             {
@@ -190038,8 +190930,7 @@ export const TABLES = [
               }
             }
           ],
-          "listLopHpKn": [],
-          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -190432,7 +191323,7 @@ export const TABLES = [
               "_id": "6a913569913ad686bcfac052"
             }
           ],
-          "children": []
+          "thoiKhoaBieuGhepList": []
         }
       ]
     }
@@ -190909,11 +191800,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Đăng",
                 "ten": "Tùng",
@@ -191007,11 +191901,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Đăng",
                 "ten": "Tùng",
@@ -191204,9 +192101,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028b64",
@@ -191255,6 +192151,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -191646,8 +192544,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a9135b7913ad686bcfac073"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -192113,11 +193010,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 148,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "15:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -192211,11 +193111,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 64,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:19",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Kamel",
                 "ten": "Nidal",
@@ -192408,9 +193311,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85322184842edf8e35ecb9",
@@ -192551,6 +193453,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -192942,8 +193846,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a85322184842edf8e35ecb7"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -193409,11 +194312,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Hajjar Ahmad",
                 "ten": "Alain",
@@ -193507,11 +194413,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 127,
+              "tietKetThuc": 141,
               "soTiet": 15,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "15:30",
               "gioKetThuc": "16:44",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Hajjar Ahmad",
                 "ten": "Alain",
@@ -193704,9 +194613,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c158a0c27d5d028b86",
@@ -193755,6 +194663,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -194146,8 +195056,7 @@ export const TABLES = [
               "ngay": "2026-12-24",
               "_id": "6a84925b9d848f8a1397d737"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -194613,11 +195522,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Vũ",
                 "ten": "Linh",
@@ -194711,11 +195623,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Nguyễn Vũ",
                 "ten": "Linh",
@@ -194908,9 +195823,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028cc1",
@@ -194959,6 +195873,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -195350,8 +196266,7 @@ export const TABLES = [
               "ngay": "2026-12-23",
               "_id": "6a91360c913ad686bcfac093"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -195524,9 +196439,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78c258a0c27d5d028d2f",
@@ -195575,8 +196489,9 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGocList": [],
-          "thoiKhoaBieuGhepList": []
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -195847,11 +196762,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 126,
               "soTiet": 24,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Phạm Thanh",
                 "ten": "Tùng",
@@ -196044,9 +196962,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f43c",
@@ -196095,6 +197012,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -196291,8 +197210,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7f37a5a96069bd9190f43a"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -196546,11 +197464,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 144,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -196719,9 +197640,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f51c",
@@ -196746,6 +197666,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.632Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -196929,8 +197851,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a6a96069bd9190f51a"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -198094,11 +199015,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 148,
               "soTiet": 46,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -198188,11 +199112,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 88,
               "soTiet": 46,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -198282,11 +199209,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 148,
               "soTiet": 46,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -198376,11 +199306,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 88,
               "soTiet": 46,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:19",
               "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -198470,11 +199403,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 66,
               "soTiet": 24,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:29",
               "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -198564,11 +199500,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 88,
               "soTiet": 46,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:19",
               "id": "5",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -198761,9 +199700,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7feba1cc13ee11f45b6371",
@@ -198948,6 +199886,8 @@ export const TABLES = [
               "updatedAt": "2026-08-15T04:31:29.212Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -200041,8 +200981,7 @@ export const TABLES = [
               "ngay": "2026-12-16",
               "_id": "6a7feba1cc13ee11f45b636f"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -201206,11 +202145,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 148,
               "soTiet": 46,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "17:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -201300,11 +202242,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 88,
               "soTiet": 46,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -201394,11 +202339,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 148,
               "soTiet": 46,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "17:19",
               "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -201488,11 +202436,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 66,
               "soTiet": 24,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "08:30",
               "gioKetThuc": "10:29",
               "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -201582,11 +202533,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 88,
               "soTiet": 46,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:19",
               "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -201676,11 +202630,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 88,
               "soTiet": 46,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:19",
               "id": "5",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Trần Lê Đình",
                 "ten": "Duy",
@@ -201873,9 +202830,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7feba0cc13ee11f45b62da",
@@ -202060,6 +203016,8 @@ export const TABLES = [
               "updatedAt": "2026-08-15T04:31:28.685Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -203153,8 +204111,7 @@ export const TABLES = [
               "ngay": "2026-09-28",
               "_id": "6a7feba0cc13ee11f45b6250"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -203620,11 +204577,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -203694,11 +204654,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -203867,9 +204830,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f416",
@@ -203894,6 +204856,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:33.877Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -204285,8 +205249,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7f37a5a96069bd9190f413"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -204440,11 +205403,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "6,7",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng Kim",
                 "ten": "Hân",
@@ -204486,11 +205452,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "6,7",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng Kim",
                 "ten": "Hân",
@@ -204532,11 +205501,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
               "id": "2",
+              "danhSachTuanStr": "6,7",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng Kim",
                 "ten": "Hân",
@@ -204578,11 +205550,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "6,7",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng Kim",
                 "ten": "Hân",
@@ -204624,11 +205599,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
               "id": "4",
+              "danhSachTuanStr": "6,7",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng Kim",
                 "ten": "Hân",
@@ -204821,9 +205799,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f44a",
@@ -204872,6 +205849,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -205003,8 +205982,7 @@ export const TABLES = [
               "ngay": "2026-10-02",
               "_id": "6a7f37a6a96069bd9190f448"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -205227,11 +206205,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "11,12,13"
             },
             {
               "danhSachTuan": [
@@ -205253,11 +206234,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "11,12,13"
             },
             {
               "danhSachTuan": [
@@ -205279,11 +206263,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "11,12,13"
             },
             {
               "danhSachTuan": [
@@ -205305,11 +206292,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "11,12,13"
             },
             {
               "danhSachTuan": [
@@ -205331,11 +206321,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "11,12,13"
             }
           ],
           "thoiGianNhapDiem": {
@@ -205504,9 +206497,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f474",
@@ -205553,6 +206545,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.147Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -205749,8 +206743,7 @@ export const TABLES = [
               "ngay": "2026-11-13",
               "_id": "6a7f37a6a96069bd9190f472"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -206111,11 +207104,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "23,24,25,26,27"
             },
             {
               "danhSachTuan": [
@@ -206145,11 +207141,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "23,24,25,26,27"
             },
             {
               "danhSachTuan": [
@@ -206179,11 +207178,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "23,24,25,26,27"
             },
             {
               "danhSachTuan": [
@@ -206213,11 +207215,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "23,24,25,26,27"
             },
             {
               "danhSachTuan": [
@@ -206247,11 +207252,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "23,24,25,26,27"
             }
           ],
           "thoiGianNhapDiem": {
@@ -206420,9 +207428,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4ac",
@@ -206447,6 +207454,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.295Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -206773,8 +207782,7 @@ export const TABLES = [
               "ngay": "2027-02-18",
               "_id": "6a849abc80b526f2ae282070"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -207066,11 +208074,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "19,20,21,22"
             },
             {
               "danhSachTuan": [
@@ -207096,11 +208107,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "19,20,21,22"
             },
             {
               "danhSachTuan": [
@@ -207126,11 +208140,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "19,20,21,22"
             },
             {
               "danhSachTuan": [
@@ -207156,11 +208173,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "19,20,21,22"
             },
             {
               "danhSachTuan": [
@@ -207186,11 +208206,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "19,20,21,22"
             }
           ],
           "thoiGianNhapDiem": {
@@ -207359,9 +208382,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4a6",
@@ -207408,6 +208430,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.284Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -207669,8 +208693,7 @@ export const TABLES = [
               "ngay": "2027-01-14",
               "_id": "6a8498962db09dc372be4106"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -208031,11 +209054,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "14,15,16,17,18"
             },
             {
               "danhSachTuan": [
@@ -208065,11 +209091,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "14,15,16,17,18"
             },
             {
               "danhSachTuan": [
@@ -208099,11 +209128,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "14,15,16,17,18"
             },
             {
               "danhSachTuan": [
@@ -208133,11 +209165,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "14,15,16,17,18"
             },
             {
               "danhSachTuan": [
@@ -208167,11 +209202,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "14,15,16,17,18"
             }
           ],
           "thoiGianNhapDiem": {
@@ -208340,9 +209378,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f493",
@@ -208367,6 +209404,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.229Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -208693,8 +209732,7 @@ export const TABLES = [
               "ngay": "2026-12-18",
               "_id": "6a7f37a6a96069bd9190f491"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -208982,11 +210020,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -209179,9 +210220,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f429",
@@ -209230,6 +210270,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -209439,8 +210481,7 @@ export const TABLES = [
               "ngay": "2027-01-15",
               "_id": "6a82852d80b526f2ae281d3b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -209745,11 +210786,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 150,
               "soTiet": 42,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "14:00",
               "gioKetThuc": "17:29",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -209942,9 +210986,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4be",
@@ -209993,6 +211036,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -210215,8 +211260,7 @@ export const TABLES = [
               "ngay": "2027-01-28",
               "_id": "6a8523ff80b526f2ae2820ae"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -210439,11 +211483,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10"
             },
             {
               "danhSachTuan": [
@@ -210465,11 +211512,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10"
             },
             {
               "danhSachTuan": [
@@ -210491,11 +211541,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10"
             },
             {
               "danhSachTuan": [
@@ -210517,11 +211570,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10"
             },
             {
               "danhSachTuan": [
@@ -210543,11 +211599,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "8,9,10"
             }
           ],
           "thoiGianNhapDiem": {
@@ -210716,9 +211775,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f45d",
@@ -210787,6 +211845,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.090Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -210983,8 +212043,7 @@ export const TABLES = [
               "ngay": "2026-10-23",
               "_id": "6a7f37a6a96069bd9190f45b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -211255,11 +212314,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 76,
               "soTiet": 34,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "08:30",
               "gioKetThuc": "11:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thanh",
                 "ten": "Tuấn",
@@ -211452,9 +212514,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a5a96069bd9190f3da",
@@ -211525,6 +212586,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:33.713Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -211721,8 +212784,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7f37a5a96069bd9190f3d8"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -211908,11 +212970,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 150,
               "soTiet": 42,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "17:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,13,14,15,17",
               "nhanSu": {
                 "hoDem": "Trương Nguyễn Xuân",
                 "ten": "Quỳnh",
@@ -212105,9 +213170,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f4e2",
@@ -212202,6 +213266,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -212333,8 +213399,7 @@ export const TABLES = [
               "ngay": "2026-10-27",
               "_id": "6a84958980b526f2ae282021"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -213134,11 +214199,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -213204,11 +214272,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -213274,11 +214345,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -213344,11 +214418,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -213517,9 +214594,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f570",
@@ -213566,6 +214642,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.859Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -214295,8 +215373,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a6a96069bd9190f56e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -214588,11 +215665,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7"
             },
             {
               "danhSachTuan": [
@@ -214618,11 +215698,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7"
             },
             {
               "danhSachTuan": [
@@ -214648,11 +215731,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7"
             },
             {
               "danhSachTuan": [
@@ -214678,11 +215764,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7"
             },
             {
               "danhSachTuan": [
@@ -214708,11 +215797,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 144,
               "soTiet": 96,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7"
             }
           ],
           "thoiGianNhapDiem": {
@@ -214881,9 +215973,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f534",
@@ -214908,6 +215999,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:34.696Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -215169,8 +216262,7 @@ export const TABLES = [
               "ngay": "2026-10-02",
               "_id": "6a7f37a6a96069bd9190f532"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -216359,11 +217451,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -216441,11 +217536,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -216523,11 +217621,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -216605,11 +217706,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -216687,11 +217791,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -216860,9 +217967,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd91910342",
@@ -216887,6 +217993,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:44.899Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -217993,8 +219101,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd91910340"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -218248,11 +219355,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 144,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -218445,9 +219555,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a6a96069bd9190f50a",
@@ -218496,6 +219605,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -218679,8 +219790,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a6a96069bd9190f508"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -219480,11 +220590,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -219550,11 +220663,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -219620,11 +220736,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -219690,11 +220809,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -219863,9 +220985,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f5ae",
@@ -219890,6 +221011,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.021Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -220619,8 +221742,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f5ac"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -221809,11 +222931,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -221891,11 +223016,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -221973,11 +223101,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -222055,11 +223186,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -222137,11 +223271,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -222310,9 +223447,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd9191039b",
@@ -222337,6 +223473,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.129Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -223443,8 +224581,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd91910399"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -224244,11 +225381,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -224314,11 +225454,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -224384,11 +225527,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -224454,11 +225600,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -224627,9 +225776,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f5ea",
@@ -224654,6 +225802,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.185Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -225383,8 +226533,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f5e8"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -226573,11 +227722,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -226655,11 +227807,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -226737,11 +227892,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -226819,11 +227977,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -226901,11 +228062,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -227074,9 +228238,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919103f4",
@@ -227101,6 +228264,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.352Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -228207,8 +229372,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd919103f2"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -229008,11 +230172,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -229078,11 +230245,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -229148,11 +230318,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -229218,11 +230391,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -229391,9 +230567,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f626",
@@ -229418,6 +230593,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.350Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -230147,8 +231324,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f624"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -231406,11 +232582,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -231492,11 +232671,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -231578,11 +232760,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -231664,11 +232849,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -231750,11 +232938,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -231923,9 +233114,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a8a96069bd9190f726",
@@ -231950,6 +233140,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:36.326Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -233121,8 +234313,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a8a96069bd9190f724"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -234311,11 +235502,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -234393,11 +235587,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -234475,11 +235672,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -234557,11 +235757,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -234639,11 +235842,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -234812,9 +236018,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd9191044d",
@@ -234839,6 +236044,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.577Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -235945,8 +237152,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd9191044b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -237204,11 +238410,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -237290,11 +238499,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -237376,11 +238588,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -237462,11 +238677,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -237548,11 +238766,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -237721,9 +238942,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a8a96069bd9190f784",
@@ -237748,6 +238968,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:36.586Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -238919,8 +240141,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a8a96069bd9190f782"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -240178,11 +241399,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -240264,11 +241488,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -240350,11 +241577,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -240436,11 +241666,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -240522,11 +241755,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -240695,9 +241931,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a8a96069bd9190f7e2",
@@ -240722,6 +241957,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:36.839Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -241893,8 +243130,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a8a96069bd9190f7e0"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -243152,11 +244388,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -243238,11 +244477,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -243324,11 +244566,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -243410,11 +244655,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -243496,11 +244744,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -243669,9 +244920,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f840",
@@ -243696,6 +244946,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.086Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -244867,8 +246119,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f83e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -246126,11 +247377,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -246212,11 +247466,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -246298,11 +247555,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -246384,11 +247644,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -246470,11 +247733,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -246643,9 +247909,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f89e",
@@ -246670,6 +247935,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.330Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -247841,8 +249108,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f89c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -248368,11 +249634,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 150,
               "soTiet": 108,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "08:30",
               "gioKetThuc": "17:29",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -248474,11 +249743,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 150,
               "soTiet": 48,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "17:29",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -248671,9 +249943,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f6c8",
@@ -248722,6 +249993,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -249165,8 +250438,7 @@ export const TABLES = [
               "ngay": "2027-01-09",
               "_id": "6a7f37a7a96069bd9190f6c6"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -250424,11 +251696,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -250510,11 +251785,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -250596,11 +251874,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -250682,11 +251963,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -250768,11 +252052,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -250941,9 +252228,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f8fc",
@@ -250968,6 +252254,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.568Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -252139,8 +253427,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f8fa"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -253398,11 +254685,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -253484,11 +254774,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -253570,11 +254863,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -253656,11 +254952,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -253742,11 +255041,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -253915,9 +255217,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a9a96069bd9190f95a",
@@ -253942,6 +255243,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:37.813Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -255113,8 +256416,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37a9a96069bd9190f958"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -256372,11 +257674,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -256458,11 +257763,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -256544,11 +257852,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -256630,11 +257941,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -256716,11 +258030,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -256889,9 +258206,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190f9b8",
@@ -256916,6 +258232,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:38.056Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -258087,8 +259405,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190f9b6"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -259346,11 +260663,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -259432,11 +260752,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -259518,11 +260841,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -259604,11 +260930,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -259690,11 +261019,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -259863,9 +261195,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190fa16",
@@ -259890,6 +261221,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:38.302Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -261061,8 +262394,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190fa14"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -262320,11 +263652,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -262430,11 +263765,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -262540,11 +263878,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -262650,11 +263991,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -262760,11 +264104,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -262957,9 +264304,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190fa74",
@@ -263008,6 +264354,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -264179,8 +265527,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190fa72"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -264980,11 +266327,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -265050,11 +266400,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -265120,11 +266473,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -265190,11 +266546,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -265363,9 +266722,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f662",
@@ -265412,6 +266770,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.517Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -266141,8 +267501,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f660"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -266942,11 +268301,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -267012,11 +268374,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -267082,11 +268447,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -267152,11 +268520,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -267325,9 +268696,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37a7a96069bd9190f6a0",
@@ -267374,6 +268744,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:35.685Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -268103,8 +269475,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37a7a96069bd9190f69e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -269362,11 +270733,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -269448,11 +270822,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -269534,11 +270911,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -269620,11 +271000,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -269706,11 +271089,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -269879,9 +271265,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aaa96069bd9190fad2",
@@ -269906,6 +271291,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:38.776Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -271077,8 +272464,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aaa96069bd9190fad0"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -272336,11 +273722,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -272422,11 +273811,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -272508,11 +273900,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -272594,11 +273989,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -272680,11 +274078,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -272853,9 +274254,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd9191022e",
@@ -272880,6 +274280,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:44.191Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -274051,8 +275453,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd9191022c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -275310,11 +276711,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -275396,11 +276800,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -275482,11 +276889,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -275568,11 +276978,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -275654,11 +277067,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -275827,9 +277243,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fb30",
@@ -275854,6 +277269,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.017Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -277025,8 +278442,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fb2e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -278284,11 +279700,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -278370,11 +279789,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -278456,11 +279878,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -278542,11 +279967,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -278628,11 +280056,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -278801,9 +280232,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fb8e",
@@ -278828,6 +280258,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.259Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -279999,8 +281431,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fb8c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -281258,11 +282689,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -281344,11 +282778,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -281430,11 +282867,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -281516,11 +282956,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -281602,11 +283045,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -281775,9 +283221,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fbec",
@@ -281824,6 +283269,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.512Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -282995,8 +284442,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fbea"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -284155,11 +285601,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 150,
               "soTiet": 102,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "17:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -284257,11 +285706,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 150,
               "soTiet": 102,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "17:29",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -284363,11 +285815,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 150,
               "soTiet": 102,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "17:29",
               "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -284469,11 +285924,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 150,
               "soTiet": 102,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "17:29",
               "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -284575,11 +286033,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 150,
               "soTiet": 102,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "17:29",
               "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -284772,9 +286233,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd919102e9",
@@ -284823,6 +286283,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -285903,8 +287365,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd919102e7"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -287162,11 +288623,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -287248,11 +288712,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -287334,11 +288801,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -287420,11 +288890,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -287506,11 +288979,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -287679,9 +289155,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fc4c",
@@ -287706,6 +289181,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.752Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -288877,8 +290354,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fc4a"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -290136,11 +291612,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -290222,11 +291701,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -290308,11 +291790,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -290394,11 +291879,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -290480,11 +291968,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -290653,9 +292144,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aba96069bd9190fcaa",
@@ -290680,6 +292170,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:39.990Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -291851,8 +293343,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aba96069bd9190fca8"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -293041,11 +294532,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -293147,11 +294641,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -293253,11 +294750,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "2",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -293359,11 +294859,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -293465,11 +294968,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "4",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Bajracharya",
                 "ten": "Jayendra",
@@ -293662,9 +295168,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919104a6",
@@ -293713,6 +295218,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -294819,8 +296326,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b1a96069bd919104a4"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -296078,11 +297584,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -296164,11 +297673,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -296250,11 +297762,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -296336,11 +297851,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -296422,11 +297940,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -296595,9 +298116,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aca96069bd9190fd08",
@@ -296622,6 +298142,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:40.235Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -297793,8 +299315,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aca96069bd9190fd06"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -299052,11 +300573,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -299138,11 +300662,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -299224,11 +300751,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -299310,11 +300840,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -299396,11 +300929,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -299569,9 +301105,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aca96069bd9190fd66",
@@ -299596,6 +301131,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:40.785Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -300767,8 +302304,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aca96069bd9190fd64"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -302026,11 +303562,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -302112,11 +303651,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -302198,11 +303740,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -302284,11 +303829,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -302370,11 +303918,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -302543,9 +304094,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd91910290",
@@ -302570,6 +304120,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:44.446Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -303741,8 +305293,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b0a96069bd9191028e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -305000,11 +306551,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -305110,11 +306664,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -305220,11 +306777,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -305330,11 +306890,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -305440,11 +307003,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Khánh",
                 "ten": "Chi",
@@ -305637,9 +307203,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fdc4",
@@ -305688,6 +307253,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -306859,8 +308426,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fdc2"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -308118,11 +309684,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -308204,11 +309773,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -308290,11 +309862,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -308376,11 +309951,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -308462,11 +310040,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -308635,9 +310216,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fe22",
@@ -308662,6 +310242,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.276Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -309833,8 +311415,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fe20"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -311092,11 +312673,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -311178,11 +312762,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -311264,11 +312851,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -311350,11 +312940,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -311436,11 +313029,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -311609,9 +313205,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fe80",
@@ -311636,6 +313231,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.518Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -312807,8 +314404,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fe7e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -314066,11 +315662,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -314152,11 +315751,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -314238,11 +315840,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -314324,11 +315929,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -314410,11 +316018,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -314583,9 +316194,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190fede",
@@ -314632,6 +316242,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.761Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -315803,8 +317415,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190fedc"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -317062,11 +318673,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -317148,11 +318762,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -317234,11 +318851,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -317320,11 +318940,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -317406,11 +319029,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -317579,9 +319205,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37ada96069bd9190ff3e",
@@ -317606,6 +319231,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:41.998Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -318777,8 +320404,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37ada96069bd9190ff3c"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -320036,11 +321662,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -320122,11 +321751,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -320208,11 +321840,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -320294,11 +321929,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -320380,11 +322018,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -320553,9 +322194,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd9190ff9c",
@@ -320580,6 +322220,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.244Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -321751,8 +323393,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd9190ff9a"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -323010,11 +324651,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -323096,11 +324740,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -323182,11 +324829,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -323268,11 +324918,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -323354,11 +325007,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -323527,9 +325183,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd9190fffa",
@@ -323554,6 +325209,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.484Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -324725,8 +326382,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd9190fff8"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -325984,11 +327640,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -326070,11 +327729,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -326156,11 +327818,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -326242,11 +327907,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -326328,11 +327996,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -326501,9 +328172,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd91910058",
@@ -326528,6 +328198,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.718Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -327699,8 +329371,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd91910056"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -328958,11 +330629,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -329044,11 +330718,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -329130,11 +330807,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -329216,11 +330896,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -329302,11 +330985,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -329475,9 +331161,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37aea96069bd919100b6",
@@ -329502,6 +331187,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:42.954Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -330673,8 +332360,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37aea96069bd919100b4"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -331932,11 +333618,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -332018,11 +333707,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -332104,11 +333796,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -332190,11 +333885,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -332276,11 +333974,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -332449,9 +334150,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37afa96069bd91910114",
@@ -332476,6 +334176,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:43.193Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -333647,8 +335349,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37afa96069bd91910112"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -334906,11 +336607,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -334992,11 +336696,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -335078,11 +336785,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -335164,11 +336874,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             },
             {
               "danhSachTuan": [
@@ -335250,11 +336963,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -335423,9 +337139,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37afa96069bd91910172",
@@ -335450,6 +337165,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:43.601Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -336621,8 +338338,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37afa96069bd91910170"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [],
@@ -336795,9 +338511,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b0a96069bd91910232",
@@ -336846,8 +338561,9 @@ export const TABLES = [
               }
             }
           ],
-          "thoiKhoaBieuGocList": [],
-          "thoiKhoaBieuGhepList": []
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
+          "thoiKhoaBieuGocList": []
         },
         {
           "thoiKhoaBieuList": [
@@ -338105,11 +339821,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Hoàng Bảo",
                 "ten": "Long",
@@ -338215,11 +339934,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Hoàng Bảo",
                 "ten": "Long",
@@ -338325,11 +340047,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "2",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Hoàng Bảo",
                 "ten": "Long",
@@ -338435,11 +340160,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Hoàng Bảo",
                 "ten": "Long",
@@ -338545,11 +340273,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "4",
+              "danhSachTuanStr": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Hoàng Bảo",
                 "ten": "Long",
@@ -338742,9 +340473,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37afa96069bd919101d0",
@@ -338793,6 +340523,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -339964,8 +341696,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37afa96069bd919101ce"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -340380,11 +342111,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,16,17,18,19,21,22",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -340466,11 +342200,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -340516,11 +342253,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "2",
+              "danhSachTuanStr": "13,14,16",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -340713,9 +342453,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b3a96069bd9191068f",
@@ -340764,6 +342503,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -341116,8 +342857,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b3a96069bd9191068d"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -341592,11 +343332,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "16",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -341634,11 +343377,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 144,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "18",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -341676,11 +343422,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "2",
+              "danhSachTuanStr": "19",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -341758,11 +343507,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 143,
               "soTiet": 35,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:54",
               "id": "3",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,16,17",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -341832,11 +343584,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 83,
               "soTiet": 35,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:54",
               "id": "4",
+              "danhSachTuanStr": "10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -341910,11 +343665,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 83,
               "soTiet": 35,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:54",
               "id": "5",
+              "danhSachTuanStr": "9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -341956,11 +343714,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 83,
               "soTiet": 35,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:54",
               "id": "6",
+              "danhSachTuanStr": "12,14",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -342153,9 +343914,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7fcf76cc13ee11f45b572a",
@@ -342204,6 +343964,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -342660,8 +344422,7 @@ export const TABLES = [
               "ngay": "2026-11-21",
               "_id": "6a7fcf76cc13ee11f45b5727"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -342902,11 +344663,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 138,
               "soTiet": 42,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "23",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -343004,11 +344768,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -343201,9 +344968,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105cf",
@@ -343252,6 +345018,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -343474,8 +345242,7 @@ export const TABLES = [
               "ngay": "2027-01-06",
               "_id": "6a7f37b2a96069bd919105cd"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -343728,11 +345495,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 84,
               "soTiet": 42,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "08:30",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "10,12,14,16",
               "nhanSu": {
                 "hoDem": "Phùng Thị",
                 "ten": "Hạnh",
@@ -343818,11 +345588,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 144,
               "soTiet": 42,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:59",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18",
               "nhanSu": {
                 "hoDem": "Phùng Thị",
                 "ten": "Hạnh",
@@ -344015,9 +345788,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105a7",
@@ -344066,6 +345838,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -344288,8 +346062,7 @@ export const TABLES = [
               "ngay": "2026-12-16",
               "_id": "6a7f37b2a96069bd919105a3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -344738,11 +346511,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 123,
               "soTiet": 21,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:14",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,16,17,18,19,20"
             },
             {
               "danhSachTuan": [
@@ -344812,11 +346588,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 78,
               "soTiet": 30,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:29",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -344985,9 +346764,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105f3",
@@ -345012,6 +346790,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:46.969Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -345390,8 +347170,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7f37b2a96069bd919105f0"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -345664,11 +347443,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -345734,11 +347516,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -345931,9 +347716,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b3a96069bd91910609",
@@ -345982,6 +347766,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -346204,8 +347990,7 @@ export const TABLES = [
               "ngay": "2026-11-12",
               "_id": "6a7f37b3a96069bd91910606"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -346761,11 +348546,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 123,
               "soTiet": 21,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:14",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -346871,11 +348659,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 123,
               "soTiet": 21,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:14",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -347068,9 +348859,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910594",
@@ -347119,6 +348909,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -347588,8 +349380,7 @@ export const TABLES = [
               "ngay": "2027-01-07",
               "_id": "6a7f37b2a96069bd91910592"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -347860,11 +349651,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 90,
               "soTiet": 48,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "08:30",
               "gioKetThuc": "12:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,21",
               "nhanSu": {
                 "hoDem": "Phùng Thị",
                 "ten": "Hạnh",
@@ -348057,9 +349851,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd919105bb",
@@ -348108,6 +349901,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -348304,8 +350099,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b2a96069bd919105b9"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -348557,11 +350351,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -348619,11 +350416,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -348669,11 +350469,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "2",
+              "danhSachTuanStr": "13,14,16",
               "nhanSu": {
                 "hoDem": "Hoàng Thị",
                 "ten": "Huệ",
@@ -348866,9 +350669,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910546",
@@ -348917,6 +350719,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -349126,8 +350930,7 @@ export const TABLES = [
               "ngay": "2026-12-01",
               "_id": "6a7f37b2a96069bd91910544"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -349415,11 +351218,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 90,
               "soTiet": 42,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "09:00",
               "gioKetThuc": "12:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -349588,9 +351394,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a92b129a8e9a37aa83bdb59",
@@ -349615,6 +351420,8 @@ export const TABLES = [
               "updatedAt": "2026-08-29T10:15:05.842Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -349824,8 +351631,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a92b129a8e9a37aa83bdb57"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -350233,11 +352039,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -350299,11 +352108,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "1",
+              "danhSachTuanStr": "6,7,8,9,10,11,12",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -350365,11 +352177,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "2",
+              "danhSachTuanStr": "6,7,8,9,10,11,12",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -350431,11 +352246,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "3",
+              "danhSachTuanStr": "6,7,8,9,10,11,12",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -350628,9 +352446,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910511",
@@ -350679,6 +352496,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -351044,8 +352863,7 @@ export const TABLES = [
               "ngay": "2026-11-06",
               "_id": "6a7f37b2a96069bd9191050f"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -351442,11 +353260,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 150,
               "soTiet": 120,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "17:29",
               "id": "0",
+              "danhSachTuanStr": "22",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -351484,11 +353305,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 150,
               "soTiet": 120,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "17:29",
               "id": "1",
+              "danhSachTuanStr": "22",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -351526,11 +353350,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 160,
               "soTiet": 130,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "18:19",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "22"
             },
             {
               "danhSachTuan": [
@@ -351576,11 +353403,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -351650,11 +353480,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "4",
+              "danhSachTuanStr": "13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -351720,11 +353553,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "5",
+              "danhSachTuanStr": "13,14,15,16,17,18,19,21",
               "nhanSu": {
                 "hoDem": "Nguyễn Thị Thúy",
                 "ten": "Nga",
@@ -351917,9 +353753,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910530",
@@ -351968,6 +353803,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -352346,8 +354183,7 @@ export const TABLES = [
               "ngay": "2027-01-08",
               "_id": "6a7f37b2a96069bd9191052e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -352700,11 +354536,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 140,
               "soTiet": 32,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:39",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "15,16,17"
             },
             {
               "danhSachTuan": [
@@ -352718,11 +354557,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 140,
               "soTiet": 32,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:39",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "15"
             },
             {
               "danhSachTuan": [
@@ -352740,11 +354582,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "19,21"
             },
             {
               "danhSachTuan": [
@@ -352766,11 +354611,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "19,20,21"
             },
             {
               "danhSachTuan": [
@@ -352792,11 +354640,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "13,14,16"
             },
             {
               "danhSachTuan": [
@@ -352818,11 +354669,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "5"
+              "id": "5",
+              "danhSachTuanStr": "19,20,21"
             },
             {
               "danhSachTuan": [
@@ -352844,11 +354698,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "6"
+              "id": "6",
+              "danhSachTuanStr": "19,20,21"
             },
             {
               "danhSachTuan": [
@@ -352870,11 +354727,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 97,
+              "tietKetThuc": 140,
               "soTiet": 44,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:00",
               "gioKetThuc": "16:39",
-              "id": "7"
+              "id": "7",
+              "danhSachTuanStr": "13,14,18"
             },
             {
               "danhSachTuan": [
@@ -352900,11 +354760,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "8"
+              "id": "8",
+              "danhSachTuanStr": "13,14,15,16"
             }
           ],
           "thoiGianNhapDiem": {
@@ -353073,9 +354936,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7ebc4c2b914050d44f996c",
@@ -353100,6 +354962,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T06:57:16.321Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -353426,8 +355290,7 @@ export const TABLES = [
               "ngay": "2026-11-09",
               "_id": "6a848fcc2db09dc372be40dd"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -353698,11 +355561,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 126,
               "soTiet": 24,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Phạm Thanh",
                 "ten": "Tùng",
@@ -353895,9 +355761,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b2a96069bd91910570",
@@ -353946,6 +355811,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -354142,8 +356009,7 @@ export const TABLES = [
               "ngay": "2027-01-05",
               "_id": "6a7f37b2a96069bd9191056e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -354353,11 +356219,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 144,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8"
             },
             {
               "danhSachTuan": [
@@ -354379,11 +356248,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 109,
+              "tietKetThuc": 144,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "14:00",
               "gioKetThuc": "16:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "6,7,8"
             },
             {
               "danhSachTuan": [
@@ -354401,11 +356273,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "11,12"
             },
             {
               "danhSachTuan": [
@@ -354423,11 +356298,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "11,12"
             },
             {
               "danhSachTuan": [
@@ -354445,11 +356323,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "11,12"
             },
             {
               "danhSachTuan": [
@@ -354467,11 +356348,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "5"
+              "id": "5",
+              "danhSachTuanStr": "11,12"
             }
           ],
           "thoiGianNhapDiem": {
@@ -354495,7 +356379,7 @@ export const TABLES = [
           "maHocPhan": "NURS4301",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 0,
+          "siSo": 1,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 6,
@@ -354555,7 +356439,7 @@ export const TABLES = [
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-14T15:43:45.863Z",
-          "updatedAt": "2026-09-03T07:56:52.721Z",
+          "updatedAt": "2026-09-04T10:15:46.391Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -354640,9 +356524,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919104cc",
@@ -354667,6 +356550,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.903Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -354850,8 +356735,7 @@ export const TABLES = [
               "ngay": "2026-11-06",
               "_id": "6a7f37b1a96069bd919104ca"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -355066,27 +356950,27 @@ export const TABLES = [
             {
               "hinhThucGiangDay": "Trực tiếp",
               "nhanSuSsoId": "tinh.gtt@vinuni.edu.vn",
-              "tietBatDau": 31,
-              "tietKetThuc": 144,
-              "thoiGianBatDau": "2026-10-07T00:30:00.000Z",
-              "thoiGianKetThuc": "2026-10-07T09:59:00.000Z",
+              "tietBatDau": 37,
+              "tietKetThuc": 72,
+              "thoiGianBatDau": "2026-10-06T01:00:00.000Z",
+              "thoiGianKetThuc": "2026-10-06T03:59:00.000Z",
               "loaiHinhHocTap": "Lý thuyết",
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
-              "ngay": "2026-10-07",
+              "ngay": "2026-10-06",
               "_id": "6a92acc4c1c68ea35f3b53b1"
             },
             {
               "hinhThucGiangDay": "Trực tiếp",
               "nhanSuSsoId": "tinh.gtt@vinuni.edu.vn",
-              "tietBatDau": 31,
-              "tietKetThuc": 144,
-              "thoiGianBatDau": "2026-10-08T00:30:00.000Z",
-              "thoiGianKetThuc": "2026-10-08T09:59:00.000Z",
+              "tietBatDau": 37,
+              "tietKetThuc": 72,
+              "thoiGianBatDau": "2026-10-09T01:00:00.000Z",
+              "thoiGianKetThuc": "2026-10-09T03:59:00.000Z",
               "loaiHinhHocTap": "Lý thuyết",
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
-              "ngay": "2026-10-08",
+              "ngay": "2026-10-09",
               "_id": "6a92acc4c1c68ea35f3b53b2"
             }
           ],
@@ -355113,11 +356997,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "8,9,10",
               "nhanSu": {
                 "hoDem": "Giáp Thị Thanh",
                 "ten": "Tình",
@@ -355156,6 +357043,10 @@ export const TABLES = [
                 {
                   "tuan": 7,
                   "tkbId": "6a85204380b526f2ae2820a1"
+                },
+                {
+                  "tuan": 8,
+                  "tkbId": "6a92acc4c1c68ea35f3b53b1"
                 }
               ],
               "loaiHinhHocTap": "Lý thuyết",
@@ -355163,11 +357054,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 37,
+              "tietKetThuc": 72,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "08:00",
               "gioKetThuc": "10:59",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8",
               "nhanSu": {
                 "hoDem": "Giáp Thị Thanh",
                 "ten": "Tình",
@@ -355196,10 +357090,6 @@ export const TABLES = [
             {
               "danhSachTuan": [
                 {
-                  "tuan": 8,
-                  "tkbId": "6a92acc4c1c68ea35f3b53b1"
-                },
-                {
                   "tuan": 9,
                   "tkbId": "6a8483e32db09dc372be40be"
                 },
@@ -355213,11 +357103,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "2",
+              "danhSachTuanStr": "9,10",
               "nhanSu": {
                 "hoDem": "Giáp Thị Thanh",
                 "ten": "Tình",
@@ -355263,11 +357156,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "3",
+              "danhSachTuanStr": "8,9,10",
               "nhanSu": {
                 "hoDem": "Giáp Thị Thanh",
                 "ten": "Tình",
@@ -355306,6 +357202,10 @@ export const TABLES = [
                 {
                   "tuan": 7,
                   "tkbId": "6a85204380b526f2ae2820a4"
+                },
+                {
+                  "tuan": 8,
+                  "tkbId": "6a92acc4c1c68ea35f3b53b2"
                 }
               ],
               "loaiHinhHocTap": "Lý thuyết",
@@ -355313,11 +357213,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 37,
+              "tietKetThuc": 72,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "08:00",
               "gioKetThuc": "10:59",
               "id": "4",
+              "danhSachTuanStr": "5,6,7,8",
               "nhanSu": {
                 "hoDem": "Giáp Thị Thanh",
                 "ten": "Tình",
@@ -355346,10 +357249,6 @@ export const TABLES = [
             {
               "danhSachTuan": [
                 {
-                  "tuan": 8,
-                  "tkbId": "6a92acc4c1c68ea35f3b53b2"
-                },
-                {
                   "tuan": 9,
                   "tkbId": "6a8483e32db09dc372be40c1"
                 },
@@ -355363,11 +357262,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
               "id": "5",
+              "danhSachTuanStr": "9,10",
               "nhanSu": {
                 "hoDem": "Giáp Thị Thanh",
                 "ten": "Tình",
@@ -355447,7 +357349,7 @@ export const TABLES = [
           "trangThaiAnDinhHocPhiNhuCau": "Pending",
           "khoaPhanLhc": true,
           "listTaiLieu": null,
-          "syncSessionId": "HqNLl0Was69qW62ZlBT4i",
+          "syncSessionId": "YROOkry0bAV01n4G7kwsV",
           "urlFileKy": null,
           "idFileKy": null,
           "trinhKy": null,
@@ -355470,12 +357372,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "3fea9468-6a43-41e0-adfc-6bb2dc3b2a7a",
-          "updatedByUsername": "hang.tt@vinuni.edu.vn",
+          "updatedById": "87a46b12-0845-47c9-9108-6eb6c59903ed",
+          "updatedByUsername": "dat.dt2@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-18T16:10:11.610Z",
-          "updatedAt": "2026-08-29T09:56:25.020Z",
+          "updatedAt": "2026-09-04T10:26:37.161Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -355560,9 +357462,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8483e32db09dc372be40c8",
@@ -355611,6 +357512,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -355823,31 +357726,30 @@ export const TABLES = [
             {
               "hinhThucGiangDay": "Trực tiếp",
               "nhanSuSsoId": "tinh.gtt@vinuni.edu.vn",
-              "tietBatDau": 31,
-              "tietKetThuc": 144,
-              "thoiGianBatDau": "2026-10-07T00:30:00.000Z",
-              "thoiGianKetThuc": "2026-10-07T09:59:00.000Z",
+              "tietBatDau": 37,
+              "tietKetThuc": 72,
+              "thoiGianBatDau": "2026-10-06T01:00:00.000Z",
+              "thoiGianKetThuc": "2026-10-06T03:59:00.000Z",
               "loaiHinhHocTap": "Lý thuyết",
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
-              "ngay": "2026-10-07",
+              "ngay": "2026-10-06",
               "_id": "6a92acc4c1c68ea35f3b53b1"
             },
             {
               "hinhThucGiangDay": "Trực tiếp",
               "nhanSuSsoId": "tinh.gtt@vinuni.edu.vn",
-              "tietBatDau": 31,
-              "tietKetThuc": 144,
-              "thoiGianBatDau": "2026-10-08T00:30:00.000Z",
-              "thoiGianKetThuc": "2026-10-08T09:59:00.000Z",
+              "tietBatDau": 37,
+              "tietKetThuc": 72,
+              "thoiGianBatDau": "2026-10-09T01:00:00.000Z",
+              "thoiGianKetThuc": "2026-10-09T03:59:00.000Z",
               "loaiHinhHocTap": "Lý thuyết",
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
-              "ngay": "2026-10-08",
+              "ngay": "2026-10-09",
               "_id": "6a92acc4c1c68ea35f3b53b2"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -356035,11 +357937,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 144,
               "soTiet": 42,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,10",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -356085,11 +357990,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 84,
               "soTiet": 42,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "08:30",
               "gioKetThuc": "11:59",
               "id": "1",
+              "danhSachTuanStr": "6,7,8",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -356135,11 +358043,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 84,
               "soTiet": 42,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "08:30",
               "gioKetThuc": "11:59",
               "id": "2",
+              "danhSachTuanStr": "6,7,8",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -356181,11 +358092,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 43,
+              "tietKetThuc": 84,
               "soTiet": 42,
               "thu": 6,
+              "thuStr": "7",
               "gioBatDau": "08:30",
               "gioKetThuc": "11:59",
               "id": "3",
+              "danhSachTuanStr": "8,10",
               "nhanSu": {
                 "hoDem": "Nguyễn Hoàng",
                 "ten": "Long",
@@ -356240,7 +358154,7 @@ export const TABLES = [
           "trangThaiDuyetGiangDay": "Đang xử lý",
           "maHocPhanHocKy": "NURS4341|20261",
           "chotKeHoach": true,
-          "chotTkb": false,
+          "chotTkb": true,
           "khoaTkb": false,
           "xepTkb": true,
           "trangThaiLop": "Mở",
@@ -356265,7 +358179,7 @@ export const TABLES = [
           "trangThaiAnDinhHocPhiNhuCau": "Pending",
           "khoaPhanLhc": true,
           "listTaiLieu": null,
-          "syncSessionId": "iQJA1hpdYnGDXRtqGkEYT",
+          "syncSessionId": "ObRX4WS6qKHUn8MA9wO0T",
           "urlFileKy": null,
           "idFileKy": null,
           "trinhKy": null,
@@ -356288,12 +358202,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": "fcbbe6f9-c578-44b1-91f5-6c17ec77f5ba",
           "createdByUsername": "khanh.pq@vinuni.edu.vn",
-          "updatedById": "a0b6fa21-f135-4d40-94b8-42b998081b94",
-          "updatedByUsername": "25mi.bmh@vinuni.edu.vn",
+          "updatedById": "87a46b12-0845-47c9-9108-6eb6c59903ed",
+          "updatedByUsername": "dat.dt2@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-18T16:13:26.669Z",
-          "updatedAt": "2026-08-28T08:26:52.424Z",
+          "updatedAt": "2026-09-04T10:30:59.127Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -356378,9 +358292,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a8484a67246ef3bccc60e1d",
@@ -356429,6 +358342,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -356586,8 +358501,7 @@ export const TABLES = [
               "ngay": "2026-10-24",
               "_id": "6a8484a67246ef3bccc60e1b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -356810,11 +358724,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "14,15,16"
             },
             {
               "danhSachTuan": [
@@ -356840,11 +358757,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
-              "id": "1"
+              "id": "1",
+              "danhSachTuanStr": "13,14,15,16"
             },
             {
               "danhSachTuan": [
@@ -356862,11 +358782,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "2"
+              "id": "2",
+              "danhSachTuanStr": "17,18"
             },
             {
               "danhSachTuan": [
@@ -356884,11 +358807,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "3"
+              "id": "3",
+              "danhSachTuanStr": "17,18"
             },
             {
               "danhSachTuan": [
@@ -356906,11 +358832,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "4"
+              "id": "4",
+              "danhSachTuanStr": "17,18"
             },
             {
               "danhSachTuan": [
@@ -356928,11 +358857,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 31,
+              "tietKetThuc": 144,
               "soTiet": 114,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "07:30",
               "gioKetThuc": "16:59",
-              "id": "5"
+              "id": "5",
+              "danhSachTuanStr": "17,18"
             }
           ],
           "thoiGianNhapDiem": {
@@ -357101,9 +359033,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7f37b1a96069bd919104ba",
@@ -357128,6 +359059,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T15:43:45.857Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -357324,8 +359257,7 @@ export const TABLES = [
               "ngay": "2026-12-18",
               "_id": "6a7f37b1a96069bd919104b8"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -357596,11 +359528,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -357769,9 +359704,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f034",
@@ -357796,6 +359730,8 @@ export const TABLES = [
               "updatedAt": "2026-08-14T03:28:34.444Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -357992,8 +359928,7 @@ export const TABLES = [
               "ngay": "2026-12-28",
               "_id": "6a7fe4009d2ce3fdefd812d3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -358264,11 +360199,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Nguyễn Thu",
                 "ten": "Giang",
@@ -358461,9 +360399,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f07c",
@@ -358512,6 +360449,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -358708,8 +360647,7 @@ export const TABLES = [
               "ngay": "2026-12-29",
               "_id": "6a7fe4039d2ce3fdefd8147d"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -358980,11 +360918,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Mishra Anant",
                 "ten": "Abhijit",
@@ -359177,9 +361118,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b63a96069bd9190f07f",
@@ -359228,6 +361168,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -359424,8 +361366,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe4039d2ce3fdefd8148e"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -359696,11 +361637,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -359869,9 +361813,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4019d2ce3fdefd8134d",
@@ -359896,6 +361839,8 @@ export const TABLES = [
               "updatedAt": "2026-08-15T03:58:57.570Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -360092,8 +362037,7 @@ export const TABLES = [
               "ngay": "2026-12-30",
               "_id": "6a7fe4019d2ce3fdefd8134b"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -360364,11 +362308,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -360537,9 +362484,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7fe4019d2ce3fdefd8135f",
@@ -360564,6 +362510,8 @@ export const TABLES = [
               "updatedAt": "2026-08-15T03:58:57.660Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -360760,8 +362708,7 @@ export const TABLES = [
               "ngay": "2026-12-31",
               "_id": "6a7fe4019d2ce3fdefd8135d"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -361227,11 +363174,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trần Thị",
                 "ten": "Mai",
@@ -361325,11 +363275,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trần Thị",
                 "ten": "Mai",
@@ -361522,9 +363475,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d02877a",
@@ -361573,6 +363525,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -361964,8 +363918,7 @@ export const TABLES = [
               "ngay": "2026-12-21",
               "_id": "6a91366a913ad686bcfac0b3"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -362431,11 +364384,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trần Thị",
                 "ten": "Mai",
@@ -362529,11 +364485,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trần Thị",
                 "ten": "Mai",
@@ -362726,9 +364685,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d02879c",
@@ -362777,6 +364735,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -363168,8 +365128,7 @@ export const TABLES = [
               "ngay": "2026-12-22",
               "_id": "6a9136a94652ee3d2e5ddb99"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -363635,11 +365594,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trần Thị",
                 "ten": "Mai",
@@ -363733,11 +365695,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "1",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
               "nhanSu": {
                 "hoDem": "Trần Thị",
                 "ten": "Mai",
@@ -363930,9 +365895,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e78be58a0c27d5d0287be",
@@ -363981,6 +365945,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -364372,8 +366338,7 @@ export const TABLES = [
               "ngay": "2026-12-23",
               "_id": "6a9136e9285edb4340ca5524"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -364661,11 +366626,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 61,
+              "tietKetThuc": 82,
               "soTiet": 22,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "10:00",
               "gioKetThuc": "11:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Spektor Mikhail",
                 "ten": "Sergeevic",
@@ -364858,9 +366826,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae28218c",
@@ -364909,6 +366876,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -365118,8 +367087,7 @@ export const TABLES = [
               "ngay": "2026-09-22",
               "_id": "6a85680280b526f2ae28217d"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -365407,11 +367375,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Spektor Mikhail",
                 "ten": "Sergeevic",
@@ -365604,9 +367575,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae28219f",
@@ -365655,6 +367625,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -365864,8 +367836,7 @@ export const TABLES = [
               "ngay": "2026-11-10",
               "_id": "6a85680280b526f2ae282197"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -366153,11 +368124,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Spektor Mikhail",
                 "ten": "Sergeevic",
@@ -366350,9 +368324,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821b2",
@@ -366401,6 +368374,8 @@ export const TABLES = [
               }
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -366610,8 +368585,7 @@ export const TABLES = [
               "ngay": "2027-01-06",
               "_id": "6a8573627246ef3bccc612f0"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -366899,11 +368873,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -367072,9 +369049,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821c5",
@@ -367099,6 +369075,8 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.059Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -367308,8 +369286,7 @@ export const TABLES = [
               "ngay": "2026-11-27",
               "_id": "6a85680380b526f2ae2821bf"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -367597,11 +369574,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -367770,9 +369750,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821d8",
@@ -367797,6 +369776,8 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.116Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -368006,8 +369987,7 @@ export const TABLES = [
               "ngay": "2026-10-07",
               "_id": "6a85680380b526f2ae2821cb"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         },
         {
           "thoiKhoaBieuList": [
@@ -368295,11 +370275,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21"
             }
           ],
           "thoiGianNhapDiem": {
@@ -368468,9 +370451,8 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "children": [],
-          "lopHpHcList": [],
           "listLopHpKn": [],
+          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821eb",
@@ -368495,6 +370477,8 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.171Z"
             }
           ],
+          "thoiKhoaBieuGhepList": [],
+          "children": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -368704,8 +370688,7 @@ export const TABLES = [
               "ngay": "2026-11-19",
               "_id": "6a85680380b526f2ae2821e4"
             }
-          ],
-          "thoiKhoaBieuGhepList": []
+          ]
         }
       ]
     }
@@ -369004,11 +370987,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
               "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "David Stewart",
                 "ten": "Barron",
@@ -369201,8 +371187,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae2821fe",
@@ -369251,7 +371235,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -369750,11 +371736,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 61,
+              "tietKetThuc": 94,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:00",
               "gioKetThuc": "12:49",
-              "id": "0"
+              "id": "0",
+              "danhSachTuanStr": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"
             }
           ],
           "thoiGianNhapDiem": {
@@ -369923,8 +371912,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282211",
@@ -369949,7 +371936,9 @@ export const TABLES = [
               "updatedAt": "2026-08-19T08:23:31.289Z"
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -370448,11 +372437,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 136,
               "soTiet": 34,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
               "nhanSu": {
                 "hoDem": "Claire",
                 "ten": "Hardy",
@@ -370645,8 +372637,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680380b526f2ae282224",
@@ -370695,7 +372685,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -371079,10 +373071,10 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [],
           "thoiKhoaBieuGhepList": []
         },
@@ -371406,11 +373398,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 61,
+              "tietKetThuc": 94,
               "soTiet": 34,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "10:00",
               "gioKetThuc": "12:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Lê Duy",
                 "ten": "Anh",
@@ -371603,8 +373598,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae2820fb",
@@ -371653,7 +373646,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -372212,11 +374207,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 61,
+              "tietKetThuc": 94,
               "soTiet": 34,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "10:00",
               "gioKetThuc": "12:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Lê Duy",
                 "ten": "Anh",
@@ -372409,8 +374407,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a85680280b526f2ae282110",
@@ -372459,7 +374455,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -372967,11 +374965,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đỗ Bảo",
                 "ten": "Linh",
@@ -373019,7 +375020,7 @@ export const TABLES = [
           "maHocPhan": "STAT2020",
           "soThuTuNhom": null,
           "soThuTuLop": "1",
-          "siSo": 31,
+          "siSo": 32,
           "fullAt": null,
           "siSoKeHoach": null,
           "siSoToiDa": 40,
@@ -373074,12 +375075,12 @@ export const TABLES = [
           "dataPartitionCode": null,
           "createdById": null,
           "createdByUsername": null,
-          "updatedById": "dbd24b0d-1a9f-4c89-a0ab-f15a0abd875a",
-          "updatedByUsername": "23bach.nnh@vinuni.edu.vn",
+          "updatedById": "ff22ebf5-65bf-4dbe-b96b-14f6b4d610d3",
+          "updatedByUsername": "23hung.lm@vinuni.edu.vn",
           "deletedById": null,
           "deletedByUsername": null,
           "createdAt": "2026-08-12T03:50:52.161Z",
-          "updatedAt": "2026-09-03T06:34:15.647Z",
+          "updatedAt": "2026-09-04T08:28:51.885Z",
           "lopHanhChinhId": null,
           "dotHuyId": null,
           "dotDangKyNhuCauId": null,
@@ -373164,8 +375165,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f01c",
@@ -373214,7 +375213,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -373683,11 +375684,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 84,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "09:00",
               "gioKetThuc": "11:59",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đỗ Bảo",
                 "ten": "Linh",
@@ -373880,8 +375884,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f01f",
@@ -373930,7 +375932,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -374399,11 +376403,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 138,
               "soTiet": 36,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "13:30",
               "gioKetThuc": "16:29",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
               "nhanSu": {
                 "hoDem": "Đỗ Bảo",
                 "ten": "Linh",
@@ -374596,8 +376603,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b62a96069bd9190f022",
@@ -374646,7 +376651,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -375166,11 +377173,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Michael John",
                 "ten": "Clark",
@@ -375363,8 +377373,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef18",
@@ -375413,7 +377421,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -375972,11 +377982,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 49,
+              "tietKetThuc": 70,
               "soTiet": 22,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "09:00",
               "gioKetThuc": "10:49",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Collin",
                 "ten": "James",
@@ -376169,8 +378182,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef1b",
@@ -376219,7 +378230,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -376778,11 +378791,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 103,
+              "tietKetThuc": 124,
               "soTiet": 22,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "13:30",
               "gioKetThuc": "15:19",
               "id": "0",
+              "danhSachTuanStr": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Tyler Dalton",
                 "ten": "McNabb",
@@ -376975,8 +378991,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ca96069bd9190ef1e",
@@ -377025,7 +379039,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -377550,11 +379566,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 19,
+              "tietKetThuc": 27,
               "soTiet": 9,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "06:30",
               "gioKetThuc": "07:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -377747,8 +379766,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef66",
@@ -377797,7 +379814,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -378296,11 +380315,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 19,
+              "tietKetThuc": 27,
               "soTiet": 9,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "06:30",
               "gioKetThuc": "07:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -378493,8 +380515,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef69",
@@ -378543,7 +380563,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -379042,11 +381064,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 19,
+              "tietKetThuc": 27,
               "soTiet": 9,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "06:30",
               "gioKetThuc": "07:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -379239,8 +381264,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef6c",
@@ -379289,7 +381312,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -379788,11 +381813,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -379985,8 +382013,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef42",
@@ -380035,7 +382061,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -380534,11 +382562,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 172,
+              "tietKetThuc": 189,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "19:15",
               "gioKetThuc": "20:44",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -380731,8 +382762,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef45",
@@ -380781,7 +382810,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -381280,11 +383311,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -381477,8 +383511,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef48",
@@ -381527,7 +383559,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -382026,11 +384060,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 19,
+              "tietKetThuc": 27,
               "soTiet": 9,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "06:30",
               "gioKetThuc": "07:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -382223,8 +384260,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef5d",
@@ -382273,7 +384308,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -382772,11 +384809,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 19,
+              "tietKetThuc": 27,
               "soTiet": 9,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "06:30",
               "gioKetThuc": "07:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -382969,8 +385009,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef60",
@@ -383019,7 +385057,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -383518,11 +385558,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 19,
+              "tietKetThuc": 27,
               "soTiet": 9,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "06:30",
               "gioKetThuc": "07:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -383715,8 +385758,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef63",
@@ -383765,7 +385806,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -384264,11 +386307,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -384461,8 +386507,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efa2",
@@ -384511,7 +386555,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -385010,11 +387056,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -385207,8 +387256,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efa5",
@@ -385257,7 +387304,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -385756,11 +387805,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -385953,8 +388005,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efa8",
@@ -386003,7 +388053,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -386502,11 +388554,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -386699,8 +388754,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef90",
@@ -386749,7 +388802,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -387248,11 +389303,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 172,
+              "tietKetThuc": 189,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "19:15",
               "gioKetThuc": "20:44",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -387445,8 +389503,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef93",
@@ -387495,7 +389551,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -387994,11 +390052,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -388191,8 +390252,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef96",
@@ -388241,7 +390300,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -388740,11 +390801,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 10,
+              "tietKetThuc": 18,
               "soTiet": 9,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "05:45",
               "gioKetThuc": "06:29",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -388937,8 +391001,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef81",
@@ -388987,7 +391049,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -389486,11 +391550,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 10,
+              "tietKetThuc": 18,
               "soTiet": 9,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "05:45",
               "gioKetThuc": "06:29",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -389683,8 +391750,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef84",
@@ -389733,7 +391798,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -390232,11 +392299,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 145,
+              "tietKetThuc": 162,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "17:00",
               "gioKetThuc": "18:29",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -390429,8 +392499,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef99",
@@ -390479,7 +392547,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -390978,11 +393048,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 163,
+              "tietKetThuc": 180,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "18:30",
               "gioKetThuc": "19:59",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -391175,8 +393248,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef9c",
@@ -391225,7 +393296,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -391724,11 +393797,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 145,
+              "tietKetThuc": 162,
               "soTiet": 18,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "17:00",
               "gioKetThuc": "18:29",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -391921,8 +393997,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190ef9f",
@@ -391971,7 +394045,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -392470,11 +394546,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -392667,8 +394746,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef54",
@@ -392717,7 +394794,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -393216,11 +395295,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -393413,8 +395495,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef57",
@@ -393463,7 +395543,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -393962,11 +396044,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -394159,8 +396244,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef5a",
@@ -394209,7 +396292,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -394708,11 +396793,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -394905,8 +396993,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef87",
@@ -394955,7 +397041,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -395454,11 +397542,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -395651,8 +397742,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef8a",
@@ -395701,7 +397790,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -396200,11 +398291,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 172,
+              "tietKetThuc": 189,
               "soTiet": 18,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "19:15",
               "gioKetThuc": "20:44",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -396397,8 +398491,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef8d",
@@ -396447,7 +398539,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -396946,11 +399040,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -397143,8 +399240,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef6f",
@@ -397193,7 +399288,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -397692,11 +399789,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 172,
+              "tietKetThuc": 189,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "19:15",
               "gioKetThuc": "20:44",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -397889,8 +399989,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef72",
@@ -397939,7 +400037,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -398438,11 +400538,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 5,
+              "thuStr": "6",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -398635,8 +400738,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef75",
@@ -398685,7 +400786,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -399184,11 +401287,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -399381,8 +401487,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef78",
@@ -399431,7 +401535,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -399930,11 +402036,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -400127,8 +402236,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef7b",
@@ -400177,7 +402284,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -400676,11 +402785,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -400873,8 +402985,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5ea96069bd9190ef7e",
@@ -400923,7 +403033,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -401422,11 +403534,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 1,
+              "thuStr": "2",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -401619,8 +403734,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef4b",
@@ -401669,7 +403782,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -402168,11 +404283,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 2,
+              "thuStr": "3",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -402365,8 +404483,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef4e",
@@ -402415,7 +404531,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -402914,11 +405032,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 3,
+              "thuStr": "4",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -403111,8 +405232,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5da96069bd9190ef51",
@@ -403161,7 +405280,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -403660,11 +405781,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 154,
+              "tietKetThuc": 171,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "17:45",
               "gioKetThuc": "19:14",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -403857,8 +405981,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efab",
@@ -403907,7 +406029,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
@@ -404406,11 +406530,14 @@ export const TABLES = [
               "maNhomTietHoc": "FALL26",
               "phongHoc": null,
               "tietBatDau": 172,
+              "tietKetThuc": 189,
               "soTiet": 18,
               "thu": 4,
+              "thuStr": "5",
               "gioBatDau": "19:15",
               "gioKetThuc": "20:44",
               "id": "0",
+              "danhSachTuanStr": "8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23",
               "nhanSu": {
                 "hoDem": "Trịnh Thị Thúy",
                 "ten": "Liên",
@@ -404603,8 +406730,6 @@ export const TABLES = [
             "updatedAt": "2026-08-19T08:05:04.394Z",
             "maNhomTietHoc": null
           },
-          "listLopHpKn": [],
-          "lopHpHcList": [],
           "nhanSuList": [
             {
               "_id": "6a7e8b5fa96069bd9190efae",
@@ -404653,7 +406778,9 @@ export const TABLES = [
               }
             }
           ],
+          "lopHpHcList": [],
           "children": [],
+          "listLopHpKn": [],
           "thoiKhoaBieuGocList": [
             {
               "hinhThucGiangDay": "Trực tiếp",
